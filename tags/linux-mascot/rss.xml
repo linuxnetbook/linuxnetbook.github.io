@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel><title>Tags » Linux Mascot</title>
+    <link>http://www.linux-netbook.com</link>
+    <description>Tags » Linux Mascot</description>
+    <lastBuildDate>Tue, 27 Dec 2016 17:54:24 </lastBuildDate>
+    <generator>Logya</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Linux - Journey of the Penguin]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/video/linux-journey-of-the-penguin/]]></link>
+        <description><![CDATA[Last weeks episode of German tv show neues from tv station 3Sat was a special about Linux called Linux - die Reise des Pinguins. I just watched it and want to]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/video/linux-journey-of-the-penguin/]]></guid>
+        <pubDate>Sun, 22 Mar 2009 21:47:09 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Tasmanian Devil Committed to Linux Kernel]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/video/tasmanian-devil-committed-to-linux-kernel/]]></link>
+        <description><![CDATA[Last Monday Linus Torvalds did a commit to replace the Linux mascot Tux with Tuz in the Linux kernel version 2.6.29. Tuz will be the mascot in this release to]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/video/tasmanian-devil-committed-to-linux-kernel/]]></guid>
+        <pubDate>Wed, 18 Mar 2009 12:26:43 </pubDate>
+    </item>
+    
+</channel></rss>

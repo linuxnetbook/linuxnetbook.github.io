@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel><title>Tags » Lego</title>
+    <link>http://www.linux-netbook.com</link>
+    <description>Tags » Lego</description>
+    <lastBuildDate>Tue, 27 Dec 2016 17:54:24 </lastBuildDate>
+    <generator>Logya</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Introducing the LEGO Netbook]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/video/introducing-the-lego-netbook/]]></link>
+        <description><![CDATA[The LEGO netbook is a low power consuming and energy efficient netbook. It is extremely robust and can be disassembled and reassembled without a known limit.]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/video/introducing-the-lego-netbook/]]></guid>
+        <pubDate>Fri, 14 Aug 2009 22:08:44 </pubDate>
+    </item>
+    
+</channel></rss>

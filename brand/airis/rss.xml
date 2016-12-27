@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel><title>Brand » Airis</title>
+    <link>http://www.linux-netbook.com</link>
+    <description>Brand » Airis</description>
+    <lastBuildDate>Tue, 27 Dec 2016 17:54:24 </lastBuildDate>
+    <generator>Logya</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[AIRIS KIRA 700]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/airis-kira-700/]]></link>
+        <description><![CDATA[The KIRA 700 by Spanish manufacturer AIRIS is a pretty standard netbook when it comes to hardware specs.]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/airis-kira-700/]]></guid>
+        <pubDate>Wed, 30 Sep 2009 12:31:19 </pubDate>
+    </item>
+    
+</channel></rss>

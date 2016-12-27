@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel><title>Linux Distribution » Ubuntu Netbook Remix</title>
+    <link>http://www.linux-netbook.com</link>
+    <description>Linux Distribution » Ubuntu Netbook Remix</description>
+    <lastBuildDate>Tue, 27 Dec 2016 17:54:24 </lastBuildDate>
+    <generator>Logya</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[System76 Starling Netbook v2]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/system76-starling-netbook-v2/]]></link>
+        <description><![CDATA[Linux system builder System76 created a successor to their 1st generation Starling netbook.]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/system76-starling-netbook-v2/]]></guid>
+        <pubDate>Tue, 27 Jul 2010 22:56:27 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[System76 Starling EduBook]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/system76-starling-edubook/]]></link>
+        <description><![CDATA[A year after launching the 1st version of the Starling Netbook, Linux system builder System76 comes up with a new small laptop targeted at students.]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/system76-starling-edubook/]]></guid>
+        <pubDate>Mon, 19 Apr 2010 23:25:26 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Simmtronics Simmbook]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/simmtronics-simmbook/]]></link>
+        <description><![CDATA[The Simmbook by Indian manufacturer Simmtronics is a 10 inch screen netbook equipped with an 1.6 GHz Intel Atom N270 processor, 1GB RAM, 160GB HDD, a 1.3 megapixel camera.]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/simmtronics-simmbook/]]></guid>
+        <pubDate>Mon, 29 Mar 2010 22:33:00 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[ZaReason Teo]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/zareason-teo/]]></link>
+        <description><![CDATA[The ZaReason Teo, that I just discovered on Amazon.com, looks like the successor of the Terra A20, which was the first netbook by ZaReason.]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/zareason-teo/]]></guid>
+        <pubDate>Wed, 24 Mar 2010 01:21:00 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Installing Ubuntu Netbook Remix on ASUS Eee PC 1001HA]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/video/installing-ubuntu-netbook-remix-on-asus-eee-pc-1001ha/]]></link>
+        <description><![CDATA[Here is another tutorial style video from the OSGUI Tech Show showing the installation of Ubuntu Netbook Remix 9.10 on an ASUS Eee PC 1001HA netbook from a USB]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/video/installing-ubuntu-netbook-remix-on-asus-eee-pc-1001ha/]]></guid>
+        <pubDate>Wed, 10 Feb 2010 21:15:16 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[How to Install Ubuntu Netbook Remix 9.10 Screencast]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/video/how-to-install-ubuntu-netbook-remix-910-screencast/]]></link>
+        <description><![CDATA[This screencast tutorial from the OSGUI Tech Show shows how to install Ubuntu Netbook Remix 9.10. Tim takes you through the installation steps and after]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/video/how-to-install-ubuntu-netbook-remix-910-screencast/]]></guid>
+        <pubDate>Mon, 01 Feb 2010 23:29:48 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Beginner Intro to Ubuntu Netbook Remix]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/video/beginner-intro-to-ubuntu-netbook-remix/]]></link>
+        <description><![CDATA[If you are new to Ubuntu Netbook Remix this video will give you a basic overview and a few customization tips to get started with version 9.10 of this popular]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/video/beginner-intro-to-ubuntu-netbook-remix/]]></guid>
+        <pubDate>Sun, 10 Jan 2010 00:31:34 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Ubuntu Netbook Remix 9.10 on a Lenovo S10]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/video/ubuntu-netbook-remix-910-on-a-lenovo-s10/]]></link>
+        <description><![CDATA[In this video Marina from Marina's Bloggariffic reviews Ubuntu Netbook Remix Karmic Koala on her Lenovo Ideapad S10 netbook.]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/video/ubuntu-netbook-remix-910-on-a-lenovo-s10/]]></guid>
+        <pubDate>Sun, 13 Dec 2009 17:32:58 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Urban Terror on Starling Netbook with UNR 9.10]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/video/urban-terror-on-starling-netbook-with-unr-910/]]></link>
+        <description><![CDATA[This video is a short demonstration of the free multiplayer first person shooter Urban Terror being played on System76's Starling netbook. The netbook which]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/video/urban-terror-on-starling-netbook-with-unr-910/]]></guid>
+        <pubDate>Tue, 03 Nov 2009 21:50:29 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Moblin Demos at IDF 2009]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/video/moblin-demos-at-idf-2009/]]></link>
+        <description><![CDATA[At the end of September the Intel Developer Forum 2009 took place in San Francisco, an event where Intel introduces new hardware and software technolgies and]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/video/moblin-demos-at-idf-2009/]]></guid>
+        <pubDate>Wed, 07 Oct 2009 22:29:02 </pubDate>
+    </item>
+    
+</channel></rss>

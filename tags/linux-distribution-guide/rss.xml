@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel><title>Tags » Linux Distribution Guide</title>
+    <link>http://www.linux-netbook.com</link>
+    <description>Tags » Linux Distribution Guide</description>
+    <lastBuildDate>Tue, 27 Dec 2016 17:54:24 </lastBuildDate>
+    <generator>Logya</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Tips and Tools to Choose or Build the Right Linux Distro for You]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/tips-and-tools-to-choose-or-build-the-right-linux-distro-for-you/]]></link>
+        <description><![CDATA[This article contains tips and points to further resources to guide new users in choosing the right Linux distribution.]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/tips-and-tools-to-choose-or-build-the-right-linux-distro-for-you/]]></guid>
+        <pubDate>Fri, 13 Apr 2012 14:37:47 </pubDate>
+    </item>
+    
+</channel></rss>

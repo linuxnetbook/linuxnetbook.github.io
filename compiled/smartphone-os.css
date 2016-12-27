@@ -1,0 +1,16 @@
+.charts h2 {
+  font-size: 1.3em;
+  margin-top: 0.4em;
+}
+
+.main-chart {
+  min-height: 340px;
+}
+
+.small-chart {
+  min-height: 280px;
+}
+
+h3 {
+  font-size: 1.3em;
+}

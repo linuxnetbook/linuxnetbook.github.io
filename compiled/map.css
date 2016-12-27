@@ -1,0 +1,19 @@
+text {
+  fill: #444444;
+  font-size: 13px;
+}
+
+.country {
+  fill: #eeeeee;
+  stroke: #bbbbbb;
+  stroke-width: 1px;
+}
+
+.boundary {
+  fill: none;
+}
+
+rect {
+  stroke: #bbbbbb;
+  stroke-width: 0.5px;
+}

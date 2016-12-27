@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel><title>Tags » Statistics</title>
+    <link>http://www.linux-netbook.com</link>
+    <description>Tags » Statistics</description>
+    <lastBuildDate>Tue, 27 Dec 2016 17:54:24 </lastBuildDate>
+    <generator>Logya</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[How Many Requests get uBlocked on 50 of the Most Linked Domains]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/ublock-top-domains/]]></link>
+        <description><![CDATA[A look at the number of blocked requests for 50 of the top domains based on mozRank.]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/ublock-top-domains/]]></guid>
+        <pubDate>Sat, 20 Jun 2015 23:53:33 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Chromebook Sales still have a lot of Potential]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/chromebook-sales-potential/]]></link>
+        <description><![CDATA[Recent market research predicts that Chromebook sales will increase by 27 percent in 2015, an impressive number but with room upwards.]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/chromebook-sales-potential/]]></guid>
+        <pubDate>Thu, 21 May 2015 23:47:08 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Chromebook Statistics: Models by Brand, Year and Specs Distributions]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/statistics/chromebooks/]]></link>
+        <description><![CDATA[This page shows statistics for all Chromebooks in the Linux-Netbook.com database. These statistics are updated automatically every time a new Chromebook is added.]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/statistics/chromebooks/]]></guid>
+        <pubDate>Thu, 19 Mar 2015 00:56:54 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Smartphone Operating System Market Share Visualization]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/smartphone-os-market-share/]]></link>
+        <description><![CDATA[These data visualizations show the market share distribution for major smartphone operating systems since 2007. The data only includes operating systems on sold devices marketed as smartphones.]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/smartphone-os-market-share/]]></guid>
+        <pubDate>Thu, 27 Mar 2014 00:44:02 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Which Domains Contribute Most to the Linux Kernel?]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/top-domains-by-linux-kernel-commits/]]></link>
+        <description><![CDATA[A bar graph showing the top 30 Internet domains by count of commits to the Linux kernel. The domains were extracted from author email addresses.]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/top-domains-by-linux-kernel-commits/]]></guid>
+        <pubDate>Fri, 28 Feb 2014 13:57:21 </pubDate>
+    </item>
+    
+</channel></rss>

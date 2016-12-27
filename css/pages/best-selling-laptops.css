@@ -1,0 +1,9 @@
+#vis-options {margin-top: 1em;}
+#scatter .nv-point-paths path {cursor: pointer;}
+#scatter .nvd3.nv-scatter .nv-groups .nv-point {
+  fill-opacity: .7;
+}
+#bars h3 {font-size:1.4em;}
+#bars rect {fill: steelblue; fill-opacity: .7; cursor: pointer;}
+#bars image {cursor: pointer;}
+#bars .bar {height: 280px;}

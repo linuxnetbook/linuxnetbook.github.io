@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel><title>Tags » Video Discusssion</title>
+    <link>http://www.linux-netbook.com</link>
+    <description>Tags » Video Discusssion</description>
+    <lastBuildDate>Tue, 27 Dec 2016 17:54:24 </lastBuildDate>
+    <generator>Logya</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Ubuntu Desktop Coming to Android Devices]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/video/ubuntu-desktop-coming-to-android-devices/]]></link>
+        <description><![CDATA[Canonical has been working on bringing Android together with the Ubuntu desktop to create the killer app for multi-core phones in 2012 with both systems sharing]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/video/ubuntu-desktop-coming-to-android-devices/]]></guid>
+        <pubDate>Wed, 22 Feb 2012 14:37:44 </pubDate>
+    </item>
+    
+</channel></rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel><title>Linux Distribution » Puppy Linux</title>
+    <link>http://www.linux-netbook.com</link>
+    <description>Linux Distribution » Puppy Linux</description>
+    <lastBuildDate>Tue, 27 Dec 2016 17:54:24 </lastBuildDate>
+    <generator>Logya</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Linux Mint 8 on the Gecko Edubook]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/video/linux-mint-8-on-the-gecko-edubook/]]></link>
+        <description><![CDATA[This is a short demo of Linux Mint 8 running on the Gecko Edubook. For a full-blown OS like Linux Mint, which required 8.5GB disk space in the example]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/video/linux-mint-8-on-the-gecko-edubook/]]></guid>
+        <pubDate>Thu, 24 Dec 2009 22:00:13 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Brief Introduction to 9 Linux Distributions]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/video/brief-introduction-to-9-linux-distributions/]]></link>
+        <description><![CDATA[Shawn Powers of Linux Journal briefly introduces 9 Linux distributions in about 6 minutes. He starts with 5 tiny Linux distros, which are well suited for low]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/video/brief-introduction-to-9-linux-distributions/]]></guid>
+        <pubDate>Tue, 03 Mar 2009 00:34:21 </pubDate>
+    </item>
+    
+</channel></rss>

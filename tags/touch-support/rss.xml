@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel><title>Tags » Touch Support</title>
+    <link>http://www.linux-netbook.com</link>
+    <description>Tags » Touch Support</description>
+    <lastBuildDate>Tue, 27 Dec 2016 17:54:24 </lastBuildDate>
+    <generator>Logya</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Multitouch in Ubuntu Unity with uTouch]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/video/multitouch-in-ubuntu-unity-with-utouch/]]></link>
+        <description><![CDATA[This video from the Ubuntu Developers channel demonstrates multitouch capabilities provided by the uTouch gesture framework in Ubuntu Unity.]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/video/multitouch-in-ubuntu-unity-with-utouch/]]></guid>
+        <pubDate>Thu, 14 Oct 2010 20:50:41 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Jolicloud Touch Support on the Samsung NB30]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/video/jolicloud-touch-support-on-the-samsung-nb30/]]></link>
+        <description><![CDATA[This short video demoes touch support in Jolicloud 1.0 on the Samsung NB30 netbook. You get a sense of how to navigate and start applications as well as]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/video/jolicloud-touch-support-on-the-samsung-nb30/]]></guid>
+        <pubDate>Mon, 14 Jun 2010 23:25:28 </pubDate>
+    </item>
+    
+</channel></rss>

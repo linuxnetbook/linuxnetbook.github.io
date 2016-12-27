@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel><title>Brand » Sector 5</title>
+    <link>http://www.linux-netbook.com</link>
+    <description>Brand » Sector 5</description>
+    <lastBuildDate>Tue, 27 Dec 2016 17:54:24 </lastBuildDate>
+    <generator>Logya</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Sector 5 E1 Rugged Chromebook]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/sector-5-e1-chromebook/]]></link>
+        <description><![CDATA[The Sector 5 E1 is a cheap rugged Chromebook targeted at the education market. It is scratch and spill resistant and comes with a carrying handle so you can carry it like a briefcase.]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/sector-5-e1-chromebook/]]></guid>
+        <pubDate>Thu, 26 Nov 2015 15:32:54 </pubDate>
+    </item>
+    
+</channel></rss>

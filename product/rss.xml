@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel><title>Product</title>
+    <link>http://www.linux-netbook.com</link>
+    <description>Product</description>
+    <lastBuildDate>Tue, 27 Dec 2016 17:54:24 </lastBuildDate>
+    <generator>Logya</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Bash Fork Bomb Black T-Shirt]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/product/shirt/bash-fork-bomb-black/]]></link>
+        <description><![CDATA[]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/product/shirt/bash-fork-bomb-black/]]></guid>
+        <pubDate>Mon, 22 Jun 2015 18:07:42 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[COL PANIC - Punny White T-Shirt for Unix/Linux Geeks]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/product/shirt/col-panic-punny-white-shirt/]]></link>
+        <description><![CDATA[]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/product/shirt/col-panic-punny-white-shirt/]]></guid>
+        <pubDate>Mon, 25 May 2015 10:10:51 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[cd /pub more beer Shirt for Command Line Hackers]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/product/shirt/cd-pub-more-beer/]]></link>
+        <description><![CDATA[]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/product/shirt/cd-pub-more-beer/]]></guid>
+        <pubDate>Mon, 25 May 2015 10:03:14 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[There's no place like ~ White Shirt]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/product/shirt/theres-no-place-like-white/]]></link>
+        <description><![CDATA[]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/product/shirt/theres-no-place-like-white/]]></guid>
+        <pubDate>Mon, 25 May 2015 09:59:41 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[May The Fourth Be With You - Dark Geek T-Shirt]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/product/shirt/may-the-fourth-be-with-you/]]></link>
+        <description><![CDATA[]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/product/shirt/may-the-fourth-be-with-you/]]></guid>
+        <pubDate>Mon, 25 May 2015 09:59:41 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[VI VI VI Editor of the Beast]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/product/shirt/vi-vi-vi-editor-of-the-beast/]]></link>
+        <description><![CDATA[]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/product/shirt/vi-vi-vi-editor-of-the-beast/]]></guid>
+        <pubDate>Mon, 25 May 2015 09:54:20 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[May The Source Be With You - Dark Programmer Shirt]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/product/shirt/may-the-source-be-with-you/]]></link>
+        <description><![CDATA[]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/product/shirt/may-the-source-be-with-you/]]></guid>
+        <pubDate>Mon, 25 May 2015 09:53:20 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Bash Fork Bomb Green on Black T-Shirt]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/product/shirt/bash-fork-bomb-green-on-black/]]></link>
+        <description><![CDATA[]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/product/shirt/bash-fork-bomb-green-on-black/]]></guid>
+        <pubDate>Mon, 25 May 2015 09:26:39 </pubDate>
+    </item>
+    
+</channel></rss>

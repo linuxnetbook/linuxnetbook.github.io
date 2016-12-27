@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel><title>Tags » Performance Tweaks</title>
+    <link>http://www.linux-netbook.com</link>
+    <description>Tags » Performance Tweaks</description>
+    <lastBuildDate>Tue, 27 Dec 2016 17:54:24 </lastBuildDate>
+    <generator>Logya</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[How to Improve KDE Plasma Netbook Performance]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/video/how-to-improve-kde-plasma-netbook-performance/]]></link>
+        <description><![CDATA[Marco Martin posted a little how to on improving KDE Plasma Netbook performance and created this video to demonstrate the result of the configuration change he]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/video/how-to-improve-kde-plasma-netbook-performance/]]></guid>
+        <pubDate>Mon, 07 Jun 2010 00:33:06 </pubDate>
+    </item>
+    
+</channel></rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel><title>Tags » Product Announcement</title>
+    <link>http://www.linux-netbook.com</link>
+    <description>Tags » Product Announcement</description>
+    <lastBuildDate>Tue, 27 Dec 2016 17:54:24 </lastBuildDate>
+    <generator>Logya</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[ASUS Eee PCs Running Ubuntu Announced]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/asus-eee-pcs-running-ubuntu-announced/]]></link>
+        <description><![CDATA[It looks as if there is a revival of Linux on netbooks taking place these days. There will be several netbooks running Chrome OS available soon, MeeGo netbooks]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/asus-eee-pcs-running-ubuntu-announced/]]></guid>
+        <pubDate>Sat, 04 Jun 2011 00:24:16 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Google introduces the Chromebook]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/video/google-introduces-the-chromebook/]]></link>
+        <description><![CDATA[Finally the Chromebook is official. After many rumors and speculations about Google's Chromebook the search giant today announced the first Chromebook.]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/video/google-introduces-the-chromebook/]]></guid>
+        <pubDate>Wed, 11 May 2011 21:21:15 </pubDate>
+    </item>
+    
+</channel></rss>

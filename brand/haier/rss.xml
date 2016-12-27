@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel><title>Brand » Haier</title>
+    <link>http://www.linux-netbook.com</link>
+    <description>Brand » Haier</description>
+    <lastBuildDate>Tue, 27 Dec 2016 17:54:24 </lastBuildDate>
+    <generator>Logya</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Haier Chromebook 11]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/haier-chromebook-11/]]></link>
+        <description><![CDATA[The Haier Chromebook is a very cheap laptop with a 11.6-inch screen powered by a quad-core Rockchip RK3288 Coretex-A17 processor clocked at 1.8 GHz.]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/haier-chromebook-11/]]></guid>
+        <pubDate>Tue, 26 May 2015 14:19:03 </pubDate>
+    </item>
+    
+</channel></rss>

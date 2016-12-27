@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel><title>Linux Distribution » Ubuntu Light</title>
+    <link>http://www.linux-netbook.com</link>
+    <description>Linux Distribution » Ubuntu Light</description>
+    <lastBuildDate>Tue, 27 Dec 2016 17:54:24 </lastBuildDate>
+    <generator>Logya</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Ubuntu Unity Caught On Video]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/video/ubuntu-unity-caught-on-video/]]></link>
+        <description><![CDATA[In his keynote at this week's Ubuntu Developer Summit in Brussels, Belgium, Ubuntu founder Mark Shuttleworth unveiled Unity and Ubuntu Light. Ubuntu Light is a]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/video/ubuntu-unity-caught-on-video/]]></guid>
+        <pubDate>Tue, 11 May 2010 23:45:44 </pubDate>
+    </item>
+    
+</channel></rss>

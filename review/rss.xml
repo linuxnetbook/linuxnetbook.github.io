@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel><title>Review</title>
+    <link>http://www.linux-netbook.com</link>
+    <description>Review</description>
+    <lastBuildDate>Tue, 27 Dec 2016 17:54:24 </lastBuildDate>
+    <generator>Logya</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[System76 Leopard Extreme Review]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/review/system76-leopard-extreme/]]></link>
+        <description><![CDATA[The System76 Leopard Extreme offers the nVidia GeForce TITAN Z with 12GB of memory and 5,760 CUDA Cores.]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/review/system76-leopard-extreme/]]></guid>
+        <pubDate>Fri, 02 Jan 2015 13:34:15 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[My Mobile Internet Experience]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/review/my-mobile-internet-experience/]]></link>
+        <description><![CDATA[I was lucky recently being offered an HP Mini 1000 Mi netbook for review from Buzzcorps, which is a marketing agency running word-of-mouth campaigns.]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/review/my-mobile-internet-experience/]]></guid>
+        <pubDate>Sun, 15 Feb 2009 18:50:49 </pubDate>
+    </item>
+    
+</channel></rss>

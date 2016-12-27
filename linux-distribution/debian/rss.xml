@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel><title>Linux Distribution » Debian</title>
+    <link>http://www.linux-netbook.com</link>
+    <description>Linux Distribution » Debian</description>
+    <lastBuildDate>Tue, 27 Dec 2016 17:54:24 </lastBuildDate>
+    <generator>Logya</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[How to Run Linux on Chromebooks with Crouton]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/video/how-to-run-linux-on-chromebooks-with-crouton/]]></link>
+        <description><![CDATA[In this video tutorial YouTuber Johnny Phung shows how you can run other Linuxes than Chrome OS on Chromebooks using a software called crouton.]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/video/how-to-run-linux-on-chromebooks-with-crouton/]]></guid>
+        <pubDate>Wed, 26 Feb 2014 09:38:39 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Run Chrome OS and Linux simultaneously on the Chromebook Pixel]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/video/multitasking-with-chrome-os-and-linux-on-the-chromebook-pixel/]]></link>
+        <description><![CDATA[In this demo video Kevin Tofel of Gigaom shows how you can use Google's Chromebook Pixel with other Linux based operating systems than Chrome OS.]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/video/multitasking-with-chrome-os-and-linux-on-the-chromebook-pixel/]]></guid>
+        <pubDate>Sun, 16 Feb 2014 13:53:12 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[ZaReason Terra HD]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/zareason-terra-hd/]]></link>
+        <description><![CDATA[The Terra HD is a thin and lightweight 11.6-inch netbook/subnotebook by Linux hardware builder ZaReason. It is powered by a 1.66 GHz Intel Atom N450 CPU.]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/zareason-terra-hd/]]></guid>
+        <pubDate>Sun, 19 Sep 2010 12:36:40 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Chitech CT-PC89E Running Debian GNU/Linux]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/video/chitech-ct-pc89e-running-debian-gnulinux/]]></link>
+        <description><![CDATA[The Chitech CT-PC89E is a low-cost ARM-based netbook from China powered by a 667MHz Samsung S3C6410 processor.]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/video/chitech-ct-pc89e-running-debian-gnulinux/]]></guid>
+        <pubDate>Sun, 28 Feb 2010 22:00:01 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Lemote YeeLoong 8089]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/lemote-yeeloong-8089/]]></link>
+        <description><![CDATA[According to the Chinese computer company Lemote the YeeLoong 8089 is the world's 1st laptop that exclusively contains free software.]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/lemote-yeeloong-8089/]]></guid>
+        <pubDate>Sat, 23 Jan 2010 21:21:25 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Hak5 on Unlocking Linux on the Zipit Z2]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/video/hak5-on-unlocking-linux-on-the-zipit-z2/]]></link>
+        <description><![CDATA[Hak5 Technolust is a tech show covering topics like network security, open source, and DIY modding. In episode 615, the 1st and certainly not the last I]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/video/hak5-on-unlocking-linux-on-the-zipit-z2/]]></guid>
+        <pubDate>Mon, 07 Dec 2009 00:07:52 </pubDate>
+    </item>
+    
+</channel></rss>

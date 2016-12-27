@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel><title>Brand » Cdi</title>
+    <link>http://www.linux-netbook.com</link>
+    <description>Brand » Cdi</description>
+    <lastBuildDate>Tue, 27 Dec 2016 17:54:24 </lastBuildDate>
+    <generator>Logya</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[CDI EduGear Chromebook R]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/cdi-edugear-chromebook-r/]]></link>
+        <description><![CDATA[The CDI EduGear Chromebook R is a light-weight, rugged Chromebook with a 11.6-inch screen target at the education market.]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/cdi-edugear-chromebook-r/]]></guid>
+        <pubDate>Mon, 31 Aug 2015 14:00:05 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[CDI EduGear Chromebook M]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/cdi-edugear-chromebook-m/]]></link>
+        <description><![CDATA[The CDI EduGear Chromebook M is a light-weight, rugged Chromebook with a 11.6-inch screen target at the education market.]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/cdi-edugear-chromebook-m/]]></guid>
+        <pubDate>Mon, 31 Aug 2015 13:59:29 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[CDI EduGear Chromebook K]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/cdi-edugear-chromebook-k/]]></link>
+        <description><![CDATA[The CDI EduGear Chromebook K is a light-weight, rugged Chromebook with a 11.6-inch screen target at the education market.]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/cdi-edugear-chromebook-k/]]></guid>
+        <pubDate>Wed, 17 Jun 2015 09:55:30 </pubDate>
+    </item>
+    
+</channel></rss>

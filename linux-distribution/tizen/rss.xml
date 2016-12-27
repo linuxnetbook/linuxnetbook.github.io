@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel><title>Linux Distribution » Tizen</title>
+    <link>http://www.linux-netbook.com</link>
+    <description>Linux Distribution » Tizen</description>
+    <lastBuildDate>Tue, 27 Dec 2016 17:54:24 </lastBuildDate>
+    <generator>Logya</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[MeeGo becomes Tizen. What Comes Next?]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/meego-becomes-tizen-what-comes-next/]]></link>
+        <description><![CDATA[Once upon a time there were two mobile operating systems called Moblin and Maemo, the former being developed by Intel and the latter by Nokia. In the beginning]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/meego-becomes-tizen-what-comes-next/]]></guid>
+        <pubDate>Wed, 28 Sep 2011 21:50:24 </pubDate>
+    </item>
+    
+</channel></rss>

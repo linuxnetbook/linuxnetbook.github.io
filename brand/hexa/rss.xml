@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel><title>Brand » Hexa</title>
+    <link>http://www.linux-netbook.com</link>
+    <description>Brand » Hexa</description>
+    <lastBuildDate>Tue, 27 Dec 2016 17:54:24 </lastBuildDate>
+    <generator>Logya</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[HEXA Chromebook π]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/hexa-chromebook-pi/]]></link>
+        <description><![CDATA[HEXA Chromebook π specs: 11.6-inch screen, 1.7 GHz dual-core Intel Celeron N2830 processor, 4 GB RAM, 32 GB eMMC storage, 7 hrs of battery life ...]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/hexa-chromebook-pi/]]></guid>
+        <pubDate>Mon, 23 Mar 2015 13:55:44 </pubDate>
+    </item>
+    
+</channel></rss>

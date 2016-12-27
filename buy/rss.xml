@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel><title>Buy</title>
+    <link>http://www.linux-netbook.com</link>
+    <description>Buy</description>
+    <lastBuildDate>Tue, 27 Dec 2016 17:54:24 </lastBuildDate>
+    <generator>Logya</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Linux Netbooks on eBay]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/buy/linux-netbooks-on-ebay/]]></link>
+        <description><![CDATA[Bid on or buy Linux Netbooks on eBay.]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/buy/linux-netbooks-on-ebay/]]></guid>
+        <pubDate>Fri, 25 Sep 2009 00:11:25 </pubDate>
+    </item>
+    
+</channel></rss>

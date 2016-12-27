@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel><title>Tags » Arm Architecture</title>
+    <link>http://www.linux-netbook.com</link>
+    <description>Tags » Arm Architecture</description>
+    <lastBuildDate>Tue, 27 Dec 2016 17:54:24 </lastBuildDate>
+    <generator>Logya</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[GNB GL 750 Mini Netbook with Google Android]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/video/gnb-gl-750-mini-netbook-with-google-android/]]></link>
+        <description><![CDATA[GNB showcased this netbook reviewed by Sascha for Netbook News at COMPUTEX 2009.]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/video/gnb-gl-750-mini-netbook-with-google-android/]]></guid>
+        <pubDate>Mon, 08 Jun 2009 21:04:01 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Mtube II XP Netbook and Android Tablet]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/video/mtube-ii-xp-netbook-and-android-tablet/]]></link>
+        <description><![CDATA[The Mtube II is a combination of netbook and tablet PC running Windows XP in netbook and Google Android in tablet mode. Apart from the unfortunate netbook]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/video/mtube-ii-xp-netbook-and-android-tablet/]]></guid>
+        <pubDate>Sun, 07 Jun 2009 23:51:04 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Compal Snapdragon Netbook with Google Android]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/video/compal-snapdragon-netbook-with-google-android/]]></link>
+        <description><![CDATA[Nicolas from Tech Video Blog browses various Web sites on a Snapdragon-based netbook by Compal running Google Android in this video from COMPUTEX 2009.]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/video/compal-snapdragon-netbook-with-google-android/]]></guid>
+        <pubDate>Sun, 07 Jun 2009 23:19:21 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Wistron N900z Smartbook with Freescale Processor]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/video/wistron-n900z-smartbook-with-freescale-processor/]]></link>
+        <description><![CDATA[Low-end ARM-based netbooks or Smartbooks seem to be a hot trend at COMPUTEX 2009. The Wistron N900z is one such device powered by Freescale's i.MX515 multimedia]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/video/wistron-n900z-smartbook-with-freescale-processor/]]></guid>
+        <pubDate>Fri, 05 Jun 2009 00:01:16 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Snapdragon Based ASUS Eee PC Running Android]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/video/snapdragon-based-asus-eee-pc-running-android/]]></link>
+        <description><![CDATA[Whether a mobile computer with a 11.6 inch screen is still a netbook or rather a subnotebook is a question one can argue or just don't care about.]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/video/snapdragon-based-asus-eee-pc-running-android/]]></guid>
+        <pubDate>Mon, 01 Jun 2009 22:38:14 </pubDate>
+    </item>
+    
+</channel></rss>

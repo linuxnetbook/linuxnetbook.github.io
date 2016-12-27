@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel><title>Tags » Intel Developer Forum</title>
+    <link>http://www.linux-netbook.com</link>
+    <description>Tags » Intel Developer Forum</description>
+    <lastBuildDate>Tue, 27 Dec 2016 17:54:24 </lastBuildDate>
+    <generator>Logya</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Future Samsung Chromebook with Coreboot Boots Ridiculously Fast]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/video/future-samsung-chromebook-with-coreboot-boots-ridiculously-fast/]]></link>
+        <description><![CDATA[The 1st generation of Samsung Chromebooks was released about a year ago, so it's high time for an updated model with improved specs, software and boot time,]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/video/future-samsung-chromebook-with-coreboot-boots-ridiculously-fast/]]></guid>
+        <pubDate>Fri, 13 Apr 2012 12:57:13 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Linpus for MeeGo Demo at IDF 2010]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/video/linpus-for-meego-demo-at-idf-2010/]]></link>
+        <description><![CDATA[JKK of jkkmobile chats with Warren Coles of Linpus at last month's Intel Developer Forum 2010 about the MeeGo based version of Linpus Linux Lite, demonstrated]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/video/linpus-for-meego-demo-at-idf-2010/]]></guid>
+        <pubDate>Fri, 15 Oct 2010 22:05:49 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[MeeGo 1.0: One OS to Rule Them All?]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/video/meego-10-one-os-to-rule-them-all/]]></link>
+        <description><![CDATA[Two months after the announcement of the Meego operating system, the merger of the Moblin and Maemo platforms, version 1.0 of the Linux based OS was presented]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/video/meego-10-one-os-to-rule-them-all/]]></guid>
+        <pubDate>Fri, 16 Apr 2010 00:48:42 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Moblin Demos at IDF 2009]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/video/moblin-demos-at-idf-2009/]]></link>
+        <description><![CDATA[At the end of September the Intel Developer Forum 2009 took place in San Francisco, an event where Intel introduces new hardware and software technolgies and]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/video/moblin-demos-at-idf-2009/]]></guid>
+        <pubDate>Wed, 07 Oct 2009 22:29:02 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Linpus Moblin V2 Demo at IDF 2009]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/video/linpus-moblin-v2-demo-at-idf-2009/]]></link>
+        <description><![CDATA[The 3 new versions of Linpus Linux Lite demonstrated in this video from Mid Moves recorded at the Intel Developer Forum 2009 look pretty awesome.]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/video/linpus-moblin-v2-demo-at-idf-2009/]]></guid>
+        <pubDate>Sat, 26 Sep 2009 01:22:12 </pubDate>
+    </item>
+    
+</channel></rss>

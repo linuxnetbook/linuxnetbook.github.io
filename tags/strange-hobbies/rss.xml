@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel><title>Tags » Strange Hobbies</title>
+    <link>http://www.linux-netbook.com</link>
+    <description>Tags » Strange Hobbies</description>
+    <lastBuildDate>Tue, 27 Dec 2016 17:54:24 </lastBuildDate>
+    <generator>Logya</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[A Different Approach to using a Laptop]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/video/a-different-approach-to-using-a-laptop/]]></link>
+        <description><![CDATA[I just came across this remarkable video via a tweet by planetshaker76 who suspects a viral marketing campaign of MSI. He's right. MSI currently runs a video]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/video/a-different-approach-to-using-a-laptop/]]></guid>
+        <pubDate>Wed, 12 Aug 2009 14:08:45 </pubDate>
+    </item>
+    
+</channel></rss>

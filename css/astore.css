@@ -1,0 +1,22 @@
+body {
+margin:0 auto;
+}
+#wrap {
+width:1000px;
+}
+#main {
+width:700px;
+}
+div#header {
+padding:4px 0 6px;
+}
+div#contentsubheader {
+width:600px;
+}
+table.sidebarproducts,
+li.widget {
+width:300px;
+}
+table.sidebarproducts td.text {
+width:200px;
+}

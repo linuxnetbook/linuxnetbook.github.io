@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel><title>Brand » Litl</title>
+    <link>http://www.linux-netbook.com</link>
+    <description>Brand » Litl</description>
+    <lastBuildDate>Tue, 27 Dec 2016 17:54:24 </lastBuildDate>
+    <generator>Logya</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[litl webbook]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/litl-webbook/]]></link>
+        <description><![CDATA[The litl webbook is a new small laptop by litl, a company based in Boston, Massachusetts. It has a 12-inch screen, is powered by an 1.6 GHz Intel Atom processor.]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/litl-webbook/]]></guid>
+        <pubDate>Sat, 07 Nov 2009 19:24:57 </pubDate>
+    </item>
+    
+</channel></rss>

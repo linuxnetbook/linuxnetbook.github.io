@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel><title>Tags » Kde</title>
+    <link>http://www.linux-netbook.com</link>
+    <description>Tags » Kde</description>
+    <lastBuildDate>Tue, 27 Dec 2016 17:54:24 </lastBuildDate>
+    <generator>Logya</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[How to Improve KDE Plasma Netbook Performance]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/video/how-to-improve-kde-plasma-netbook-performance/]]></link>
+        <description><![CDATA[Marco Martin posted a little how to on improving KDE Plasma Netbook performance and created this video to demonstrate the result of the configuration change he]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/video/how-to-improve-kde-plasma-netbook-performance/]]></guid>
+        <pubDate>Mon, 07 Jun 2010 00:33:06 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Search, Launch, and Newspaper in KDE Plasma Netbook 4.5]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/video/search-launch-and-newspaper-in-kde-plasma-netbook-45/]]></link>
+        <description><![CDATA[These 2 videos show how the search, launch, and newspaper features will look in the Plasma Netbook Shell of the upcoming KDE Software Compilation 4.5.]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/video/search-launch-and-newspaper-in-kde-plasma-netbook-45/]]></guid>
+        <pubDate>Wed, 19 May 2010 13:40:05 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[KDE Plasma Netbook Shell on MeeGo Platform]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/video/kde-plasma-netbook-shell-on-meego-platform/]]></link>
+        <description><![CDATA[We've seen a demo of the KDE Plasma Netbook shell running on an Asus Eee PC 1005HA before, but this time KDE developer Marco Martin got Plasma working]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/video/kde-plasma-netbook-shell-on-meego-platform/]]></guid>
+        <pubDate>Tue, 27 Apr 2010 23:39:18 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Ubuntu 10.04 Desktop Environments GUI Demo]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/video/ubuntu-1004-desktop-environments-gui-demo/]]></link>
+        <description><![CDATA[Tim from the OSGUI Tech Show takes a look at different desktop environments for Ubuntu 10.04 on his ASUS Eee PC 1001HA netbook. In this video he gives us short]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/video/ubuntu-1004-desktop-environments-gui-demo/]]></guid>
+        <pubDate>Wed, 17 Mar 2010 00:10:56 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[KDE 4.4 Introduces Netbook Interface]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/video/kde-44-introduces-netbook-interface/]]></link>
+        <description><![CDATA[Yesterday the availability of KDE Software Compilation 4.4, Caikaku, was announced. This new release comes with several new features including a netbook interface.]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/video/kde-44-introduces-netbook-interface/]]></guid>
+        <pubDate>Wed, 10 Feb 2010 21:57:01 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Kubuntu 9.10 Alpha 3 Netbook Edition Demo]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/video/kubuntu-910-alpha-3-netbook-edition-demo/]]></link>
+        <description><![CDATA[This video is a demo of Kubuntu 9.10 Alpha 3 netbook edition run from within VirtualBox. Karmic Koala Alpha 3 comes with the new KDE desktop environment (build]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/video/kubuntu-910-alpha-3-netbook-edition-demo/]]></guid>
+        <pubDate>Tue, 11 Aug 2009 00:12:57 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[KDE 4.3 Plasma Desktop Looks Great]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/video/kde-43-plasma-desktop-looks-great/]]></link>
+        <description><![CDATA[The recently released KDE 4.3, codename Caizen, looks great. Watching the Plasma netbook prototype preview a few weeks ago, and now this video by Jos Poortvliet]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/video/kde-43-plasma-desktop-looks-great/]]></guid>
+        <pubDate>Thu, 06 Aug 2009 22:10:16 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[KDE Plasma Netbook Shell Prototype]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/video/kde-plasma-netbook-shell-prototype/]]></link>
+        <description><![CDATA[Plasma for KDE is one key technologies or pillars of KDE 4. Plasma provides the desktop user interface that includes the application launcher, the desktop and]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/video/kde-plasma-netbook-shell-prototype/]]></guid>
+        <pubDate>Wed, 15 Jul 2009 13:17:17 </pubDate>
+    </item>
+    
+</channel></rss>

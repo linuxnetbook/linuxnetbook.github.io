@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel><title>Linux Distribution » Mid Linux</title>
+    <link>http://www.linux-netbook.com</link>
+    <description>Linux Distribution » Mid Linux</description>
+    <lastBuildDate>Tue, 27 Dec 2016 17:54:24 </lastBuildDate>
+    <generator>Logya</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[MID-LINUX on the Chitech CT-PC89E Netbook]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/video/mid-linux-on-the-chitech-ct-pc89e-netbook/]]></link>
+        <description><![CDATA[Another video featuring the Chitech CT-PC89E, this time running the MID-LINUX operating system, which is pre-installed on the netbook. The operating system's]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/video/mid-linux-on-the-chitech-ct-pc89e-netbook/]]></guid>
+        <pubDate>Sun, 28 Feb 2010 22:40:47 </pubDate>
+    </item>
+    
+</channel></rss>

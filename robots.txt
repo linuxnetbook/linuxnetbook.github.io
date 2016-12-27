@@ -1,0 +1,121 @@
+# MMMMMMMMMMMM=~~~::::::::,,,,,,,,......,:,,.,.,,,,,,,,,,,,,,,,,,,,IMMMMMMMMMMMMMM
+# MMMMMMMMMMMM...............,,,,,,,:7MMMMMMM8~,,,,,,,,,,,,,,,,,,,,IMMMMMMMMMMMMMM
+# MMMMMMMMMMMM,.......,,.,,,,,,,,,,MMMMMMMMMO8MM,,,,,,,,,,,,,,,,,,,IMMMMMMMMMMMMMM
+# MMMMMMMMMMMM,..,:$$$$$$$$$$$$$$$MMMMMMMMMMO8MMM$$$$$$$$$$$$$:,,,,IMMMMMMMMMMMMMM
+# MMMMMMMMMMMM,,,,~$$$$$$$$$$$$$$8MMMMMMMMMMMMMMMM$$$$$$$$$$$$:,,,,IMMMMMMMMMMMMMM
+# MMMMMMMMMMMM,,,,~$$$$$$$$$$$$$$MMMMMMMMMMM8DMMMMO$$$$$$$$$$$:::::IMMMMMMMMMMMMMM
+# MMMMMMMMMMMM,,,,~$$$$$$$$$$$$$$MMI?IOMMM+==78MMMM$$$$$$$777$:::::IMMMMMMMMMMMMMM
+# MMMMMMMMMMMM,,,,:$$$$$$$$$$$$$$M$$M.,MM ,M+.~MMMM$7777777777:::::IMMMMMMMMMMMMMM
+# MMMMMMMMMMMM,,,,:$$$$$$$$$$$$7$M$M8M.MM.MMMI MMMM7777777II77:::::IMMMMMMMMMMMMMM
+# MMMMMMMMMMMM,,,,:$$$$7777777777NM.D?7????N:.7MMMM777777III77:::::7MMMMMMMMMMMMMM
+# MMMMMMMMMMMM,,,,:777777777777778MI???+??++??7MMMM77777IIII77:::::7MMMMMMMMMMMMMM
+# MMMMMMMMMMMM,,,,:77777777777777ZO??????+?Z??ZMMMMM777IIIII77:::::7MMMMMMMMMMMMMM
+# MMMMMMMMMMMM,,,,:77777777777777$M$$7II$I?II+?MM$ZM7IIIIIII77:::::7MMMMMMMMMMMMMM
+# MMMMMMMMMMMM,::::777777777777778M~+$7II$+,...NMMNMM7IIIIIII7~::::7MMMMMMMMMMMMMM
+# MMMMMMMMMMMM,::::777777777II??+MM.,+II+~..... MMMMMN7IIIIIII~::::7MMMMMMMMMMMMMM
+# MMMMMMMMMMMM,::::77II77???????MM....::,.......=MMMMMMIIIIIII~::::7MMMMMMMMMMMMMM
+# MMMMMMMMMMMM,::::III7???????IMM................MMMMMMMIIIIII~~~~~7MMMMMMMMMMMMMM
+# MMMMMMMMMMMM:::::III???????$MMI.............,:,,MMMMMMMIIIII~~~~~7MMMMMMMMMMMMMM
+# MMMMMMMMMMMM:::::II+??????IMMMI~...........,~+?=NM8MMMMMIIII~~~~~7MMMMMMMMMMMMMM
+# MMMMMMMMMMMM:::::II??????7MDM=................ ==MMMDMMMM??I~~~~~7MMMMMMMMMMMMMM
+# MMMMMMMMMMMM:::::II?????+NMM$.....................MDN8MMMMII~~~~~7MMMMMMMMMMMMMM
+# MMMMMMMMMMMM:::::???????NNDM..................... MMMMNMMM7I~~~~~7MMMMMMMMMMMMMM
+# MMMMMMMMMMMM~::::+??++++MMM,.......,..............8MMMDMMMM::~~~~7MMMMMMMMMMMMMM
+# MMMMMMMMMMMM~:::::::::~MNDM........=..............=MMMMMMMM~~~~~~7MMMMMMMMMMMMMM
+# MMMMMMMMMMMM~::::~~~~~MMDDN.......,~..............:MMMMMMMMI=I?+=7MMMMMMMMMMMMMM
+# MMMMMMMMMMMM????I~::::MMM8N.......:: ... .........~MMOMMMMM=+?????MMMMMMMMMMMMMM
+# MMMMMMMMMMMM??????????8??8N.......,~..............ONMMMMOMMII???I?MMMMMMMMMMMMMM
+# MMMMMMMMMMM?+ZZZZZZZO7+++++M?......~.... .......+++MMMMMMD+ZZZZZZZ+8MMMMMMMMMMMM
+# MMMMMMMMMM?+ZZZZZZOZZ?++++?+MM .................??7MMMMMM++7ZZZZZZZ+ZMMMMMMMMMMM
+# MMMMMMMMM++OOOZO7????++++++?+MMN .............,???I$ZOZ$?++7ZZOOOOOZ+?MMMMMMMMMM
+# MMMMMMM$++~~~~~??+++++++++++??MMM:.............?7???II??++++?=~======++8MMMMMMMM
+# MMMMMM+=+=~~~~~7?++++++++++++??MMZ.............87??????++++++++=========IMMMMMMM
+# MMMMM==========7?+++++++++++++?I............. MN7?+++++++++++++==========?MMMMMM
+# MMM8===========??+++++++++++++??I..........?MMMZI?+++++++++++++++++++++++==MMMMM
+# MMI=~~=++++++++????+++++++++++??IZMMNNMMMMMMMMM$I?+++++++++II??+++++++++++==MMMM
+# M+~~~~~~~~~~~==+$77III????+++???7$NMMMMMMMMMMMM$I??+++??I$+++===~~~~~~~~~~~~~8MM
+# N::::::::::::~~==++++7Z$$7IIIII7$ON?==+=+++???ZZ77III77Z?++==~~~::::::::::::::7M
+# Z~~~~~~~~~~~~~~===+++???I?7Z$$$Z??+++++++++???I?ZZ$$ZZ+?+++===~~~~~~~~~~~~~~~~=M
+# Z~~~~~~~~~~~~~~~~~===++++++++++++====~~~===+++++++++++++===~~~~~~~~~~~~~~~~~~~~M
+# M~::::::::::::::::::~~~~=======~~~~~~~~~~~~=======+=+======~~~~~==========+++?MM
+# MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+#
+#  _     _                    _   _      _   _                 _
+# | |   (_)_ __  _   ___  __ | \ | | ___| |_| |__   ___   ___ | | __
+# | |   | | '_ \| | | \ \/ / |  \| |/ _ \ __| '_ \ / _ \ / _ \| |/ /
+# | |___| | | | | |_| |>  <  | |\  |  __/ |_| |_) | (_) | (_) |   <
+# |_____|_|_| |_|\__,_/_/\_\ |_| \_|\___|\__|_.__/ \___/ \___/|_|\_\
+
+Sitemap: http://www.linux-netbook.com/sitemaps/index.xml
+
+# 80legs
+User-agent: 008
+Disallow: /
+
+User-agent: AdsBot-Google
+Disallow: /
+
+user-agent: AhrefsBot
+disallow: /
+
+User-agent: aiHitBot
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: dotbot
+Disallow: /
+
+User-agent: ezooms
+Disallow: /
+
+User-agent: meanpathbot
+Disallow: /
+
+User-agent: NerdyBot
+Disallow: /
+
+User-Agent: panscient.com
+Disallow: /
+
+User-agent: proximic
+Disallow: /
+
+User-agent: naverbot
+Disallow: /
+
+User-agent: rogerbot
+Disallow: /
+
+User-agent: SandDollar
+Disallow: /
+
+User-agent: seznambot
+Disallow: /
+
+User-agent: sistrix
+Disallow: /
+
+User-agent: SMTBot
+Disallow: /
+
+# seoprofiler
+User-agent: spbot
+Disallow: /
+
+User-agent: SurveyBot
+Disallow: /
+
+User-agent: Telefonica
+Disallow: /
+
+User-agent: teoma
+Disallow: /
+
+User-agent: XoviBot
+Disallow: /
+
+User-Agent: *
+Disallow: /*.json
+Disallow: /info/*

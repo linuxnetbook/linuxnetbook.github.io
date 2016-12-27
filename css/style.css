@@ -1,0 +1,191 @@
+body {
+position: relative;
+padding-top: 50px;
+font-size: 140%;
+}
+blockquote {
+font-size: .9em;
+}
+cite {
+font-style:italic;
+}
+h1 {
+font-size: 34px;
+}
+
+.text-padded {padding: 15px;}
+.topoffset {margin-top:1em;}
+.voffset {margin:.5em 0;}
+.roffset {margin-right: 1em;}
+.centered {text-align:center;}
+.clearfix {clear:both;}
+.small {font-size:.8em;}
+.big {font-size: 1.4em;}
+.caret {opacity:.8;}
+.shirts {font-size: 1.7rem;}
+
+.navbar-collapse.collapse {
+padding-right:0;
+}
+.navbar-inverse .navbar-nav > li >a {
+font-weight: bold;
+font-size: 1.3em;
+color: rgb(50, 118, 177);
+}
+.navbar ul.share a {
+width:90%;
+margin:2% 5% 5%;
+font-size:1.1em;
+}
+
+.site-name {
+background: url("../img/linux-netbook-logo-small.png") no-repeat scroll 0px 10px transparent;
+padding-left: 50px;
+margin-left: -4px;
+height: 40px;
+cursor: pointer;
+}
+
+.bodytext p {
+font-size: 1.2em;
+}
+
+.col-2 {
+-moz-column-count: 2;
+-moz-column-gap: 10px;
+-webkit-column-count: 2;
+-webkit-column-gap: 10px;
+column-count: 2;
+column-gap: 10px;
+}
+
+.col-3 {
+-moz-column-count: 3;
+-moz-column-gap: 10px;
+-webkit-column-count: 3;
+-webkit-column-gap: 10px;
+column-count: 3;
+column-gap: 10px;
+}
+
+.sidebar .btn-lg {
+font-size: 1.15em;
+}
+
+.datatable .text-right {
+padding-right: 1.8em;
+}
+
+#image-large {
+max-width: 800px;
+}
+
+/* images */
+figure.thumbnail {
+position: relative;
+height: 290px;
+}
+figure.thumbnail img {
+height: 185px;
+}
+figure.thumbnail figcaption {
+color: #ddd;
+position: absolute;
+bottom: 5px;
+padding:10px;
+left: 5px;
+right: 5px;
+background:rgba(0,0,0,0.7);
+}
+figure.thumbnail figcaption a {
+color: #5887FF;
+}
+figure .hcaption {
+font-size: .9em;
+}
+
+/* css sprites for country flags */
+.flag {
+background: url('../img/flags/sprite-32.png') no-repeat top left;
+font-size: 16px;
+line-height: 28px;
+padding: 8px 0 8px 37px;
+width: 32px;
+height: 32px;
+}
+
+.flag-CA {
+background-position: -5px -5px;
+}
+
+.flag-DE {
+background-position: -5px -47px;
+}
+
+.flag-ES {
+background-position: -5px -89px;
+}
+
+.flag-FR {
+background-position: -5px -131px;
+}
+
+.flag-GB {
+background-position: -5px -173px;
+}
+
+.flag-US {
+background-position: -5px -215px;
+}
+
+.flag-sm {
+background: url('../img/flags/sprite-16.png') no-repeat top left;
+font-size: 16px;
+line-height: 22px;
+padding: 0 0 0 21px;
+width: 16px;
+height: 16px;
+}
+
+.flag-sm-CA {
+background-position: -5px -5px;
+}
+
+.flag-sm-DE {
+background-position: -5px -31px;
+}
+
+.flag-sm-ES {
+background-position: -5px -57px;
+}
+
+.flag-sm-FR {
+background-position: -5px -83px;
+}
+
+.flag-sm-GB {
+background-position: -5px -109px;
+}
+
+.flag-sm-US {
+background-position: -5px -135px;
+}
+
+#footer {
+margin-top: 1em;
+background: #222;
+color: #ccc;
+}
+
+.btn-shop {
+background-color:#FECD57;
+border:2px solid #FBC43C;
+font-weight:bold;
+color:#333333;
+white-space:nowrap;
+}
+
+.alert-info {
+background-color: #f7fbff;
+border-color: #c6dbef;
+}

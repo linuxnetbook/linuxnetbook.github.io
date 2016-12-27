@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel><title>Tags » Linux Vs Windows</title>
+    <link>http://www.linux-netbook.com</link>
+    <description>Tags » Linux Vs Windows</description>
+    <lastBuildDate>Tue, 27 Dec 2016 17:54:24 </lastBuildDate>
+    <generator>Logya</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Microsoft's Desperate Attempt to Discredit Chromebooks]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/microsoft-discredits-chromebooks/]]></link>
+        <description><![CDATA[Microsoft recently published a video on YouTube (now private) to spread some FUD against Chromebooks based on misinformation and unproven statements.]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/microsoft-discredits-chromebooks/]]></guid>
+        <pubDate>Tue, 02 Sep 2014 12:09:02 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[David vs Goliath]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/video/david-vs-goliath/]]></link>
+        <description><![CDATA[What do you think boots faster a 3.4GHz dual core hyper threading workstation booting Windows 7 or an Eee PC 900 netbook booting Ubuntu 9.10 Alpha 5?]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/video/david-vs-goliath/]]></guid>
+        <pubDate>Sat, 26 Sep 2009 00:31:13 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Ruslan Kogan's Hands on the Agora Netbook]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/video/ruslan-kogans-hands-on-the-agora-netbook/]]></link>
+        <description><![CDATA[Seamus Byrne and Ruslan Kogan himself take a look at the Kogan Agora Netbook in the Midnight Update studio. Seamus begins with a quick review of the netbook's]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/video/ruslan-kogans-hands-on-the-agora-netbook/]]></guid>
+        <pubDate>Thu, 16 Apr 2009 22:23:09 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[MSI Wind running Mac OS X Leopard, Windows XP, and Ubuntu]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/video/msi-wind-running-mac-os-x-leopard-windows-xp-and-ubuntu/]]></link>
+        <description><![CDATA[This is a very entertaining video by Fonero Martin Varsavsky, an Argentine/Spanish entrepreneur, who founded seven companies in the past 20 years. Martin]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/video/msi-wind-running-mac-os-x-leopard-windows-xp-and-ubuntu/]]></guid>
+        <pubDate>Thu, 26 Mar 2009 21:46:12 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Battle of OS: Linux vs Windows]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/video/battle-of-os-linux-vs-windows/]]></link>
+        <description><![CDATA[Every time I browse news on Linux I come across headlines implying that war is going on between Linux and Windows. This always leaves me a bit puzzled as most]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/video/battle-of-os-linux-vs-windows/]]></guid>
+        <pubDate>Tue, 17 Mar 2009 22:30:11 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[German Dell Shop with Strange Ubuntu Logo]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/german-dell-shop-with-strange-ubuntu-logo/]]></link>
+        <description><![CDATA[I just checked whether the new Dell Mini 12 is available with Ubuntu Linux. The Linux powered Dell Mini 9 netbook has been comparably successfully considering]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/german-dell-shop-with-strange-ubuntu-logo/]]></guid>
+        <pubDate>Sun, 08 Mar 2009 21:42:16 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Xandros vs WinXP on ASUS Eee PC 900]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/video/xandros-vs-winxp-on-asus-eee-pc-900/]]></link>
+        <description><![CDATA[In the video two ASUS Eee PC 900 netbooks are first booted, then Firefox is launched, and finally they are shutdown. One has been running Xandros Linux and the]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/video/xandros-vs-winxp-on-asus-eee-pc-900/]]></guid>
+        <pubDate>Tue, 23 Dec 2008 22:04:54 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Asus Eee PC 901 with Xandros Linux Review]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/video/asus-eee-pc-901-with-xandros-linux-review/]]></link>
+        <description><![CDATA[With about 14 minutes length this comprehensive video review demonstrates what you can do with the Asus Eee PC 901 running Xandros Linux: play games, watch]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/video/asus-eee-pc-901-with-xandros-linux-review/]]></guid>
+        <pubDate>Fri, 22 Aug 2008 23:59:35 </pubDate>
+    </item>
+    
+</channel></rss>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel><title>Brand » Google</title>
+    <link>http://www.linux-netbook.com</link>
+    <description>Brand » Google</description>
+    <lastBuildDate>Tue, 27 Dec 2016 17:54:24 </lastBuildDate>
+    <generator>Logya</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Chromebook Pixel 2 LS]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/chromebook-pixel-2-ls/]]></link>
+        <description><![CDATA[The Chromebook Pixel 2 LS has a 12.85-inch touch screen is powered by a dual-core 2.4 GHz Intel Core i7 processor, comes with 16 GB RAM, a 64 GB SSD ...]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/chromebook-pixel-2-ls/]]></guid>
+        <pubDate>Wed, 18 Mar 2015 19:39:56 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Chromebook Pixel 2]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/chromebook-pixel-2/]]></link>
+        <description><![CDATA[The Chromebook Pixel 2 has a 12.85-inch touch screen is powered by a dual-core 2.2 GHz Intel Core i5 processor, comes with 8 GB RAM, a 32 GB SSD ...]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/chromebook-pixel-2/]]></guid>
+        <pubDate>Wed, 18 Mar 2015 14:27:17 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Chromebook Pixel LTE]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/chromebook-pixel-lte/]]></link>
+        <description><![CDATA[The Chromebook Pixel is an unusual laptop in several respects, it has a 12.85-inch IPS display with a maximum resolution of 2560x1700 and is by far the most expensive Chromebook.]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/chromebook-pixel-lte/]]></guid>
+        <pubDate>Wed, 11 Feb 2015 14:59:19 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Chromebook Pixel Wi-Fi]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/chromebook-pixel-wifi/]]></link>
+        <description><![CDATA[The Chromebook Pixel is an unusual laptop in several respects, it has a 12.85-inch IPS display with a maximum resolution of 2560x1700 and is by far the most expensive Chromebook.]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/chromebook-pixel-wifi/]]></guid>
+        <pubDate>Wed, 11 Feb 2015 14:25:21 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Cr-48 Chrome Notebook]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/cr-48-chrome-notebook/]]></link>
+        <description><![CDATA[The Cr-48 Chrome notebook was the first prototype laptop designed by Google and manufactured by Inventec to run Chrome OS.]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/cr-48-chrome-notebook/]]></guid>
+        <pubDate>Wed, 08 Dec 2010 20:54:15 </pubDate>
+    </item>
+    
+</channel></rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel><title>Linux Distribution » Litl Os</title>
+    <link>http://www.linux-netbook.com</link>
+    <description>Linux Distribution » Litl Os</description>
+    <lastBuildDate>Tue, 27 Dec 2016 17:54:24 </lastBuildDate>
+    <generator>Logya</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[litl webbook Video Review by OSNews]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/video/litl-webbook-video-review-by-osnews/]]></link>
+        <description><![CDATA[In terms of hardware and software user interface design the litl webbook is one of the most innovative netbook-style computers released in 2009. The convertible]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/video/litl-webbook-video-review-by-osnews/]]></guid>
+        <pubDate>Wed, 30 Dec 2009 23:26:49 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Introducing the litl webbook and OS]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/video/introducing-the-litl-webbook-and-os/]]></link>
+        <description><![CDATA[Doug Aamoth of CrunchGear and litl CEO John Chuang recorded this video walkthrough of the litl webbook and OS talking about the design philosophy behind this]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/video/introducing-the-litl-webbook-and-os/]]></guid>
+        <pubDate>Sun, 08 Nov 2009 00:14:00 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[litl webbook]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/litl-webbook/]]></link>
+        <description><![CDATA[The litl webbook is a new small laptop by litl, a company based in Boston, Massachusetts. It has a 12-inch screen, is powered by an 1.6 GHz Intel Atom processor.]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/litl-webbook/]]></guid>
+        <pubDate>Sat, 07 Nov 2009 19:24:57 </pubDate>
+    </item>
+    
+</channel></rss>

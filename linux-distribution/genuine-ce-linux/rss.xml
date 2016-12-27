@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel><title>Linux Distribution » Genuine Ce Linux</title>
+    <link>http://www.linux-netbook.com</link>
+    <description>Linux Distribution » Genuine Ce Linux</description>
+    <lastBuildDate>Tue, 27 Dec 2016 17:54:24 </lastBuildDate>
+    <generator>Logya</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[RazorBook 400]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/razorbook-400/]]></link>
+        <description><![CDATA[The 3K RazorBook 400 is an ultra portable netbook with a 7-inch WVGA Active Matrix TFT screen weighing less than 2lbs. power]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/razorbook-400/]]></guid>
+        <pubDate>Wed, 01 Oct 2008 12:08:26 </pubDate>
+    </item>
+    
+</channel></rss>

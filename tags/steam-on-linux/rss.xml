@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel><title>Tags » Steam On Linux</title>
+    <link>http://www.linux-netbook.com</link>
+    <description>Tags » Steam On Linux</description>
+    <lastBuildDate>Tue, 27 Dec 2016 17:54:24 </lastBuildDate>
+    <generator>Logya</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Steam In-Home Streaming Demoed on a Toshiba Chromebook 2]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/video/steam-in-home-streaming-demoed-toshiba-chromebook-2/]]></link>
+        <description><![CDATA[This video demonstrates game play on a Toshiba Chromebook 2 running Xubuntu via Crouton using the Steam In-Home Streaming technology.]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/video/steam-in-home-streaming-demoed-toshiba-chromebook-2/]]></guid>
+        <pubDate>Tue, 06 Jan 2015 21:49:27 </pubDate>
+    </item>
+    
+</channel></rss>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel><title>Tags » Tinkering</title>
+    <link>http://www.linux-netbook.com</link>
+    <description>Tags » Tinkering</description>
+    <lastBuildDate>Tue, 27 Dec 2016 17:54:24 </lastBuildDate>
+    <generator>Logya</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[PRIZM WM8650 Powered Netbook Running Arch Linux]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/video/prizm-wm8650-powered-netbook-running-arch-linux/]]></link>
+        <description><![CDATA[Whenever I see people tinkering with Linux like in this video, it is a confirmation that operating systems based on the Linux kernel are the most fascinating and fun to work with.]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/video/prizm-wm8650-powered-netbook-running-arch-linux/]]></guid>
+        <pubDate>Tue, 19 Jun 2012 12:50:11 </pubDate>
+    </item>
+    
+</channel></rss>

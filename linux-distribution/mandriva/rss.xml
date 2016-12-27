@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel><title>Linux Distribution » Mandriva</title>
+    <link>http://www.linux-netbook.com</link>
+    <description>Linux Distribution » Mandriva</description>
+    <lastBuildDate>Tue, 27 Dec 2016 17:54:24 </lastBuildDate>
+    <generator>Logya</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Linux Experts on Linux, Netbooks and the Future]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/video/linux-experts-on-linux-netbooks-and-the-future/]]></link>
+        <description><![CDATA[Arnaud Laprévote, CTO & Head of Research Projects at Mandriva, and Aaron J. Seigo, KDE developer and KDE Foundation member, are interviewed by Charbax.]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/video/linux-experts-on-linux-netbooks-and-the-future/]]></guid>
+        <pubDate>Thu, 10 Dec 2009 23:45:53 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[A Quick Look at Moblin under Mandriva 2010]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/video/a-quick-look-at-moblin-under-mandriva-2010/]]></link>
+        <description><![CDATA[Yesterday Mandriva Linux 2010 was released. The latest version, code named Adelie, introduces a new technology called Smart desktop that is task oriented and]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/video/a-quick-look-at-moblin-under-mandriva-2010/]]></guid>
+        <pubDate>Thu, 05 Nov 2009 21:09:36 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Brief Introduction to 9 Linux Distributions]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/video/brief-introduction-to-9-linux-distributions/]]></link>
+        <description><![CDATA[Shawn Powers of Linux Journal briefly introduces 9 Linux distributions in about 6 minutes. He starts with 5 tiny Linux distros, which are well suited for low]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/video/brief-introduction-to-9-linux-distributions/]]></guid>
+        <pubDate>Tue, 03 Mar 2009 00:34:21 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[CTL E09L 2goPC]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/ctl-e09l-2gopc/]]></link>
+        <description><![CDATA[Powered by Intel Celeron M mobile 915GMS processors 2goPCs by CTL are compact, easy-to-carry child-friendly laptops. Through the robust drop-proof construction,]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/ctl-e09l-2gopc/]]></guid>
+        <pubDate>Fri, 22 Aug 2008 22:35:57 </pubDate>
+    </item>
+    
+</channel></rss>

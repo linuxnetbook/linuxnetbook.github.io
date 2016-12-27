@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel><title>Tags » Q&A Video</title>
+    <link>http://www.linux-netbook.com</link>
+    <description>Tags » Q&A Video</description>
+    <lastBuildDate>Tue, 27 Dec 2016 17:54:24 </lastBuildDate>
+    <generator>Logya</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Q and A about the Samsung Chromebook 2]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/video/qa-samsung-chromebook/]]></link>
+        <description><![CDATA[The Samsung Product Support TV introduces Chrome OS and answers questions about the Samsung Chromebook 2.]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/video/qa-samsung-chromebook/]]></guid>
+        <pubDate>Fri, 09 May 2014 21:39:39 </pubDate>
+    </item>
+    
+</channel></rss>

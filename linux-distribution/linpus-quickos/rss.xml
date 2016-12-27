@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel><title>Linux Distribution » Linpus Quickos</title>
+    <link>http://www.linux-netbook.com</link>
+    <description>Linux Distribution » Linpus Quickos</description>
+    <lastBuildDate>Tue, 27 Dec 2016 17:54:24 </lastBuildDate>
+    <generator>Logya</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Moblin Demos at IDF 2009]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/video/moblin-demos-at-idf-2009/]]></link>
+        <description><![CDATA[At the end of September the Intel Developer Forum 2009 took place in San Francisco, an event where Intel introduces new hardware and software technolgies and]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/video/moblin-demos-at-idf-2009/]]></guid>
+        <pubDate>Wed, 07 Oct 2009 22:29:02 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Moblin V2 Linpus Linux Lite at COMPUTEX]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/video/moblin-v2-linpus-linux-lite-at-computex/]]></link>
+        <description><![CDATA[At COMPUTEX 2009 Taiwan based Linpus Technologies showcased its updated instant-on product and its Moblin V2 Linpus Linux Lite distribution with Linpus UI and]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/video/moblin-v2-linpus-linux-lite-at-computex/]]></guid>
+        <pubDate>Mon, 22 Jun 2009 00:05:36 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Linpus QuickOS on Acer Aspire One]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/video/linpus-quickos-on-acer-aspire-one/]]></link>
+        <description><![CDATA[Another video from Sascha at the Linpus booth during CeBIT 2009 introducing Linpus QuickOS on an Acer Aspire One.]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/video/linpus-quickos-on-acer-aspire-one/]]></guid>
+        <pubDate>Mon, 09 Mar 2009 22:39:48 </pubDate>
+    </item>
+    
+</channel></rss>

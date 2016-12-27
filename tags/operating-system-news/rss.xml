@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel><title>Tags » Operating System News</title>
+    <link>http://www.linux-netbook.com</link>
+    <description>Tags » Operating System News</description>
+    <lastBuildDate>Tue, 27 Dec 2016 17:54:24 </lastBuildDate>
+    <generator>Logya</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[MeeGo becomes Tizen. What Comes Next?]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/meego-becomes-tizen-what-comes-next/]]></link>
+        <description><![CDATA[Once upon a time there were two mobile operating systems called Moblin and Maemo, the former being developed by Intel and the latter by Nokia. In the beginning]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/meego-becomes-tizen-what-comes-next/]]></guid>
+        <pubDate>Wed, 28 Sep 2011 21:50:24 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Google Chrome OS Targeted at Netbooks]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/video/google-chrome-os-targeted-at-netbooks/]]></link>
+        <description><![CDATA[Today's announcement of Google Chrome OS hit the news hard. Google is working on a new lightweight operating system built on top of the Linux kernel, that will]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/video/google-chrome-os-targeted-at-netbooks/]]></guid>
+        <pubDate>Wed, 08 Jul 2009 23:45:10 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Jolicloud is in Business]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/video/jolicloud-is-in-business/]]></link>
+        <description><![CDATA[Jolicloud, a new Ubuntu Linux based Internet operating system for netbooks now is officially in business. Jolicloud is described as an operating system that]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/video/jolicloud-is-in-business/]]></guid>
+        <pubDate>Tue, 02 Jun 2009 22:38:14 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Moblin 2.0 Beta for Netbooks Available for Download]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/video/moblin-20-beta-for-netbooks-available-for-download/]]></link>
+        <description><![CDATA[Moblin version 2.0 beta was released today and can be downloaded from the Moblin website. Moblin which is a blending of Mobile Linux is a Linux distro optimized]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/video/moblin-20-beta-for-netbooks-available-for-download/]]></guid>
+        <pubDate>Tue, 19 May 2009 21:28:30 </pubDate>
+    </item>
+    
+</channel></rss>
