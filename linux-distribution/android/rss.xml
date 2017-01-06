@@ -3,9 +3,17 @@
 <channel><title>Linux Distribution » Android</title>
     <link>http://www.linux-netbook.com</link>
     <description>Linux Distribution » Android</description>
-    <lastBuildDate>Tue, 27 Dec 2016 19:32:25 </lastBuildDate>
+    <lastBuildDate>Fri, 06 Jan 2017 14:31:01 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Samsung Chromebook Plus Demo at CES 2017]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/video/samsung-chromebook-plus-demo-CES-2017/]]></link>
+        <description><![CDATA[This video is a quick hands on the Samsung Chromebook Plus by Robby Payne of Chrome Unboxed at CES 2017.]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/video/samsung-chromebook-plus-demo-CES-2017/]]></guid>
+        <pubDate>Fri, 06 Jan 2017 14:29:52 </pubDate>
+    </item>
     
     <item>
         <title><![CDATA[H6 AllWinner A10]]></title>
@@ -77,14 +85,6 @@
         <description><![CDATA[Here is another non-tablet device that Charbax from ARMdevices spotted at CES 2011.]]></description>
         <guid><![CDATA[http://www.linux-netbook.com/video/nec-7-netbook-powered-by-tegra-2-chip-running-android/]]></guid>
         <pubDate>Wed, 12 Jan 2011 20:59:07 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[Toshiba AC100-10U]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/toshiba-ac100-10u/]]></link>
-        <description><![CDATA[The AC100 is Toshiba's 1st Android smartbook to hit the market.]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/toshiba-ac100-10u/]]></guid>
-        <pubDate>Wed, 08 Sep 2010 14:32:18 </pubDate>
     </item>
     
 </channel></rss>

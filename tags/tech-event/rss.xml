@@ -3,9 +3,17 @@
 <channel><title>Tags » Tech Event</title>
     <link>http://www.linux-netbook.com</link>
     <description>Tags » Tech Event</description>
-    <lastBuildDate>Tue, 27 Dec 2016 19:32:25 </lastBuildDate>
+    <lastBuildDate>Fri, 06 Jan 2017 14:31:01 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Samsung Chromebook Plus Demo at CES 2017]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/video/samsung-chromebook-plus-demo-CES-2017/]]></link>
+        <description><![CDATA[This video is a quick hands on the Samsung Chromebook Plus by Robby Payne of Chrome Unboxed at CES 2017.]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/video/samsung-chromebook-plus-demo-CES-2017/]]></guid>
+        <pubDate>Fri, 06 Jan 2017 14:29:52 </pubDate>
+    </item>
     
     <item>
         <title><![CDATA[More Details on the new Acer Chromebook 15 Models]]></title>
@@ -77,14 +85,6 @@
         <description><![CDATA[Netbooks seem to be out of fashion but now and then a new device pops up, that fits into the netbook category, especially when tech exhibitions take place. One]]></description>
         <guid><![CDATA[http://www.linux-netbook.com/video/low-price-epc1029d-android-netbook-spotted-at-cebit/]]></guid>
         <pubDate>Thu, 08 Mar 2012 16:04:01 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[Asus Eee PC X101 MeeGo Netbook Showcased at HKCCF]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/video/asus-eee-pc-x101-meego-netbook-showcased-at-hkccf/]]></link>
-        <description><![CDATA[This short video, filmed at the Hong Kong Computer & Communications Festival 2011, shows some of the software features the Asus Eee PC X101 running a custom]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/video/asus-eee-pc-x101-meego-netbook-showcased-at-hkccf/]]></guid>
-        <pubDate>Sun, 21 Aug 2011 22:31:13 </pubDate>
     </item>
     
 </channel></rss>

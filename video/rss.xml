@@ -3,9 +3,17 @@
 <channel><title>Video</title>
     <link>http://www.linux-netbook.com</link>
     <description>Video</description>
-    <lastBuildDate>Tue, 27 Dec 2016 19:32:25 </lastBuildDate>
+    <lastBuildDate>Fri, 06 Jan 2017 14:31:01 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Samsung Chromebook Plus Demo at CES 2017]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/video/samsung-chromebook-plus-demo-CES-2017/]]></link>
+        <description><![CDATA[This video is a quick hands on the Samsung Chromebook Plus by Robby Payne of Chrome Unboxed at CES 2017.]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/video/samsung-chromebook-plus-demo-CES-2017/]]></guid>
+        <pubDate>Fri, 06 Jan 2017 14:29:52 </pubDate>
+    </item>
     
     <item>
         <title><![CDATA[Toshiba CB35-C3350 Chromebook 2 Review]]></title>
@@ -77,14 +85,6 @@
         <description><![CDATA[This is a short video of Robby Payne unboxing one of the latest Chromebooks out there, the Acer Chromebook 15 C910-C37P.]]></description>
         <guid><![CDATA[http://www.linux-netbook.com/video/acer-chromebook-15-c910-c37p-unboxing/]]></guid>
         <pubDate>Wed, 18 Mar 2015 11:39:27 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[Toshiba CB35-B3340 Chromebook 2 Chrome Unboxed Review]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/video/toshiba-cb35-b3340-chromebook-2-chrome-unboxed-review/]]></link>
-        <description><![CDATA[A video review of the Toshiba CB35-B3340 Chromebook 2 by Robby Payne of Chrome Unboxed.]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/video/toshiba-cb35-b3340-chromebook-2-chrome-unboxed-review/]]></guid>
-        <pubDate>Thu, 22 Jan 2015 13:30:41 </pubDate>
     </item>
     
 </channel></rss>

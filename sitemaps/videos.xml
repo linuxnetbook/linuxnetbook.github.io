@@ -3,6 +3,19 @@
 
     
     <url>
+        <loc><![CDATA[http://www.linux-netbook.com/video/samsung-chromebook-plus-demo-CES-2017/ ]]></loc>
+        <video:video>
+            <video:thumbnail_loc>https://i.ytimg.com/vi/f7vIQnLG4WY/default.jpg</video:thumbnail_loc>
+            <video:title><![CDATA[ Samsung Chromebook Plus Demo at CES 2017 ]]></video:title>
+            <video:description><![CDATA[ This video is a quick hands on the Samsung Chromebook Plus by Robby Payne of Chrome Unboxed at CES 2017. ]]></video:description>
+            <video:player_loc allow_embed="yes" autoplay="ap=1">https://youtube.googleapis.com/v/f7vIQnLG4WY</video:player_loc>
+            <video:family_friendly>yes</video:family_friendly>
+        </video:video>
+    </url>
+    
+
+    
+    <url>
         <loc><![CDATA[http://www.linux-netbook.com/video/toshiba-cb35-c3350-chromebook-2-review/ ]]></loc>
         <video:video>
             <video:thumbnail_loc>https://i.ytimg.com/vi/M2CRbMzNGw0/default.jpg</video:thumbnail_loc>

@@ -3,9 +3,25 @@
 <channel><title>__Index__</title>
     <link>http://www.linux-netbook.com</link>
     <description>__Index__</description>
-    <lastBuildDate>Tue, 27 Dec 2016 19:32:25 </lastBuildDate>
+    <lastBuildDate>Fri, 06 Jan 2017 14:31:01 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Samsung Chromebook Plus Demo at CES 2017]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/video/samsung-chromebook-plus-demo-CES-2017/]]></link>
+        <description><![CDATA[This video is a quick hands on the Samsung Chromebook Plus by Robby Payne of Chrome Unboxed at CES 2017.]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/video/samsung-chromebook-plus-demo-CES-2017/]]></guid>
+        <pubDate>Fri, 06 Jan 2017 14:29:52 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Samsung Chromebook Plus XE513C24 K01]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/samsung-chromebook-plus-xe513c24-k01us/]]></link>
+        <description><![CDATA[The Samsung Chromebook Plus XE513C24 K01 has an 12.3 inch screen with a max resolution of 2400x1600 pixels and is powered by a 2 GHz hexa-core processor.]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/samsung-chromebook-plus-xe513c24-k01us/]]></guid>
+        <pubDate>Fri, 06 Jan 2017 14:27:22 </pubDate>
+    </item>
     
     <item>
         <title><![CDATA[HP Chromebook 14-Q010DX]]></title>
@@ -69,22 +85,6 @@
         <description><![CDATA[The HP Chromebook 14 G4 is a laptop with a 14-inch screen powered by a 2.16 GHz dual-core Intel Celeron N2840 processor and equipped with 2 GB RAM.]]></description>
         <guid><![CDATA[http://www.linux-netbook.com/hp-chromebook-14-g4/]]></guid>
         <pubDate>Wed, 19 Oct 2016 14:17:53 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[ASUS Chromebook C300SA-DS02]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/asus-chromebook-c300sa-ds02/]]></link>
-        <description><![CDATA[The ASUS Chromebook C300SA-DS02 is an 13.3-inch laptop powered by the energy-efficient 1.6 GHz dual-core Intel N3060 processor.]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/asus-chromebook-c300sa-ds02/]]></guid>
-        <pubDate>Tue, 20 Sep 2016 12:56:20 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[Linux Kernel 0.1 Code Statistics]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/linux/linux-kernel-statistics/]]></link>
-        <description><![CDATA[This table shows code statistics for the Linux kernel version 0.1 released on Aug 25, 1991 calculated with cloc.]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/linux/linux-kernel-statistics/]]></guid>
-        <pubDate>Thu, 25 Aug 2016 12:37:48 </pubDate>
     </item>
     
 </channel></rss>

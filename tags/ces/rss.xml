@@ -3,9 +3,17 @@
 <channel><title>Tags » Ces</title>
     <link>http://www.linux-netbook.com</link>
     <description>Tags » Ces</description>
-    <lastBuildDate>Tue, 27 Dec 2016 19:32:25 </lastBuildDate>
+    <lastBuildDate>Fri, 06 Jan 2017 14:31:01 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Samsung Chromebook Plus Demo at CES 2017]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/video/samsung-chromebook-plus-demo-CES-2017/]]></link>
+        <description><![CDATA[This video is a quick hands on the Samsung Chromebook Plus by Robby Payne of Chrome Unboxed at CES 2017.]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/video/samsung-chromebook-plus-demo-CES-2017/]]></guid>
+        <pubDate>Fri, 06 Jan 2017 14:29:52 </pubDate>
+    </item>
     
     <item>
         <title><![CDATA[More Details on the new Acer Chromebook 15 Models]]></title>

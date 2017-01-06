@@ -3,9 +3,17 @@
 <channel><title>Tags » Chromebook</title>
     <link>http://www.linux-netbook.com</link>
     <description>Tags » Chromebook</description>
-    <lastBuildDate>Tue, 27 Dec 2016 19:32:25 </lastBuildDate>
+    <lastBuildDate>Fri, 06 Jan 2017 14:31:01 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Samsung Chromebook Plus XE513C24 K01]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/samsung-chromebook-plus-xe513c24-k01us/]]></link>
+        <description><![CDATA[The Samsung Chromebook Plus XE513C24 K01 has an 12.3 inch screen with a max resolution of 2400x1600 pixels and is powered by a 2 GHz hexa-core processor.]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/samsung-chromebook-plus-xe513c24-k01us/]]></guid>
+        <pubDate>Fri, 06 Jan 2017 14:27:22 </pubDate>
+    </item>
     
     <item>
         <title><![CDATA[HP Chromebook 14-Q010DX]]></title>
@@ -77,14 +85,6 @@
         <description><![CDATA[The ASUS Chromebook C300SA-DS02 is an 13.3-inch laptop powered by the energy-efficient 1.6 GHz dual-core Intel N3060 processor.]]></description>
         <guid><![CDATA[http://www.linux-netbook.com/asus-chromebook-c300sa-ds02/]]></guid>
         <pubDate>Tue, 20 Sep 2016 12:56:20 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[Samsung Chromebook 2 XE500C12 K02]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/samsung-chromebook-2-xe500c12-k02us/]]></link>
-        <description><![CDATA[The Samsung Chromebook 2 XE500C12 K02 sports a 11.6-inch display, is equipped with a 2.16 GHz dual-core Intel Celeron N2840 processor, 4 GB RAM and 16 GB eMMC storage.]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/samsung-chromebook-2-xe500c12-k02us/]]></guid>
-        <pubDate>Wed, 10 Aug 2016 22:33:32 </pubDate>
     </item>
     
 </channel></rss>
