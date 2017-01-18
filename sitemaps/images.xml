@@ -696,6 +696,15 @@
 
 
 <url>
+    <loc><![CDATA[ http://www.linux-netbook.com/asus-chromebook-c302ca-dhm4/ ]]></loc>
+    <image:image>
+        <image:loc><![CDATA[ http://www.linux-netbook.com/img/large/asus-chromebook-c302ca-dhm4.jpg ]]></image:loc>
+        <image:caption><![CDATA[ ASUS Chromebook C302CA-DHM4 ]]></image:caption>
+        <image:title><![CDATA[ ASUS Chromebook Flip C302CA-DHM4 ]]></image:title>
+    </image:image>
+</url>
+
+<url>
     <loc><![CDATA[ http://www.linux-netbook.com/samsung-chromebook-plus-xe513c24-k01us/ ]]></loc>
     <image:image>
         <image:loc><![CDATA[ http://www.linux-netbook.com/img/large/Samsung-Chromebook-Plus-XE513C24.jpg ]]></image:loc>
