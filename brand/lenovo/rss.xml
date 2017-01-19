@@ -3,9 +3,25 @@
 <channel><title>Brand » Lenovo</title>
     <link>http://www.linux-netbook.com</link>
     <description>Brand » Lenovo</description>
-    <lastBuildDate>Wed, 18 Jan 2017 20:24:44 </lastBuildDate>
+    <lastBuildDate>Thu, 19 Jan 2017 19:56:45 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Lenovo ThinkPad 13 Chromebook 20GL0000US]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/lenovo-thinkpad-13-chromebook-20gl0000us/]]></link>
+        <description><![CDATA[The Lenovo ThinkPad 13 Chromebook 20GL0000US is a slim and light laptop built for business and education.]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/lenovo-thinkpad-13-chromebook-20gl0000us/]]></guid>
+        <pubDate>Thu, 19 Jan 2017 19:43:30 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Lenovo Chromebook N22 80VH0001US]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/lenovo-chromebook-n22-80vh0001us/]]></link>
+        <description><![CDATA[The Lenovo N22 Chromebook is an affordable, portable Chromebook with a 11.6-inch IPS touchscreen display.]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/lenovo-chromebook-n22-80vh0001us/]]></guid>
+        <pubDate>Thu, 19 Jan 2017 19:16:50 </pubDate>
+    </item>
     
     <item>
         <title><![CDATA[Lenovo N22 Chromebook 80SF0001US]]></title>
@@ -69,22 +85,6 @@
         <description><![CDATA[The ThinkPad Yoga 11e is a Chromebook by Lenovo first released in June 2014. As most Chromebooks, it is targeted at the education market.]]></description>
         <guid><![CDATA[http://www.linux-netbook.com/lenovo-thinkpad-11e-chromebook/]]></guid>
         <pubDate>Tue, 26 Aug 2014 10:17:43 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[Lenovo ThinkPad X131e Chromebook 628324U]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/lenovo-thinkpad-x131e-chromebook-628324u/]]></link>
-        <description><![CDATA[The ThinkPad X131e 628324U is a Chromebook by Lenovo first released in June 2014. As most Chromebooks, it is targeted at the education market.]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/lenovo-thinkpad-x131e-chromebook-628324u/]]></guid>
-        <pubDate>Tue, 26 Aug 2014 10:14:43 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[Lenovo ThinkPad X131e Chromebook 628323U]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/lenovo-thinkpad-x131e-chromebook/]]></link>
-        <description><![CDATA[The ThinkPad X131e 628323U is a Chromebook by Lenovo first released in June 2014. As most Chromebooks, it is targeted at the education market.]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/lenovo-thinkpad-x131e-chromebook/]]></guid>
-        <pubDate>Tue, 26 Aug 2014 10:14:43 </pubDate>
     </item>
     
 </channel></rss>

@@ -3,9 +3,25 @@
 <channel><title>Brand</title>
     <link>http://www.linux-netbook.com</link>
     <description>Brand</description>
-    <lastBuildDate>Wed, 18 Jan 2017 20:24:44 </lastBuildDate>
+    <lastBuildDate>Thu, 19 Jan 2017 19:56:45 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Lenovo ThinkPad 13 Chromebook 20GL0000US]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/lenovo-thinkpad-13-chromebook-20gl0000us/]]></link>
+        <description><![CDATA[The Lenovo ThinkPad 13 Chromebook 20GL0000US is a slim and light laptop built for business and education.]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/lenovo-thinkpad-13-chromebook-20gl0000us/]]></guid>
+        <pubDate>Thu, 19 Jan 2017 19:43:30 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Lenovo Chromebook N22 80VH0001US]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/lenovo-chromebook-n22-80vh0001us/]]></link>
+        <description><![CDATA[The Lenovo N22 Chromebook is an affordable, portable Chromebook with a 11.6-inch IPS touchscreen display.]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/lenovo-chromebook-n22-80vh0001us/]]></guid>
+        <pubDate>Thu, 19 Jan 2017 19:16:50 </pubDate>
+    </item>
     
     <item>
         <title><![CDATA[ASUS Chromebook Flip C302CA-DHM4]]></title>
@@ -69,22 +85,6 @@
         <description><![CDATA[The Acer Chromebook R 13 CB5-312T-K5X4 is a 13.3-inch laptop powered by a 2.1 GHz quad-core MediaTek M8173C processor.]]></description>
         <guid><![CDATA[http://www.linux-netbook.com/acer-chromebook-r-13-cb5-312t-k5x4/]]></guid>
         <pubDate>Tue, 25 Oct 2016 13:57:12 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[HP Chromebook 14 G4 T4M32UT]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/hp-chromebook-14-g4-t4m32ut/]]></link>
-        <description><![CDATA[The HP Chromebook 14 G4 T4M32UT is a laptop with a 14-inch screen powered by a 2.16 GHz dual-core Intel Celeron N2840 processor and equipped with 4 GB RAM.]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/hp-chromebook-14-g4-t4m32ut/]]></guid>
-        <pubDate>Wed, 19 Oct 2016 14:27:46 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[HP Chromebook 14 G4]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/hp-chromebook-14-g4/]]></link>
-        <description><![CDATA[The HP Chromebook 14 G4 is a laptop with a 14-inch screen powered by a 2.16 GHz dual-core Intel Celeron N2840 processor and equipped with 2 GB RAM.]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/hp-chromebook-14-g4/]]></guid>
-        <pubDate>Wed, 19 Oct 2016 14:17:53 </pubDate>
     </item>
     
 </channel></rss>

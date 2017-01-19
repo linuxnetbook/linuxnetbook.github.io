@@ -3,9 +3,17 @@
 <channel><title>Tags » Education</title>
     <link>http://www.linux-netbook.com</link>
     <description>Tags » Education</description>
-    <lastBuildDate>Wed, 18 Jan 2017 20:24:43 </lastBuildDate>
+    <lastBuildDate>Thu, 19 Jan 2017 19:56:45 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Lenovo Chromebook N22 80VH0001US]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/lenovo-chromebook-n22-80vh0001us/]]></link>
+        <description><![CDATA[The Lenovo N22 Chromebook is an affordable, portable Chromebook with a 11.6-inch IPS touchscreen display.]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/lenovo-chromebook-n22-80vh0001us/]]></guid>
+        <pubDate>Thu, 19 Jan 2017 19:16:50 </pubDate>
+    </item>
     
     <item>
         <title><![CDATA[Lenovo N22 Chromebook 80SF0001US]]></title>
@@ -77,14 +85,6 @@
         <description><![CDATA[The CDI EduGear Chromebook K is a light-weight, rugged Chromebook with a 11.6-inch screen target at the education market.]]></description>
         <guid><![CDATA[http://www.linux-netbook.com/cdi-edugear-chromebook-k/]]></guid>
         <pubDate>Wed, 17 Jun 2015 09:55:30 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[Senkatel Education Chromebook C1101-2G]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/senkatel-education-chromebook-c1101-2g/]]></link>
-        <description><![CDATA[The Senkatel C1101-2G is a Chromebook targeted at students with extra durability features, a 11.6 IPS display, a 2.16 Intel Celeron CPU, 2 GB RAM, 16 GB SSD ...]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/senkatel-education-chromebook-c1101-2g/]]></guid>
-        <pubDate>Tue, 24 Mar 2015 11:40:45 </pubDate>
     </item>
     
 </channel></rss>
