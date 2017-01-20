@@ -696,6 +696,24 @@
 
 
 <url>
+    <loc><![CDATA[ http://www.linux-netbook.com/acer-chromebook-r-11-cb5-132t-c1lk/ ]]></loc>
+    <image:image>
+        <image:loc><![CDATA[ http://www.linux-netbook.com/img/large/Acer-Chromebook-R-11.jpg ]]></image:loc>
+        <image:caption><![CDATA[ Acer Chromebook R 11 CB5-132T-C1LK ]]></image:caption>
+        <image:title><![CDATA[ Acer Chromebook R 11 CB5-132T-C1LK ]]></image:title>
+    </image:image>
+</url>
+
+<url>
+    <loc><![CDATA[ http://www.linux-netbook.com/acer-chromebook-15-cb5-571-362q/ ]]></loc>
+    <image:image>
+        <image:loc><![CDATA[ http://www.linux-netbook.com/img/large/acer-chromebook-15-cb5-571-362q.jpg ]]></image:loc>
+        <image:caption><![CDATA[ Acer Chromebook 15 CB5-571-362Q ]]></image:caption>
+        <image:title><![CDATA[ Acer Chromebook 15 CB5-571-362Q ]]></image:title>
+    </image:image>
+</url>
+
+<url>
     <loc><![CDATA[ http://www.linux-netbook.com/lenovo-thinkpad-13-chromebook-20gl0000us/ ]]></loc>
     <image:image>
         <image:loc><![CDATA[ http://www.linux-netbook.com/img/large/lenovo-thinkpad-13-chromebook-20gl0000us.jpg ]]></image:loc>

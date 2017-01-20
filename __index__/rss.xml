@@ -3,9 +3,25 @@
 <channel><title>__Index__</title>
     <link>http://www.linux-netbook.com</link>
     <description>__Index__</description>
-    <lastBuildDate>Thu, 19 Jan 2017 19:56:45 </lastBuildDate>
+    <lastBuildDate>Fri, 20 Jan 2017 14:40:52 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Acer Chromebook R 11 CB5-132T-C1LK]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/acer-chromebook-r-11-cb5-132t-c1lk/]]></link>
+        <description><![CDATA[The Acer Chromebook R 11 CB5-132T-C1LK is an 11.6-inch laptop powered by a 1.6 GHz quad-core Intel Celeron N3150 Braswell processor.]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/acer-chromebook-r-11-cb5-132t-c1lk/]]></guid>
+        <pubDate>Fri, 20 Jan 2017 14:33:49 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Acer Chromebook 15 CB5-571-362Q]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/acer-chromebook-15-cb5-571-362q/]]></link>
+        <description><![CDATA[The Acer Chromebook 15 CB5-571 362Q is a 15.6-inch screen laptop powered by a 2.0 GHz dual-core Intel Core i3 CPU and equipped with 4 GB RAM and 32 GB SSD storage.]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/acer-chromebook-15-cb5-571-362q/]]></guid>
+        <pubDate>Fri, 20 Jan 2017 14:17:38 </pubDate>
+    </item>
     
     <item>
         <title><![CDATA[Lenovo ThinkPad 13 Chromebook 20GL0000US]]></title>
@@ -69,22 +85,6 @@
         <description><![CDATA[The HP Chromebook 11 G4 P0B78UT is a laptop with a 11.6-inch screen powered by a 2.16 GHz dual-core Intel Celeron N2840 processor.]]></description>
         <guid><![CDATA[http://www.linux-netbook.com/hp-chromebook-11-g4-p0b78ut/]]></guid>
         <pubDate>Wed, 26 Oct 2016 17:00:18 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[Lenovo N22 Chromebook 80SF0001US]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/lenovo-n22-chromebook-80sf0001us/]]></link>
-        <description><![CDATA[The Lenovo N22 Chromebook is an 11.6-inch laptop powered by a 2.16 GHz dual-core Intel Braswell N3050 processor. It comes with 4 GB RAM, 16 GB storage, 2x USB 3.0 ...]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/lenovo-n22-chromebook-80sf0001us/]]></guid>
-        <pubDate>Wed, 26 Oct 2016 15:52:39 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[Lenovo N22 Chromebook 80SF0000US]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/lenovo-n22-chromebook-80sf0000us/]]></link>
-        <description><![CDATA[The Lenovo N22 Chromebook is an 11.6-inch laptop powered by a 1.6 GHz dual-core Intel Braswell N3050 processor. It comes with 2 GB RAM, 16 GB storage, 2x USB 3.0 ...]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/lenovo-n22-chromebook-80sf0000us/]]></guid>
-        <pubDate>Wed, 26 Oct 2016 15:38:15 </pubDate>
     </item>
     
 </channel></rss>
