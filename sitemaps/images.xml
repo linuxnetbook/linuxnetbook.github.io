@@ -696,6 +696,15 @@
 
 
 <url>
+    <loc><![CDATA[ http://www.linux-netbook.com/acer-chromebook-14-cb3-431-c0ak/ ]]></loc>
+    <image:image>
+        <image:loc><![CDATA[ http://www.linux-netbook.com/img/large/acer-chromebook-14-cb3-431-c0ak.jpg ]]></image:loc>
+        <image:caption><![CDATA[ Acer Chromebook 14 CB3-431-C0AK ]]></image:caption>
+        <image:title><![CDATA[ Acer Chromebook 14 CB3-431-C0AK ]]></image:title>
+    </image:image>
+</url>
+
+<url>
     <loc><![CDATA[ http://www.linux-netbook.com/acer-chromebook-r-11-cb5-132t-c1lk/ ]]></loc>
     <image:image>
         <image:loc><![CDATA[ http://www.linux-netbook.com/img/large/Acer-Chromebook-R-11.jpg ]]></image:loc>

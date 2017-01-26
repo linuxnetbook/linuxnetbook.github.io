@@ -3,9 +3,17 @@
 <channel><title>__Index__</title>
     <link>http://www.linux-netbook.com</link>
     <description>__Index__</description>
-    <lastBuildDate>Fri, 20 Jan 2017 14:40:52 </lastBuildDate>
+    <lastBuildDate>Thu, 26 Jan 2017 12:59:09 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Acer Chromebook 14 CB3-431-C0AK]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/acer-chromebook-14-cb3-431-c0ak/]]></link>
+        <description><![CDATA[The Acer Chromebook 14 CB3-431-C0AK is a slim and lightweight laptop with a 14-inch full HD IPS display. It is equipped with a quad-core Intel Celeron N3160 processor, 4 GB RAM and 32 GB eMMC storage.]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/acer-chromebook-14-cb3-431-c0ak/]]></guid>
+        <pubDate>Thu, 26 Jan 2017 12:43:48 </pubDate>
+    </item>
     
     <item>
         <title><![CDATA[Acer Chromebook R 11 CB5-132T-C1LK]]></title>
@@ -77,14 +85,6 @@
         <description><![CDATA[The HP Chromebook 11 G4 P0B79UT is a laptop with a 11.6-inch screen powered by a 2.16 GHz dual-core Intel Celeron N2840 processor.]]></description>
         <guid><![CDATA[http://www.linux-netbook.com/hp-chromebook-11-g4-p0b79ut/]]></guid>
         <pubDate>Wed, 26 Oct 2016 17:07:40 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[HP Chromebook 11 G4 P0B78UT]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/hp-chromebook-11-g4-p0b78ut/]]></link>
-        <description><![CDATA[The HP Chromebook 11 G4 P0B78UT is a laptop with a 11.6-inch screen powered by a 2.16 GHz dual-core Intel Celeron N2840 processor.]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/hp-chromebook-11-g4-p0b78ut/]]></guid>
-        <pubDate>Wed, 26 Oct 2016 17:00:18 </pubDate>
     </item>
     
 </channel></rss>
