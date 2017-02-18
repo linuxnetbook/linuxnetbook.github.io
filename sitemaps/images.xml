@@ -696,6 +696,15 @@
 
 
 <url>
+    <loc><![CDATA[ http://www.linux-netbook.com/asus-chromebook-flip-c100pa-ds03/ ]]></loc>
+    <image:image>
+        <image:loc><![CDATA[ http://www.linux-netbook.com/img/large/asus-chromebook-flip-c100pa-ds03.jpg ]]></image:loc>
+        <image:caption><![CDATA[ ASUS Chromebook Flip C100PA-DS03 ]]></image:caption>
+        <image:title><![CDATA[ ASUS Chromebook Flip C100PA-DS03 ]]></image:title>
+    </image:image>
+</url>
+
+<url>
     <loc><![CDATA[ http://www.linux-netbook.com/acer-chromebook-14-cb3-431-c0ak/ ]]></loc>
     <image:image>
         <image:loc><![CDATA[ http://www.linux-netbook.com/img/large/acer-chromebook-14-cb3-431-c0ak.jpg ]]></image:loc>
@@ -1097,15 +1106,6 @@
         <image:loc><![CDATA[ http://www.linux-netbook.com/img/large/dell-chromebook-11-462-9515.jpg ]]></image:loc>
         <image:caption><![CDATA[ Dell Chromebook 11 ]]></image:caption>
         <image:title><![CDATA[ Dell Chromebook 11 462-9515 ]]></image:title>
-    </image:image>
-</url>
-
-<url>
-    <loc><![CDATA[ http://www.linux-netbook.com/asus-chromebook-flip-c100pa-ds03/ ]]></loc>
-    <image:image>
-        <image:loc><![CDATA[ http://www.linux-netbook.com/img/large/ASUS-Chromebook-Flip.jpg ]]></image:loc>
-        <image:caption><![CDATA[ ASUS Chromebook Flip C100PA-DB02 ]]></image:caption>
-        <image:title><![CDATA[ ASUS Chromebook Flip C100PA-DB02 ]]></image:title>
     </image:image>
 </url>
 
