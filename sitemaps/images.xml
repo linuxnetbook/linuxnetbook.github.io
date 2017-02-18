@@ -1101,6 +1101,15 @@
 </url>
 
 <url>
+    <loc><![CDATA[ http://www.linux-netbook.com/asus-chromebook-flip-c100pa-ds03/ ]]></loc>
+    <image:image>
+        <image:loc><![CDATA[ http://www.linux-netbook.com/img/large/ASUS-Chromebook-Flip.jpg ]]></image:loc>
+        <image:caption><![CDATA[ ASUS Chromebook Flip C100PA-DB02 ]]></image:caption>
+        <image:title><![CDATA[ ASUS Chromebook Flip C100PA-DB02 ]]></image:title>
+    </image:image>
+</url>
+
+<url>
     <loc><![CDATA[ http://www.linux-netbook.com/asus-chromebook-flip-c100pa-db02/ ]]></loc>
     <image:image>
         <image:loc><![CDATA[ http://www.linux-netbook.com/img/large/ASUS-Chromebook-Flip.jpg ]]></image:loc>
