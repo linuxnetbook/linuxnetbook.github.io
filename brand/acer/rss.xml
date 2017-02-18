@@ -3,9 +3,17 @@
 <channel><title>Brand » Acer</title>
     <link>http://www.linux-netbook.com</link>
     <description>Brand » Acer</description>
-    <lastBuildDate>Sat, 18 Feb 2017 15:03:30 </lastBuildDate>
+    <lastBuildDate>Sat, 18 Feb 2017 16:16:32 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Acer Chromebook R 11 CB5-132T-C8ZW]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/acer-chromebook-r-11-cb5-132t-c8zw/]]></link>
+        <description><![CDATA[The Acer Chromebook R 11 CB5-132T-C8ZW is an 11.6-inch laptop powered by a 1.6 GHz dual-core Intel Celeron N3060 processor.]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/acer-chromebook-r-11-cb5-132t-c8zw/]]></guid>
+        <pubDate>Sat, 18 Feb 2017 16:09:49 </pubDate>
+    </item>
     
     <item>
         <title><![CDATA[Acer Chromebook 14 CB3-431-C0AK]]></title>
@@ -77,14 +85,6 @@
         <description><![CDATA[The Acer Chromebook 15 CB5-571 is a 15.6-inch screen laptop, the C1DZ model is powered by a 1.5 GHz dual-core Intel Celeron 3205U CPU, comes with 4 GB RAM, 16 GB SSD ...]]></description>
         <guid><![CDATA[http://www.linux-netbook.com/acer-chromebook-15-cb5-571-c1dz/]]></guid>
         <pubDate>Sat, 14 Nov 2015 10:59:57 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[Acer Chromebook 15 C910-54M1]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/acer-chromebook-15-c910-54m1/]]></link>
-        <description><![CDATA[The Acer Chromebook 15 C910-54M1 has a 15.6-inch screen, is powered by a 2.2 GHz Intel Core i5-5200U processor and comes with 4 GB RAM, 32 GB SSD ...]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/acer-chromebook-15-c910-54m1/]]></guid>
-        <pubDate>Tue, 07 Jul 2015 12:10:19 </pubDate>
     </item>
     
 </channel></rss>

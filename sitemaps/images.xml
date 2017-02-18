@@ -696,6 +696,15 @@
 
 
 <url>
+    <loc><![CDATA[ http://www.linux-netbook.com/acer-chromebook-r-11-cb5-132t-c8zw/ ]]></loc>
+    <image:image>
+        <image:loc><![CDATA[ http://www.linux-netbook.com/img/large/acer-chromebook-r-11-cb5-132t-c8zw.jpg ]]></image:loc>
+        <image:caption><![CDATA[ Acer Chromebook R 11 CB5-132T-C8ZW ]]></image:caption>
+        <image:title><![CDATA[ Acer Chromebook R 11 CB5-132T-C8ZW ]]></image:title>
+    </image:image>
+</url>
+
+<url>
     <loc><![CDATA[ http://www.linux-netbook.com/asus-chromebook-flip-c100pa-ds03/ ]]></loc>
     <image:image>
         <image:loc><![CDATA[ http://www.linux-netbook.com/img/large/asus-chromebook-flip-c100pa-ds03.jpg ]]></image:loc>

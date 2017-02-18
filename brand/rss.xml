@@ -3,9 +3,17 @@
 <channel><title>Brand</title>
     <link>http://www.linux-netbook.com</link>
     <description>Brand</description>
-    <lastBuildDate>Sat, 18 Feb 2017 15:03:31 </lastBuildDate>
+    <lastBuildDate>Sat, 18 Feb 2017 16:16:32 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Acer Chromebook R 11 CB5-132T-C8ZW]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/acer-chromebook-r-11-cb5-132t-c8zw/]]></link>
+        <description><![CDATA[The Acer Chromebook R 11 CB5-132T-C8ZW is an 11.6-inch laptop powered by a 1.6 GHz dual-core Intel Celeron N3060 processor.]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/acer-chromebook-r-11-cb5-132t-c8zw/]]></guid>
+        <pubDate>Sat, 18 Feb 2017 16:09:49 </pubDate>
+    </item>
     
     <item>
         <title><![CDATA[ASUS Chromebook Flip C100PA-DS03]]></title>
@@ -76,14 +84,6 @@
         <link><![CDATA[http://www.linux-netbook.com/hp-chromebook-14-q010dx/]]></link>
         <description><![CDATA[The HP Chromebook 14-Q010DX is a laptop with a 14-inch screen powered by a 1.4 GHz dual-core Intel Celeron 2955U processor.]]></description>
         <guid><![CDATA[http://www.linux-netbook.com/hp-chromebook-14-q010dx/]]></guid>
-        <pubDate>Wed, 26 Oct 2016 17:07:40 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[HP Chromebook 11 G4 P0B79UT]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/hp-chromebook-11-g4-p0b79ut/]]></link>
-        <description><![CDATA[The HP Chromebook 11 G4 P0B79UT is a laptop with a 11.6-inch screen powered by a 2.16 GHz dual-core Intel Celeron N2840 processor.]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/hp-chromebook-11-g4-p0b79ut/]]></guid>
         <pubDate>Wed, 26 Oct 2016 17:07:40 </pubDate>
     </item>
     
