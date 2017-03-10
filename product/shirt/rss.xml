@@ -3,48 +3,56 @@
 <channel><title>Product » Shirt</title>
     <link>http://www.linux-netbook.com</link>
     <description>Product » Shirt</description>
-    <lastBuildDate>Thu, 23 Feb 2017 13:16:08 </lastBuildDate>
+    <lastBuildDate>Sat, 11 Mar 2017 00:05:37 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
     <item>
+        <title><![CDATA[uname Linux T-Shirt]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/product/shirt/uname-linux/]]></link>
+        <description><![CDATA[Spread your love for Linux by showing the best output the uname command can give on your t-shirt.]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/product/shirt/uname-linux/]]></guid>
+        <pubDate>Fri, 10 Mar 2017 23:45:41 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Dont Drink and Root]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/product/shirt/dont-drink-and-root/]]></link>
+        <description><![CDATA[A funny t-shirt for fans of Linux that suggests not to drink alcohol when working as the root user on your system, otherwise you may end up running the infamous rm -rf / command.]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/product/shirt/dont-drink-and-root/]]></guid>
+        <pubDate>Fri, 10 Mar 2017 23:11:33 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Close Windows and Run Linux]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/product/shirt/close-windows-and-run-linux/]]></link>
+        <description><![CDATA[A funny t-shirt for fans of Linux that suggests to close Windows and run Linux instead to have a more joyful life when spending time with your computer.]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/product/shirt/close-windows-and-run-linux/]]></guid>
+        <pubDate>Fri, 10 Mar 2017 22:20:22 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Sysadmin Because Even Developers Need Heroes]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/product/shirt/sysadmin-because-even-developers-need-heroes/]]></link>
+        <description><![CDATA[A funny parody t-shirt for people who love the hard rock band AC/DC, the Unix operating system and working with a shell to interact with their computer.]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/product/shirt/sysadmin-because-even-developers-need-heroes/]]></guid>
+        <pubDate>Fri, 10 Mar 2017 22:12:05 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Unix Highway To Shell]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/product/shirt/unix-highway-to-shell/]]></link>
+        <description><![CDATA[A funny parody t-shirt for people who love the hard rock band AC/DC, the Unix operating system and working with a shell to interact with their computer.]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/product/shirt/unix-highway-to-shell/]]></guid>
+        <pubDate>Fri, 10 Mar 2017 20:09:57 </pubDate>
+    </item>
+    
+    <item>
         <title><![CDATA[Bash Fork Bomb Black T-Shirt]]></title>
         <link><![CDATA[http://www.linux-netbook.com/product/shirt/bash-fork-bomb-black/]]></link>
-        <description><![CDATA[]]></description>
+        <description><![CDATA[This cryptic Bash command will crash a Linux or Unix system. Administrators, hackers, and some regular computer users will understand the message, others may be puzzled by this mystery shirt.]]></description>
         <guid><![CDATA[http://www.linux-netbook.com/product/shirt/bash-fork-bomb-black/]]></guid>
         <pubDate>Mon, 22 Jun 2015 18:07:42 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[COL PANIC - Punny White T-Shirt for Unix/Linux Geeks]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/product/shirt/col-panic-punny-white-shirt/]]></link>
-        <description><![CDATA[]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/product/shirt/col-panic-punny-white-shirt/]]></guid>
-        <pubDate>Mon, 25 May 2015 10:10:51 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[cd /pub more beer Shirt for Command Line Hackers]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/product/shirt/cd-pub-more-beer/]]></link>
-        <description><![CDATA[]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/product/shirt/cd-pub-more-beer/]]></guid>
-        <pubDate>Mon, 25 May 2015 10:03:14 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[There's no place like ~ White Shirt]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/product/shirt/theres-no-place-like-white/]]></link>
-        <description><![CDATA[]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/product/shirt/theres-no-place-like-white/]]></guid>
-        <pubDate>Mon, 25 May 2015 09:59:41 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[May The Fourth Be With You - Dark Geek T-Shirt]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/product/shirt/may-the-fourth-be-with-you/]]></link>
-        <description><![CDATA[]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/product/shirt/may-the-fourth-be-with-you/]]></guid>
-        <pubDate>Mon, 25 May 2015 09:59:41 </pubDate>
     </item>
     
     <item>
@@ -56,9 +64,9 @@
     </item>
     
     <item>
-        <title><![CDATA[May The Source Be With You - Dark Programmer Shirt]]></title>
+        <title><![CDATA[May The Source Be With You]]></title>
         <link><![CDATA[http://www.linux-netbook.com/product/shirt/may-the-source-be-with-you/]]></link>
-        <description><![CDATA[]]></description>
+        <description><![CDATA[Having access to the source code of software is like the force for computer programmers. Get this cool yellow text t-shirt if you love science fiction and open source code.]]></description>
         <guid><![CDATA[http://www.linux-netbook.com/product/shirt/may-the-source-be-with-you/]]></guid>
         <pubDate>Mon, 25 May 2015 09:53:20 </pubDate>
     </item>
@@ -66,7 +74,7 @@
     <item>
         <title><![CDATA[Bash Fork Bomb Green on Black T-Shirt]]></title>
         <link><![CDATA[http://www.linux-netbook.com/product/shirt/bash-fork-bomb-green-on-black/]]></link>
-        <description><![CDATA[]]></description>
+        <description><![CDATA[This cryptic Bash command will crash a Linux or Unix system. Administrators, hackers, and some regular computer users will understand the message, others may be puzzled by this mystery shirt.]]></description>
         <guid><![CDATA[http://www.linux-netbook.com/product/shirt/bash-fork-bomb-green-on-black/]]></guid>
         <pubDate>Mon, 25 May 2015 09:26:39 </pubDate>
     </item>

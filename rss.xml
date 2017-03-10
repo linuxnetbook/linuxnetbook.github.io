@@ -3,9 +3,57 @@
 <channel><title>Linux Netbook RSS Feed</title>
     <link>http://www.linux-netbook.com</link>
     <description>Linux Netbook RSS Feed</description>
-    <lastBuildDate>Thu, 23 Feb 2017 13:16:10 </lastBuildDate>
+    <lastBuildDate>Sat, 11 Mar 2017 00:05:37 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[uname Linux T-Shirt]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/product/shirt/uname-linux/]]></link>
+        <description><![CDATA[Spread your love for Linux by showing the best output the uname command can give on your t-shirt.]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/product/shirt/uname-linux/]]></guid>
+        <pubDate>Fri, 10 Mar 2017 23:45:41 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Dont Drink and Root]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/product/shirt/dont-drink-and-root/]]></link>
+        <description><![CDATA[A funny t-shirt for fans of Linux that suggests not to drink alcohol when working as the root user on your system, otherwise you may end up running the infamous rm -rf / command.]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/product/shirt/dont-drink-and-root/]]></guid>
+        <pubDate>Fri, 10 Mar 2017 23:11:33 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Close Windows and Run Linux]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/product/shirt/close-windows-and-run-linux/]]></link>
+        <description><![CDATA[A funny t-shirt for fans of Linux that suggests to close Windows and run Linux instead to have a more joyful life when spending time with your computer.]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/product/shirt/close-windows-and-run-linux/]]></guid>
+        <pubDate>Fri, 10 Mar 2017 22:20:22 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Sysadmin Because Even Developers Need Heroes]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/product/shirt/sysadmin-because-even-developers-need-heroes/]]></link>
+        <description><![CDATA[A funny parody t-shirt for people who love the hard rock band AC/DC, the Unix operating system and working with a shell to interact with their computer.]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/product/shirt/sysadmin-because-even-developers-need-heroes/]]></guid>
+        <pubDate>Fri, 10 Mar 2017 22:12:05 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Cool and Funny T-Shirts for Fans of Linux and Unix]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/shirts/]]></link>
+        <description><![CDATA[]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/shirts/]]></guid>
+        <pubDate>Fri, 10 Mar 2017 20:09:57 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Unix Highway To Shell]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/product/shirt/unix-highway-to-shell/]]></link>
+        <description><![CDATA[A funny parody t-shirt for people who love the hard rock band AC/DC, the Unix operating system and working with a shell to interact with their computer.]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/product/shirt/unix-highway-to-shell/]]></guid>
+        <pubDate>Fri, 10 Mar 2017 20:09:57 </pubDate>
+    </item>
     
     <item>
         <title><![CDATA[Acer Chromebook R 11 CB5-132T-C8ZW]]></title>
@@ -37,54 +85,6 @@
         <description><![CDATA[The Acer Chromebook R 11 CB5-132T-C1LK is an 11.6-inch laptop powered by a 1.6 GHz quad-core Intel Celeron N3150 Braswell processor.]]></description>
         <guid><![CDATA[http://www.linux-netbook.com/acer-chromebook-r-11-cb5-132t-c1lk/]]></guid>
         <pubDate>Fri, 20 Jan 2017 14:33:49 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[Acer Chromebook 15 CB5-571-362Q]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/acer-chromebook-15-cb5-571-362q/]]></link>
-        <description><![CDATA[The Acer Chromebook 15 CB5-571 362Q is a 15.6-inch screen laptop powered by a 2.0 GHz dual-core Intel Core i3 CPU and equipped with 4 GB RAM and 32 GB SSD storage.]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/acer-chromebook-15-cb5-571-362q/]]></guid>
-        <pubDate>Fri, 20 Jan 2017 14:17:38 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[Lenovo ThinkPad 13 Chromebook 20GL0000US]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/lenovo-thinkpad-13-chromebook-20gl0000us/]]></link>
-        <description><![CDATA[The Lenovo ThinkPad 13 Chromebook 20GL0000US is a slim and light laptop built for business and education.]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/lenovo-thinkpad-13-chromebook-20gl0000us/]]></guid>
-        <pubDate>Thu, 19 Jan 2017 19:43:30 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[Lenovo Chromebook N22 80VH0001US]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/lenovo-chromebook-n22-80vh0001us/]]></link>
-        <description><![CDATA[The Lenovo N22 Chromebook is an affordable, portable Chromebook with a 11.6-inch IPS touchscreen display.]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/lenovo-chromebook-n22-80vh0001us/]]></guid>
-        <pubDate>Thu, 19 Jan 2017 19:16:50 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[ASUS Chromebook Flip C302CA-DHM4]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/asus-chromebook-c302ca-dhm4/]]></link>
-        <description><![CDATA[The ASUS Chromebook C302CA-DHM4 is a convertible Chromebook with an IPS touchscreen that can be flipped over from 0 to 360 degree so the device can be used as a tablet or laptop.]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/asus-chromebook-c302ca-dhm4/]]></guid>
-        <pubDate>Wed, 18 Jan 2017 20:21:18 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[Samsung Chromebook Plus Demo at CES 2017]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/video/samsung-chromebook-plus-demo-CES-2017/]]></link>
-        <description><![CDATA[This video is a quick hands on the Samsung Chromebook Plus by Robby Payne of Chrome Unboxed at CES 2017.]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/video/samsung-chromebook-plus-demo-CES-2017/]]></guid>
-        <pubDate>Fri, 06 Jan 2017 14:29:52 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[Samsung Chromebook Plus XE513C24 K01]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/samsung-chromebook-plus-xe513c24-k01us/]]></link>
-        <description><![CDATA[The Samsung Chromebook Plus XE513C24 K01 has an 12.3 inch screen with a max resolution of 2400x1600 pixels and is powered by a 2 GHz hexa-core processor.]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/samsung-chromebook-plus-xe513c24-k01us/]]></guid>
-        <pubDate>Fri, 06 Jan 2017 14:27:22 </pubDate>
     </item>
     
 </channel></rss>

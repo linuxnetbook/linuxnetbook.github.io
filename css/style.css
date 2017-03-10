@@ -13,16 +13,16 @@ h1 {
 font-size: 34px;
 }
 
+.big {font-size: 1.4em;}
+.caret {opacity:.8;}
+.centered {text-align:center;}
+.clearfix {clear:both;}
+.roffset {margin-right: 1em;}
+.shirts {font-size: 1.6rem;}
+.small {font-size:.8em;}
 .text-padded {padding: 15px;}
 .topoffset {margin-top:1em;}
 .voffset {margin:.5em 0;}
-.roffset {margin-right: 1em;}
-.centered {text-align:center;}
-.clearfix {clear:both;}
-.small {font-size:.8em;}
-.big {font-size: 1.4em;}
-.caret {opacity:.8;}
-.shirts {font-size: 1.6rem;}
 
 .navbar-collapse.collapse {
 padding-right:0;
