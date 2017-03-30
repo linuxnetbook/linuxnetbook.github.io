@@ -189,3 +189,8 @@ white-space:nowrap;
 background-color: #f7fbff;
 border-color: #c6dbef;
 }
+
+.related-products {
+    background-color: #fdfdd8;
+    padding: .1em 1em;
+}
