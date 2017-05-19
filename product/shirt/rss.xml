@@ -3,7 +3,7 @@
 <channel><title>Product » Shirt</title>
     <link>http://www.linux-netbook.com</link>
     <description>Product » Shirt</description>
-    <lastBuildDate>Sat, 20 May 2017 00:28:34 </lastBuildDate>
+    <lastBuildDate>Sat, 20 May 2017 01:47:27 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
@@ -56,10 +56,10 @@
     </item>
     
     <item>
-        <title><![CDATA[COL PANIC - Punny White T-Shirt for Unix/Linux Geeks]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/product/shirt/col-panic-punny-white-shirt/]]></link>
+        <title><![CDATA[COL PANIC T-Shirt for Unix/Linux Geeks]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/product/shirt/col-panic-shirt/]]></link>
         <description><![CDATA[A shirt for system administrators, computer programmers and all other people who use Linux or Unix based operating system on their computers and want to show it with a sense of humor, that only insiders will understand.]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/product/shirt/col-panic-punny-white-shirt/]]></guid>
+        <guid><![CDATA[http://www.linux-netbook.com/product/shirt/col-panic-shirt/]]></guid>
         <pubDate>Mon, 25 May 2015 10:10:51 </pubDate>
     </item>
     
@@ -80,11 +80,11 @@
     </item>
     
     <item>
-        <title><![CDATA[May The Fourth Be With You - Dark Geek T-Shirt]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/product/shirt/may-the-fourth-be-with-you/]]></link>
-        <description><![CDATA[May 4th is a special day for Scifi geeks and nerds. Celebrate this special anniversary with full force and this funny design available on t-shirts and hoodies.]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/product/shirt/may-the-fourth-be-with-you/]]></guid>
-        <pubDate>Mon, 25 May 2015 09:59:41 </pubDate>
+        <title><![CDATA[VI VI VI Editor of the Beast]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/product/shirt/vi-vi-vi-editor-of-the-beast/]]></link>
+        <description><![CDATA[This t-shirt shows the text vi vi vi Editor of the Beast in a heavy metal style font.]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/product/shirt/vi-vi-vi-editor-of-the-beast/]]></guid>
+        <pubDate>Mon, 25 May 2015 09:54:20 </pubDate>
     </item>
     
 </channel></rss>

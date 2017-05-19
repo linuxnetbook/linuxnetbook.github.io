@@ -3,7 +3,7 @@
 <channel><title>Linux Netbook RSS Feed</title>
     <link>http://www.linux-netbook.com</link>
     <description>Linux Netbook RSS Feed</description>
-    <lastBuildDate>Sat, 20 May 2017 00:28:34 </lastBuildDate>
+    <lastBuildDate>Sat, 20 May 2017 01:47:28 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
@@ -40,7 +40,7 @@
     </item>
     
     <item>
-        <title><![CDATA[Cool and Funny T-Shirts for Fans of Linux and Unix]]></title>
+        <title><![CDATA[Cool and Funny T-Shirts for Fans of Linux, Unix and FOSS]]></title>
         <link><![CDATA[http://www.linux-netbook.com/shirts/]]></link>
         <description><![CDATA[]]></description>
         <guid><![CDATA[http://www.linux-netbook.com/shirts/]]></guid>
