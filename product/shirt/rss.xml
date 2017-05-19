@@ -3,7 +3,7 @@
 <channel><title>Product » Shirt</title>
     <link>http://www.linux-netbook.com</link>
     <description>Product » Shirt</description>
-    <lastBuildDate>Sat, 20 May 2017 00:22:09 </lastBuildDate>
+    <lastBuildDate>Sat, 20 May 2017 00:28:34 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
@@ -74,7 +74,7 @@
     <item>
         <title><![CDATA[There's no place like ~ White Shirt]]></title>
         <link><![CDATA[http://www.linux-netbook.com/product/shirt/theres-no-place-like-white/]]></link>
-        <description><![CDATA[A tee design showing the text "There's no place like ~", the home directory on Unix and Linux based operating systems using condensed and monospace white typefaces.]]></description>
+        <description><![CDATA[A tee design showing the text There's no place like ~, the home directory on Unix and Linux based operating systems using condensed and monospace white typefaces.]]></description>
         <guid><![CDATA[http://www.linux-netbook.com/product/shirt/theres-no-place-like-white/]]></guid>
         <pubDate>Mon, 25 May 2015 09:59:41 </pubDate>
     </item>
