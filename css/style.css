@@ -13,6 +13,12 @@ h1 {
 font-size: 34px;
 }
 
+#footer {
+margin-top: 1em;
+background: #222;
+color: #ccc;
+}
+
 .big {font-size: 1.4em;}
 .caret {opacity:.8;}
 .centered {text-align:center;}
@@ -24,30 +30,21 @@ font-size: 34px;
 .topoffset {margin-top:1em;}
 .voffset {margin:.5em 0;}
 
-.navbar-collapse.collapse {
-padding-right:0;
-}
-.navbar-inverse .navbar-nav > li >a {
-font-weight: bold;
-font-size: 1.3em;
-color: rgb(140, 193, 239);
-}
-.navbar ul.share a {
-width:90%;
-margin:2% 5% 5%;
-font-size:1.1em;
-}
-
-.site-name {
-background: url("../img/linux-netbook-logo-small.png") no-repeat scroll 0px 10px transparent;
-padding-left: 50px;
-margin-left: -4px;
-height: 40px;
-cursor: pointer;
+.alert-info {
+background-color: #f7fbff;
+border-color: #c6dbef;
 }
 
 .bodytext p {
 font-size: 1.2em;
+}
+
+.btn-shop {
+background-color:#FECD57;
+border:2px solid #FBC43C;
+font-weight:bold;
+color:#333333;
+white-space:nowrap;
 }
 
 .col-2 {
@@ -68,19 +65,46 @@ column-count: 3;
 column-gap: 10px;
 }
 
-.sidebar .btn-lg {
-font-size: 1.15em;
-}
-
 .datatable .text-right {
 padding-right: 1.8em;
 }
 
+.navbar-collapse.collapse {
+padding-right:0;
+}
+.navbar-inverse .navbar-nav > li >a {
+font-weight: bold;
+font-size: 1.3em;
+color: rgb(140, 193, 239);
+}
+.navbar ul.share a {
+width:90%;
+margin:2% 5% 5%;
+font-size:1.1em;
+}
+
+.related-products {
+background-color: #fdfdd8;
+padding: .1em 1em;
+}
+
+.site-name {
+background: url("../img/linux-netbook-logo-small.png") no-repeat scroll 0px 10px transparent;
+padding-left: 50px;
+margin-left: -4px;
+height: 40px;
+cursor: pointer;
+}
+
+/* images */
 #image-large {
 max-width: 800px;
 }
 
-/* images */
+.gift-ideas img {
+max-width: 120px;
+}
+
 figure.thumbnail {
 position: relative;
 height: 290px;
@@ -169,28 +193,4 @@ background-position: -5px -109px;
 
 .flag-sm-US {
 background-position: -5px -135px;
-}
-
-#footer {
-margin-top: 1em;
-background: #222;
-color: #ccc;
-}
-
-.btn-shop {
-background-color:#FECD57;
-border:2px solid #FBC43C;
-font-weight:bold;
-color:#333333;
-white-space:nowrap;
-}
-
-.alert-info {
-background-color: #f7fbff;
-border-color: #c6dbef;
-}
-
-.related-products {
-    background-color: #fdfdd8;
-    padding: .1em 1em;
 }

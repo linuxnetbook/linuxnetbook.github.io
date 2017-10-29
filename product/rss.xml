@@ -3,7 +3,7 @@
 <channel><title>Product</title>
     <link>http://www.linux-netbook.com</link>
     <description>Product</description>
-    <lastBuildDate>Sun, 29 Oct 2017 14:17:16 </lastBuildDate>
+    <lastBuildDate>Sun, 29 Oct 2017 17:56:40 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
@@ -48,10 +48,10 @@
     </item>
     
     <item>
-        <title><![CDATA[Bash Fork Bomb Black T-Shirt]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/product/shirt/bash-fork-bomb-black/]]></link>
+        <title><![CDATA[Bash Fork Bomb T-Shirt White Print]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/product/shirt/bash-fork-bomb-white/]]></link>
         <description><![CDATA[This cryptic Bash command will crash a Linux or Unix system. Administrators, hackers, and some regular computer users will understand the message, others may be puzzled by this mystery shirt.]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/product/shirt/bash-fork-bomb-black/]]></guid>
+        <guid><![CDATA[http://www.linux-netbook.com/product/shirt/bash-fork-bomb-white/]]></guid>
         <pubDate>Mon, 22 Jun 2015 18:07:42 </pubDate>
     </item>
     
