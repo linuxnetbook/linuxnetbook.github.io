@@ -3,7 +3,7 @@
 <channel><title>Brand » Samsung</title>
     <link>http://www.linux-netbook.com</link>
     <description>Brand » Samsung</description>
-    <lastBuildDate>Sun, 29 Oct 2017 17:56:40 </lastBuildDate>
+    <lastBuildDate>Sat, 07 Apr 2018 23:26:21 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
@@ -56,18 +56,18 @@
     </item>
     
     <item>
-        <title><![CDATA[Samsung Chromebook 2 503C12 K02]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/samsung-chromebook-2-xe503c12-k02us/]]></link>
-        <description><![CDATA[The 11.6-inch model of the Samsung Chromebook 2 features a 1.9 GHz Samsung Exynos 5 Octa 5420 octo-core processor, 4 GB RAM, 16 GB SSD, 8 hours of battery life, and an elegant leather-like stitched design.]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/samsung-chromebook-2-xe503c12-k02us/]]></guid>
-        <pubDate>Tue, 08 Apr 2014 11:09:14 </pubDate>
-    </item>
-    
-    <item>
         <title><![CDATA[Samsung Chromebook 2 503C12 K01]]></title>
         <link><![CDATA[http://www.linux-netbook.com/samsung-chromebook-2-11.6/]]></link>
         <description><![CDATA[The 11.6-inch model of the Samsung Chromebook 2 features a 1.9 GHz Samsung Exynos 5 Octa 5420 octo-core processor, 4 GB RAM, 16 GB SSD, 8 hours of battery life, and an elegant leather-like stitched design.]]></description>
         <guid><![CDATA[http://www.linux-netbook.com/samsung-chromebook-2-11.6/]]></guid>
+        <pubDate>Tue, 08 Apr 2014 11:09:14 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Samsung Chromebook 2 503C12 K02]]></title>
+        <link><![CDATA[http://www.linux-netbook.com/samsung-chromebook-2-xe503c12-k02us/]]></link>
+        <description><![CDATA[The 11.6-inch model of the Samsung Chromebook 2 features a 1.9 GHz Samsung Exynos 5 Octa 5420 octo-core processor, 4 GB RAM, 16 GB SSD, 8 hours of battery life, and an elegant leather-like stitched design.]]></description>
+        <guid><![CDATA[http://www.linux-netbook.com/samsung-chromebook-2-xe503c12-k02us/]]></guid>
         <pubDate>Tue, 08 Apr 2014 11:09:14 </pubDate>
     </item>
     
