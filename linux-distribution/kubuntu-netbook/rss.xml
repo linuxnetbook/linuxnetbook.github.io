@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Linux Distribution » Kubuntu Netbook</title>
-    <link>http://www.linux-netbook.com</link>
+    <link>https://www.linux-netbook.com</link>
     <description>Linux Distribution » Kubuntu Netbook</description>
-    <lastBuildDate>Sat, 07 Apr 2018 23:26:21 </lastBuildDate>
+    <lastBuildDate>Mon, 14 May 2018 20:48:01 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
     <item>
         <title><![CDATA[Kubuntu 9.10 Alpha 3 Netbook Edition Demo]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/video/kubuntu-910-alpha-3-netbook-edition-demo/]]></link>
+        <link><![CDATA[https://www.linux-netbook.com/video/kubuntu-910-alpha-3-netbook-edition-demo/]]></link>
         <description><![CDATA[This video is a demo of Kubuntu 9.10 Alpha 3 netbook edition run from within VirtualBox. Karmic Koala Alpha 3 comes with the new KDE desktop environment (build]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/video/kubuntu-910-alpha-3-netbook-edition-demo/]]></guid>
+        <guid><![CDATA[https://www.linux-netbook.com/video/kubuntu-910-alpha-3-netbook-edition-demo/]]></guid>
         <pubDate>Tue, 11 Aug 2009 00:12:57 </pubDate>
     </item>
     

@@ -1,41 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Brand » System76</title>
-    <link>http://www.linux-netbook.com</link>
+    <link>https://www.linux-netbook.com</link>
     <description>Brand » System76</description>
-    <lastBuildDate>Sat, 07 Apr 2018 23:26:21 </lastBuildDate>
+    <lastBuildDate>Mon, 14 May 2018 20:48:00 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
     <item>
         <title><![CDATA[System76 Starling Netbook]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/system76-starling-netbook/]]></link>
+        <link><![CDATA[https://www.linux-netbook.com/system76-starling-netbook/]]></link>
         <description><![CDATA[Linux system builder System76 upgraded their Starling netbook quietly in Q2 2011 with a 1.66 GHz dual-core Intel Atom N570 processor.]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/system76-starling-netbook/]]></guid>
+        <guid><![CDATA[https://www.linux-netbook.com/system76-starling-netbook/]]></guid>
         <pubDate>Wed, 08 Jun 2011 13:44:58 </pubDate>
     </item>
     
     <item>
         <title><![CDATA[System76 Starling Netbook v2]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/system76-starling-netbook-v2/]]></link>
+        <link><![CDATA[https://www.linux-netbook.com/system76-starling-netbook-v2/]]></link>
         <description><![CDATA[Linux system builder System76 created a successor to their 1st generation Starling netbook.]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/system76-starling-netbook-v2/]]></guid>
+        <guid><![CDATA[https://www.linux-netbook.com/system76-starling-netbook-v2/]]></guid>
         <pubDate>Tue, 27 Jul 2010 22:56:27 </pubDate>
     </item>
     
     <item>
         <title><![CDATA[System76 Starling EduBook]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/system76-starling-edubook/]]></link>
+        <link><![CDATA[https://www.linux-netbook.com/system76-starling-edubook/]]></link>
         <description><![CDATA[A year after launching the 1st version of the Starling Netbook, Linux system builder System76 comes up with a new small laptop targeted at students.]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/system76-starling-edubook/]]></guid>
+        <guid><![CDATA[https://www.linux-netbook.com/system76-starling-edubook/]]></guid>
         <pubDate>Mon, 19 Apr 2010 23:25:26 </pubDate>
     </item>
     
     <item>
         <title><![CDATA[System76 Starling Netbook v1]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/system76-starling-netbook-v1/]]></link>
+        <link><![CDATA[https://www.linux-netbook.com/system76-starling-netbook-v1/]]></link>
         <description><![CDATA[System76 is a company based in Denver, Colorado that provides and supports Ubuntu pre-installed laptops, desktops, and servers.]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/system76-starling-netbook-v1/]]></guid>
+        <guid><![CDATA[https://www.linux-netbook.com/system76-starling-netbook-v1/]]></guid>
         <pubDate>Tue, 11 Aug 2009 22:18:31 </pubDate>
     </item>
     

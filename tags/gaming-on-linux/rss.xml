@@ -1,73 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Tags » Gaming On Linux</title>
-    <link>http://www.linux-netbook.com</link>
+    <link>https://www.linux-netbook.com</link>
     <description>Tags » Gaming On Linux</description>
-    <lastBuildDate>Sat, 07 Apr 2018 23:26:21 </lastBuildDate>
+    <lastBuildDate>Mon, 14 May 2018 20:48:01 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
     <item>
         <title><![CDATA[Steam In-Home Streaming Demoed on a Toshiba Chromebook 2]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/video/steam-in-home-streaming-demoed-toshiba-chromebook-2/]]></link>
+        <link><![CDATA[https://www.linux-netbook.com/video/steam-in-home-streaming-demoed-toshiba-chromebook-2/]]></link>
         <description><![CDATA[This video demonstrates game play on a Toshiba Chromebook 2 running Xubuntu via Crouton using the Steam In-Home Streaming technology.]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/video/steam-in-home-streaming-demoed-toshiba-chromebook-2/]]></guid>
+        <guid><![CDATA[https://www.linux-netbook.com/video/steam-in-home-streaming-demoed-toshiba-chromebook-2/]]></guid>
         <pubDate>Tue, 06 Jan 2015 21:49:27 </pubDate>
     </item>
     
     <item>
         <title><![CDATA[Play Doom and Quake on a Chromebook when Offline]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/video/doom-quake-samsung-chromebook/]]></link>
+        <link><![CDATA[https://www.linux-netbook.com/video/doom-quake-samsung-chromebook/]]></link>
         <description><![CDATA[This short video demos playing the shareware version of Doom on a Samsung Chromebook. It is a flash based game, which can be played while the Chromebook is offline.]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/video/doom-quake-samsung-chromebook/]]></guid>
+        <guid><![CDATA[https://www.linux-netbook.com/video/doom-quake-samsung-chromebook/]]></guid>
         <pubDate>Tue, 13 May 2014 10:26:42 </pubDate>
     </item>
     
     <item>
         <title><![CDATA[Playing Doom and Quake on the Ben NanoNote]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/video/playing-doom-and-quake-on-the-ben-nanonote/]]></link>
+        <link><![CDATA[https://www.linux-netbook.com/video/playing-doom-and-quake-on-the-ben-nanonote/]]></link>
         <description><![CDATA[These two videos show the SDL port of Quake and a free version of Doom being played on the Ben NanoNote pocket computer. They were created by TUXBRAIN]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/video/playing-doom-and-quake-on-the-ben-nanonote/]]></guid>
+        <guid><![CDATA[https://www.linux-netbook.com/video/playing-doom-and-quake-on-the-ben-nanonote/]]></guid>
         <pubDate>Thu, 18 Mar 2010 01:18:52 </pubDate>
     </item>
     
     <item>
         <title><![CDATA[TINT: Playing Tetris in the Linux Terminal]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/video/tint-playing-tetris-in-the-linux-terminal/]]></link>
+        <link><![CDATA[https://www.linux-netbook.com/video/tint-playing-tetris-in-the-linux-terminal/]]></link>
         <description><![CDATA[TINT is a clone of the venerable Tetris game, that you play inside your Linux terminal as shown in this video by Luis.]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/video/tint-playing-tetris-in-the-linux-terminal/]]></guid>
+        <guid><![CDATA[https://www.linux-netbook.com/video/tint-playing-tetris-in-the-linux-terminal/]]></guid>
         <pubDate>Thu, 05 Nov 2009 23:23:38 </pubDate>
     </item>
     
     <item>
         <title><![CDATA[Urban Terror on Starling Netbook with UNR 9.10]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/video/urban-terror-on-starling-netbook-with-unr-910/]]></link>
+        <link><![CDATA[https://www.linux-netbook.com/video/urban-terror-on-starling-netbook-with-unr-910/]]></link>
         <description><![CDATA[This video is a short demonstration of the free multiplayer first person shooter Urban Terror being played on System76's Starling netbook. The netbook which]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/video/urban-terror-on-starling-netbook-with-unr-910/]]></guid>
+        <guid><![CDATA[https://www.linux-netbook.com/video/urban-terror-on-starling-netbook-with-unr-910/]]></guid>
         <pubDate>Tue, 03 Nov 2009 21:50:29 </pubDate>
     </item>
     
     <item>
         <title><![CDATA[Playing Final Fantasy on the ASUS Eee PC]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/video/playing-final-fantasy-on-the-asus-eee-pc/]]></link>
+        <link><![CDATA[https://www.linux-netbook.com/video/playing-final-fantasy-on-the-asus-eee-pc/]]></link>
         <description><![CDATA[This video by khanh demonstrates Final Fantasy VII being played on a basic ASUS Eee PC 701 running Xandros Linux without CPU overclocking or hardware upgrades.]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/video/playing-final-fantasy-on-the-asus-eee-pc/]]></guid>
+        <guid><![CDATA[https://www.linux-netbook.com/video/playing-final-fantasy-on-the-asus-eee-pc/]]></guid>
         <pubDate>Mon, 19 Jan 2009 22:46:26 </pubDate>
     </item>
     
     <item>
         <title><![CDATA[Sid Meier's Pirates on Acer Aspire One]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/video/sid-meiers-pirates-on-acer-aspire-one/]]></link>
+        <link><![CDATA[https://www.linux-netbook.com/video/sid-meiers-pirates-on-acer-aspire-one/]]></link>
         <description><![CDATA[I can't say how much time I spent playing Pirates on the Amiga but it sufficed to know any Caribbean city that appears in the game.]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/video/sid-meiers-pirates-on-acer-aspire-one/]]></guid>
+        <guid><![CDATA[https://www.linux-netbook.com/video/sid-meiers-pirates-on-acer-aspire-one/]]></guid>
         <pubDate>Fri, 02 Jan 2009 22:21:22 </pubDate>
     </item>
     
     <item>
         <title><![CDATA[Firefox and Quake III Arena on Acer Aspire One]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/video/firefox-and-quake-iii-arena-on-acer-aspire-one/]]></link>
+        <link><![CDATA[https://www.linux-netbook.com/video/firefox-and-quake-iii-arena-on-acer-aspire-one/]]></link>
         <description><![CDATA[Maybe Freddie Mercury would turn over in his grave hearing Queen's Mr. Fahrenheit Don't Stop me Now as the background music for a video demonstrating Firefox]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/video/firefox-and-quake-iii-arena-on-acer-aspire-one/]]></guid>
+        <guid><![CDATA[https://www.linux-netbook.com/video/firefox-and-quake-iii-arena-on-acer-aspire-one/]]></guid>
         <pubDate>Tue, 23 Sep 2008 22:04:04 </pubDate>
     </item>
     

@@ -1,41 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Linux Distribution » Opensuse</title>
-    <link>http://www.linux-netbook.com</link>
+    <link>https://www.linux-netbook.com</link>
     <description>Linux Distribution » Opensuse</description>
-    <lastBuildDate>Sat, 07 Apr 2018 23:26:21 </lastBuildDate>
+    <lastBuildDate>Mon, 14 May 2018 20:48:01 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
     <item>
         <title><![CDATA[A Walk Through SUSE Studio]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/video/a-walk-through-suse-studio/]]></link>
+        <link><![CDATA[https://www.linux-netbook.com/video/a-walk-through-suse-studio/]]></link>
         <description><![CDATA[SUSE Studio is a new Web based service for creating Linux appliances based on openSUSE, SUSE Linux Enterprise Desktop, and SUSE Linux Enterprise Server. It]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/video/a-walk-through-suse-studio/]]></guid>
+        <guid><![CDATA[https://www.linux-netbook.com/video/a-walk-through-suse-studio/]]></guid>
         <pubDate>Wed, 19 Aug 2009 00:14:24 </pubDate>
     </item>
     
     <item>
         <title><![CDATA[Moblin 2.0 Beta for Netbooks Available for Download]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/video/moblin-20-beta-for-netbooks-available-for-download/]]></link>
+        <link><![CDATA[https://www.linux-netbook.com/video/moblin-20-beta-for-netbooks-available-for-download/]]></link>
         <description><![CDATA[Moblin version 2.0 beta was released today and can be downloaded from the Moblin website. Moblin which is a blending of Mobile Linux is a Linux distro optimized]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/video/moblin-20-beta-for-netbooks-available-for-download/]]></guid>
+        <guid><![CDATA[https://www.linux-netbook.com/video/moblin-20-beta-for-netbooks-available-for-download/]]></guid>
         <pubDate>Tue, 19 May 2009 21:28:30 </pubDate>
     </item>
     
     <item>
         <title><![CDATA[openSUSE on Netbooks at FOSDEM 2009]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/video/opensuse-on-netbooks-at-fosdem-2009/]]></link>
+        <link><![CDATA[https://www.linux-netbook.com/video/opensuse-on-netbooks-at-fosdem-2009/]]></link>
         <description><![CDATA[At this year's FOSDEM (Free and Open Source Software Developers' European Meeting) Stefan Seyfried, who works on the openSUSE Linux distribution, gave this talk]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/video/opensuse-on-netbooks-at-fosdem-2009/]]></guid>
+        <guid><![CDATA[https://www.linux-netbook.com/video/opensuse-on-netbooks-at-fosdem-2009/]]></guid>
         <pubDate>Tue, 14 Apr 2009 22:54:46 </pubDate>
     </item>
     
     <item>
         <title><![CDATA[Brief Introduction to 9 Linux Distributions]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/video/brief-introduction-to-9-linux-distributions/]]></link>
+        <link><![CDATA[https://www.linux-netbook.com/video/brief-introduction-to-9-linux-distributions/]]></link>
         <description><![CDATA[Shawn Powers of Linux Journal briefly introduces 9 Linux distributions in about 6 minutes. He starts with 5 tiny Linux distros, which are well suited for low]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/video/brief-introduction-to-9-linux-distributions/]]></guid>
+        <guid><![CDATA[https://www.linux-netbook.com/video/brief-introduction-to-9-linux-distributions/]]></guid>
         <pubDate>Tue, 03 Mar 2009 00:34:21 </pubDate>
     </item>
     

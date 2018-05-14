@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Linux Distribution » Wattos</title>
-    <link>http://www.linux-netbook.com</link>
+    <link>https://www.linux-netbook.com</link>
     <description>Linux Distribution » Wattos</description>
-    <lastBuildDate>Sat, 07 Apr 2018 23:26:21 </lastBuildDate>
+    <lastBuildDate>Mon, 14 May 2018 20:48:01 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
     <item>
         <title><![CDATA[Linux Mint 8 on the Gecko Edubook]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/video/linux-mint-8-on-the-gecko-edubook/]]></link>
+        <link><![CDATA[https://www.linux-netbook.com/video/linux-mint-8-on-the-gecko-edubook/]]></link>
         <description><![CDATA[This is a short demo of Linux Mint 8 running on the Gecko Edubook. For a full-blown OS like Linux Mint, which required 8.5GB disk space in the example]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/video/linux-mint-8-on-the-gecko-edubook/]]></guid>
+        <guid><![CDATA[https://www.linux-netbook.com/video/linux-mint-8-on-the-gecko-edubook/]]></guid>
         <pubDate>Thu, 24 Dec 2009 22:00:13 </pubDate>
     </item>
     
     <item>
         <title><![CDATA[Gecko Edubook Running wattOS]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/video/gecko-edubook-running-wattos/]]></link>
+        <link><![CDATA[https://www.linux-netbook.com/video/gecko-edubook-running-wattos/]]></link>
         <description><![CDATA[wattOS is a lightweight Ubuntu based Linux distro designed to run on low power computers and recycled systems. The main goal of the project is to create a full]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/video/gecko-edubook-running-wattos/]]></guid>
+        <guid><![CDATA[https://www.linux-netbook.com/video/gecko-edubook-running-wattos/]]></guid>
         <pubDate>Mon, 14 Sep 2009 21:06:30 </pubDate>
     </item>
     

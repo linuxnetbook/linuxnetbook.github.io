@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Tags » Hpminimi</title>
-    <link>http://www.linux-netbook.com</link>
+    <link>https://www.linux-netbook.com</link>
     <description>Tags » Hpminimi</description>
-    <lastBuildDate>Sat, 07 Apr 2018 23:26:21 </lastBuildDate>
+    <lastBuildDate>Mon, 14 May 2018 20:48:00 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
     <item>
         <title><![CDATA[Installing PHP on the HP Mini Mi]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/video/installing-php-on-the-hp-mini-mi/]]></link>
+        <link><![CDATA[https://www.linux-netbook.com/video/installing-php-on-the-hp-mini-mi/]]></link>
         <description><![CDATA[In this screencast I show how to install and enable the PHP programming language on the HP Mini Mi from the terminal with just 3 commands.]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/video/installing-php-on-the-hp-mini-mi/]]></guid>
+        <guid><![CDATA[https://www.linux-netbook.com/video/installing-php-on-the-hp-mini-mi/]]></guid>
         <pubDate>Wed, 17 Jun 2009 23:29:41 </pubDate>
     </item>
     
     <item>
         <title><![CDATA[MIE: Creating a Keyboard Shortcut for the Terminal]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/video/mie-creating-a-keyboard-shortcut-for-the-terminal/]]></link>
+        <link><![CDATA[https://www.linux-netbook.com/video/mie-creating-a-keyboard-shortcut-for-the-terminal/]]></link>
         <description><![CDATA[One of the things that striked me when first reading about the Mobile Internet Experience software was that the Linux command line interface is disabled on the]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/video/mie-creating-a-keyboard-shortcut-for-the-terminal/]]></guid>
+        <guid><![CDATA[https://www.linux-netbook.com/video/mie-creating-a-keyboard-shortcut-for-the-terminal/]]></guid>
         <pubDate>Wed, 25 Feb 2009 23:28:13 </pubDate>
     </item>
     
     <item>
         <title><![CDATA[My Mobile Internet Experience]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/review/my-mobile-internet-experience/]]></link>
+        <link><![CDATA[https://www.linux-netbook.com/review/my-mobile-internet-experience/]]></link>
         <description><![CDATA[I was lucky recently being offered an HP Mini 1000 Mi netbook for review from Buzzcorps, which is a marketing agency running word-of-mouth campaigns.]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/review/my-mobile-internet-experience/]]></guid>
+        <guid><![CDATA[https://www.linux-netbook.com/review/my-mobile-internet-experience/]]></guid>
         <pubDate>Sun, 15 Feb 2009 18:50:49 </pubDate>
     </item>
     

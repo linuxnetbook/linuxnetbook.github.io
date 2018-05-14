@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Tags » Migrating To Linux</title>
-    <link>http://www.linux-netbook.com</link>
+    <link>https://www.linux-netbook.com</link>
     <description>Tags » Migrating To Linux</description>
-    <lastBuildDate>Sat, 07 Apr 2018 23:26:21 </lastBuildDate>
+    <lastBuildDate>Mon, 14 May 2018 20:48:01 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
     <item>
         <title><![CDATA[Migrate an old Hacktop from Windows XP to Ubuntu]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/video/migrate-hacktop-windows-xp-ubuntu/]]></link>
+        <link><![CDATA[https://www.linux-netbook.com/video/migrate-hacktop-windows-xp-ubuntu/]]></link>
         <description><![CDATA[These videos from the Computerphile channel show how to migrate an 8yr old Hacktop from Windows XP to Ubuntu 2012 LTS.]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/video/migrate-hacktop-windows-xp-ubuntu/]]></guid>
+        <guid><![CDATA[https://www.linux-netbook.com/video/migrate-hacktop-windows-xp-ubuntu/]]></guid>
         <pubDate>Thu, 06 Mar 2014 13:04:19 </pubDate>
     </item>
     

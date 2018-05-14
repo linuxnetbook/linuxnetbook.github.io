@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Tags » Fud</title>
-    <link>http://www.linux-netbook.com</link>
+    <link>https://www.linux-netbook.com</link>
     <description>Tags » Fud</description>
-    <lastBuildDate>Sat, 07 Apr 2018 23:26:21 </lastBuildDate>
+    <lastBuildDate>Mon, 14 May 2018 20:48:01 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
     <item>
         <title><![CDATA[Microsoft's Desperate Attempt to Discredit Chromebooks]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/microsoft-discredits-chromebooks/]]></link>
+        <link><![CDATA[https://www.linux-netbook.com/microsoft-discredits-chromebooks/]]></link>
         <description><![CDATA[Microsoft recently published a video on YouTube (now private) to spread some FUD against Chromebooks based on misinformation and unproven statements.]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/microsoft-discredits-chromebooks/]]></guid>
+        <guid><![CDATA[https://www.linux-netbook.com/microsoft-discredits-chromebooks/]]></guid>
         <pubDate>Tue, 02 Sep 2014 12:09:02 </pubDate>
     </item>
     

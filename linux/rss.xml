@@ -1,41 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Linux</title>
-    <link>http://www.linux-netbook.com</link>
+    <link>https://www.linux-netbook.com</link>
     <description>Linux</description>
-    <lastBuildDate>Sat, 07 Apr 2018 23:26:21 </lastBuildDate>
+    <lastBuildDate>Mon, 14 May 2018 20:48:00 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
     <item>
         <title><![CDATA[Linux Kernel 0.1 Code Statistics]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/linux/linux-kernel-statistics/]]></link>
+        <link><![CDATA[https://www.linux-netbook.com/linux/linux-kernel-statistics/]]></link>
         <description><![CDATA[This table shows code statistics for the Linux kernel version 0.1 released on Aug 25, 1991 calculated with cloc.]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/linux/linux-kernel-statistics/]]></guid>
+        <guid><![CDATA[https://www.linux-netbook.com/linux/linux-kernel-statistics/]]></guid>
         <pubDate>Thu, 25 Aug 2016 12:37:48 </pubDate>
     </item>
     
     <item>
         <title><![CDATA[Interactive Timeline of the History of Linux]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/linux/timeline/]]></link>
+        <link><![CDATA[https://www.linux-netbook.com/linux/timeline/]]></link>
         <description><![CDATA[A timeline of major events in the history of Linux from its 1st announcement to the current state of the Linux project. Events are accompanied by descriptive texts, photos, and videos.]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/linux/timeline/]]></guid>
+        <guid><![CDATA[https://www.linux-netbook.com/linux/timeline/]]></guid>
         <pubDate>Fri, 14 Mar 2014 00:32:00 </pubDate>
     </item>
     
     <item>
         <title><![CDATA[World Maps of Ratio and Number of Linux Users per Country]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/linux/linux-counter-map/]]></link>
+        <link><![CDATA[https://www.linux-netbook.com/linux/linux-counter-map/]]></link>
         <description><![CDATA[These 2 maps show the ratio and total number of registered Linux users per country from the Linux Counter project as of March 3, 2014.]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/linux/linux-counter-map/]]></guid>
+        <guid><![CDATA[https://www.linux-netbook.com/linux/linux-counter-map/]]></guid>
         <pubDate>Mon, 03 Mar 2014 18:48:02 </pubDate>
     </item>
     
     <item>
         <title><![CDATA[Linux Distributions | Linux Kernel Based Operating Systems]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/linux/distributions/]]></link>
+        <link><![CDATA[https://www.linux-netbook.com/linux/distributions/]]></link>
         <description><![CDATA[A list of all Linux distros and Linux kernel based operating systems featured on Linux-Netbook.com.]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/linux/distributions/]]></guid>
+        <guid><![CDATA[https://www.linux-netbook.com/linux/distributions/]]></guid>
         <pubDate>Wed, 14 Jan 2009 00:00:00 </pubDate>
     </item>
     

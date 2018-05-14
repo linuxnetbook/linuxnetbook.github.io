@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Tags » Tasmanian Devil</title>
-    <link>http://www.linux-netbook.com</link>
+    <link>https://www.linux-netbook.com</link>
     <description>Tags » Tasmanian Devil</description>
-    <lastBuildDate>Sat, 07 Apr 2018 23:26:21 </lastBuildDate>
+    <lastBuildDate>Mon, 14 May 2018 20:48:01 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
     <item>
         <title><![CDATA[Tasmanian Devil Committed to Linux Kernel]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/video/tasmanian-devil-committed-to-linux-kernel/]]></link>
+        <link><![CDATA[https://www.linux-netbook.com/video/tasmanian-devil-committed-to-linux-kernel/]]></link>
         <description><![CDATA[Last Monday Linus Torvalds did a commit to replace the Linux mascot Tux with Tuz in the Linux kernel version 2.6.29. Tuz will be the mascot in this release to]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/video/tasmanian-devil-committed-to-linux-kernel/]]></guid>
+        <guid><![CDATA[https://www.linux-netbook.com/video/tasmanian-devil-committed-to-linux-kernel/]]></guid>
         <pubDate>Wed, 18 Mar 2009 12:26:43 </pubDate>
     </item>
     

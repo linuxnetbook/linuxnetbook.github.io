@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Tags » Hackintosh</title>
-    <link>http://www.linux-netbook.com</link>
+    <link>https://www.linux-netbook.com</link>
     <description>Tags » Hackintosh</description>
-    <lastBuildDate>Sat, 07 Apr 2018 23:26:21 </lastBuildDate>
+    <lastBuildDate>Mon, 14 May 2018 20:48:01 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
     <item>
         <title><![CDATA[How to install Mac OS X 10.5 on a Dell Mini 9]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/video/how-to-install-mac-os-x-105-on-a-dell-mini-9/]]></link>
+        <link><![CDATA[https://www.linux-netbook.com/video/how-to-install-mac-os-x-105-on-a-dell-mini-9/]]></link>
         <description><![CDATA[In this video tutorial the Too Smart Guys walk through the process of installing Mac OS X 10.5 on a pink Dell Mini 9 netbook. Personally, I don't see a point in]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/video/how-to-install-mac-os-x-105-on-a-dell-mini-9/]]></guid>
+        <guid><![CDATA[https://www.linux-netbook.com/video/how-to-install-mac-os-x-105-on-a-dell-mini-9/]]></guid>
         <pubDate>Sat, 01 Aug 2009 16:15:25 </pubDate>
     </item>
     

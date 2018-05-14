@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Tags » Lxde</title>
-    <link>http://www.linux-netbook.com</link>
+    <link>https://www.linux-netbook.com</link>
     <description>Tags » Lxde</description>
-    <lastBuildDate>Sat, 07 Apr 2018 23:26:21 </lastBuildDate>
+    <lastBuildDate>Mon, 14 May 2018 20:48:01 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
     <item>
         <title><![CDATA[Ubuntu 10.04 Desktop Environments GUI Demo]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/video/ubuntu-1004-desktop-environments-gui-demo/]]></link>
+        <link><![CDATA[https://www.linux-netbook.com/video/ubuntu-1004-desktop-environments-gui-demo/]]></link>
         <description><![CDATA[Tim from the OSGUI Tech Show takes a look at different desktop environments for Ubuntu 10.04 on his ASUS Eee PC 1001HA netbook. In this video he gives us short]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/video/ubuntu-1004-desktop-environments-gui-demo/]]></guid>
+        <guid><![CDATA[https://www.linux-netbook.com/video/ubuntu-1004-desktop-environments-gui-demo/]]></guid>
         <pubDate>Wed, 17 Mar 2010 00:10:56 </pubDate>
     </item>
     

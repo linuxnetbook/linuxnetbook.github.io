@@ -1,41 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Tags » Crouton</title>
-    <link>http://www.linux-netbook.com</link>
+    <link>https://www.linux-netbook.com</link>
     <description>Tags » Crouton</description>
-    <lastBuildDate>Sat, 07 Apr 2018 23:26:21 </lastBuildDate>
+    <lastBuildDate>Mon, 14 May 2018 20:48:01 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
     <item>
         <title><![CDATA[Crouton Explained on an HP Chromebook 11]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/video/crouton-explained-hp-chromebook-11/]]></link>
+        <link><![CDATA[https://www.linux-netbook.com/video/crouton-explained-hp-chromebook-11/]]></link>
         <description><![CDATA[In episode 1721 of hak5 host Darren explains what Crouton is, what chrooted environment means and how you can run Linux on a Chromebook.]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/video/crouton-explained-hp-chromebook-11/]]></guid>
+        <guid><![CDATA[https://www.linux-netbook.com/video/crouton-explained-hp-chromebook-11/]]></guid>
         <pubDate>Sun, 11 Jan 2015 20:09:37 </pubDate>
     </item>
     
     <item>
         <title><![CDATA[Steam In-Home Streaming Demoed on a Toshiba Chromebook 2]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/video/steam-in-home-streaming-demoed-toshiba-chromebook-2/]]></link>
+        <link><![CDATA[https://www.linux-netbook.com/video/steam-in-home-streaming-demoed-toshiba-chromebook-2/]]></link>
         <description><![CDATA[This video demonstrates game play on a Toshiba Chromebook 2 running Xubuntu via Crouton using the Steam In-Home Streaming technology.]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/video/steam-in-home-streaming-demoed-toshiba-chromebook-2/]]></guid>
+        <guid><![CDATA[https://www.linux-netbook.com/video/steam-in-home-streaming-demoed-toshiba-chromebook-2/]]></guid>
         <pubDate>Tue, 06 Jan 2015 21:49:27 </pubDate>
     </item>
     
     <item>
         <title><![CDATA[How to Run Linux on Chromebooks with Crouton]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/video/how-to-run-linux-on-chromebooks-with-crouton/]]></link>
+        <link><![CDATA[https://www.linux-netbook.com/video/how-to-run-linux-on-chromebooks-with-crouton/]]></link>
         <description><![CDATA[In this video tutorial YouTuber Johnny Phung shows how you can run other Linuxes than Chrome OS on Chromebooks using a software called crouton.]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/video/how-to-run-linux-on-chromebooks-with-crouton/]]></guid>
+        <guid><![CDATA[https://www.linux-netbook.com/video/how-to-run-linux-on-chromebooks-with-crouton/]]></guid>
         <pubDate>Wed, 26 Feb 2014 09:38:39 </pubDate>
     </item>
     
     <item>
         <title><![CDATA[Run Chrome OS and Linux simultaneously on the Chromebook Pixel]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/video/multitasking-with-chrome-os-and-linux-on-the-chromebook-pixel/]]></link>
+        <link><![CDATA[https://www.linux-netbook.com/video/multitasking-with-chrome-os-and-linux-on-the-chromebook-pixel/]]></link>
         <description><![CDATA[In this demo video Kevin Tofel of Gigaom shows how you can use Google's Chromebook Pixel with other Linux based operating systems than Chrome OS.]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/video/multitasking-with-chrome-os-and-linux-on-the-chromebook-pixel/]]></guid>
+        <guid><![CDATA[https://www.linux-netbook.com/video/multitasking-with-chrome-os-and-linux-on-the-chromebook-pixel/]]></guid>
         <pubDate>Sun, 16 Feb 2014 13:53:12 </pubDate>
     </item>
     

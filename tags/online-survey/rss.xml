@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Tags » Online Survey</title>
-    <link>http://www.linux-netbook.com</link>
+    <link>https://www.linux-netbook.com</link>
     <description>Tags » Online Survey</description>
-    <lastBuildDate>Sat, 07 Apr 2018 23:26:21 </lastBuildDate>
+    <lastBuildDate>Mon, 14 May 2018 20:48:00 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
     <item>
         <title><![CDATA[Tell ASUS You Want Linux]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/tell-asus-you-want-linux/]]></link>
+        <link><![CDATA[https://www.linux-netbook.com/tell-asus-you-want-linux/]]></link>
         <description><![CDATA[ASUS, who kicked off the netbook revolution 2 years ago with their 7 inch Eee PC 701 running a custom Linux distro, effectively abandoned Linux from their Eee PC line.]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/tell-asus-you-want-linux/]]></guid>
+        <guid><![CDATA[https://www.linux-netbook.com/tell-asus-you-want-linux/]]></guid>
         <pubDate>Wed, 16 Dec 2009 01:39:23 </pubDate>
     </item>
     

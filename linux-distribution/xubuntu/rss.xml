@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Linux Distribution » Xubuntu</title>
-    <link>http://www.linux-netbook.com</link>
+    <link>https://www.linux-netbook.com</link>
     <description>Linux Distribution » Xubuntu</description>
-    <lastBuildDate>Sat, 07 Apr 2018 23:26:21 </lastBuildDate>
+    <lastBuildDate>Mon, 14 May 2018 20:48:01 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
     <item>
         <title><![CDATA[Steam In-Home Streaming Demoed on a Toshiba Chromebook 2]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/video/steam-in-home-streaming-demoed-toshiba-chromebook-2/]]></link>
+        <link><![CDATA[https://www.linux-netbook.com/video/steam-in-home-streaming-demoed-toshiba-chromebook-2/]]></link>
         <description><![CDATA[This video demonstrates game play on a Toshiba Chromebook 2 running Xubuntu via Crouton using the Steam In-Home Streaming technology.]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/video/steam-in-home-streaming-demoed-toshiba-chromebook-2/]]></guid>
+        <guid><![CDATA[https://www.linux-netbook.com/video/steam-in-home-streaming-demoed-toshiba-chromebook-2/]]></guid>
         <pubDate>Tue, 06 Jan 2015 21:49:27 </pubDate>
     </item>
     

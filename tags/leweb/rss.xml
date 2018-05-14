@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Tags » Leweb</title>
-    <link>http://www.linux-netbook.com</link>
+    <link>https://www.linux-netbook.com</link>
     <description>Tags » Leweb</description>
-    <lastBuildDate>Sat, 07 Apr 2018 23:26:21 </lastBuildDate>
+    <lastBuildDate>Mon, 14 May 2018 20:48:01 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
     <item>
         <title><![CDATA[Jolicloud Pre-Beta on the Samsung N140]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/video/jolicloud-pre-beta-on-the-samsung-n140/]]></link>
+        <link><![CDATA[https://www.linux-netbook.com/video/jolicloud-pre-beta-on-the-samsung-n140/]]></link>
         <description><![CDATA[After months of private alpha testing Tariq Krim, founder and CEO of Jolicloud, announced the launch of the publicly available pre-beta of the Linux based]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/video/jolicloud-pre-beta-on-the-samsung-n140/]]></guid>
+        <guid><![CDATA[https://www.linux-netbook.com/video/jolicloud-pre-beta-on-the-samsung-n140/]]></guid>
         <pubDate>Sun, 13 Dec 2009 23:31:46 </pubDate>
     </item>
     

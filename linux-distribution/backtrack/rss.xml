@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Linux Distribution » Backtrack</title>
-    <link>http://www.linux-netbook.com</link>
+    <link>https://www.linux-netbook.com</link>
     <description>Linux Distribution » Backtrack</description>
-    <lastBuildDate>Sat, 07 Apr 2018 23:26:21 </lastBuildDate>
+    <lastBuildDate>Mon, 14 May 2018 20:48:01 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
     <item>
         <title><![CDATA[How to Wipe out Windows 7 and install BackTrack on a Netbook]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/video/how-to-wipe-out-windows-7-and-install-backtrack-on-a-netbook/]]></link>
+        <link><![CDATA[https://www.linux-netbook.com/video/how-to-wipe-out-windows-7-and-install-backtrack-on-a-netbook/]]></link>
         <description><![CDATA[This is a fun video showing how to completely wipe out Windows 7 Starter from a netbook using the Katana security suite and how to install BackTrack Linux on it.]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/video/how-to-wipe-out-windows-7-and-install-backtrack-on-a-netbook/]]></guid>
+        <guid><![CDATA[https://www.linux-netbook.com/video/how-to-wipe-out-windows-7-and-install-backtrack-on-a-netbook/]]></guid>
         <pubDate>Sun, 27 Feb 2011 22:01:59 </pubDate>
     </item>
     

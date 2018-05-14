@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Tags » Project Announcement</title>
-    <link>http://www.linux-netbook.com</link>
+    <link>https://www.linux-netbook.com</link>
     <description>Tags » Project Announcement</description>
-    <lastBuildDate>Sat, 07 Apr 2018 23:26:21 </lastBuildDate>
+    <lastBuildDate>Mon, 14 May 2018 20:48:01 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
     <item>
         <title><![CDATA[Ubuntu Desktop Coming to Android Devices]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/video/ubuntu-desktop-coming-to-android-devices/]]></link>
+        <link><![CDATA[https://www.linux-netbook.com/video/ubuntu-desktop-coming-to-android-devices/]]></link>
         <description><![CDATA[Canonical has been working on bringing Android together with the Ubuntu desktop to create the killer app for multi-core phones in 2012 with both systems sharing]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/video/ubuntu-desktop-coming-to-android-devices/]]></guid>
+        <guid><![CDATA[https://www.linux-netbook.com/video/ubuntu-desktop-coming-to-android-devices/]]></guid>
         <pubDate>Wed, 22 Feb 2012 14:37:44 </pubDate>
     </item>
     
     <item>
         <title><![CDATA[Ubuntu Unity Caught On Video]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/video/ubuntu-unity-caught-on-video/]]></link>
+        <link><![CDATA[https://www.linux-netbook.com/video/ubuntu-unity-caught-on-video/]]></link>
         <description><![CDATA[In his keynote at this week's Ubuntu Developer Summit in Brussels, Belgium, Ubuntu founder Mark Shuttleworth unveiled Unity and Ubuntu Light. Ubuntu Light is a]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/video/ubuntu-unity-caught-on-video/]]></guid>
+        <guid><![CDATA[https://www.linux-netbook.com/video/ubuntu-unity-caught-on-video/]]></guid>
         <pubDate>Tue, 11 May 2010 23:45:44 </pubDate>
     </item>
     
     <item>
         <title><![CDATA[What is MeeGo?]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/video/what-is-meego/]]></link>
+        <link><![CDATA[https://www.linux-netbook.com/video/what-is-meego/]]></link>
         <description><![CDATA[MeeGo is an open source operating system hosted by the Linux Foundation that combines Intel's Moblin and Nokia's Maemo projects into a single platform for the]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/video/what-is-meego/]]></guid>
+        <guid><![CDATA[https://www.linux-netbook.com/video/what-is-meego/]]></guid>
         <pubDate>Mon, 15 Feb 2010 21:21:11 </pubDate>
     </item>
     

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Linux Distribution » Suse Linux Enterprise Server</title>
-    <link>http://www.linux-netbook.com</link>
+    <link>https://www.linux-netbook.com</link>
     <description>Linux Distribution » Suse Linux Enterprise Server</description>
-    <lastBuildDate>Sat, 07 Apr 2018 23:26:21 </lastBuildDate>
+    <lastBuildDate>Mon, 14 May 2018 20:48:01 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
     <item>
         <title><![CDATA[A Walk Through SUSE Studio]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/video/a-walk-through-suse-studio/]]></link>
+        <link><![CDATA[https://www.linux-netbook.com/video/a-walk-through-suse-studio/]]></link>
         <description><![CDATA[SUSE Studio is a new Web based service for creating Linux appliances based on openSUSE, SUSE Linux Enterprise Desktop, and SUSE Linux Enterprise Server. It]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/video/a-walk-through-suse-studio/]]></guid>
+        <guid><![CDATA[https://www.linux-netbook.com/video/a-walk-through-suse-studio/]]></guid>
         <pubDate>Wed, 19 Aug 2009 00:14:24 </pubDate>
     </item>
     

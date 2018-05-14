@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Tags » Videocast</title>
-    <link>http://www.linux-netbook.com</link>
+    <link>https://www.linux-netbook.com</link>
     <description>Tags » Videocast</description>
-    <lastBuildDate>Sat, 07 Apr 2018 23:26:21 </lastBuildDate>
+    <lastBuildDate>Mon, 14 May 2018 20:48:01 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
     <item>
         <title><![CDATA[Getting the best out of the Hosts File]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/video/getting-the-best-out-of-the-hosts-file/]]></link>
+        <link><![CDATA[https://www.linux-netbook.com/video/getting-the-best-out-of-the-hosts-file/]]></link>
         <description><![CDATA[Linux Journal's daily videocast Tech Tip for the Day features tips on how to make your life easier using the powerful tools Linux has to offer. Most of the]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/video/getting-the-best-out-of-the-hosts-file/]]></guid>
+        <guid><![CDATA[https://www.linux-netbook.com/video/getting-the-best-out-of-the-hosts-file/]]></guid>
         <pubDate>Mon, 06 Apr 2009 21:27:40 </pubDate>
     </item>
     

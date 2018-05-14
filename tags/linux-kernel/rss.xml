@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Tags » Linux Kernel</title>
-    <link>http://www.linux-netbook.com</link>
+    <link>https://www.linux-netbook.com</link>
     <description>Tags » Linux Kernel</description>
-    <lastBuildDate>Sat, 07 Apr 2018 23:26:21 </lastBuildDate>
+    <lastBuildDate>Mon, 14 May 2018 20:48:00 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
     <item>
         <title><![CDATA[Which Domains Contribute Most to the Linux Kernel?]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/top-domains-by-linux-kernel-commits/]]></link>
+        <link><![CDATA[https://www.linux-netbook.com/top-domains-by-linux-kernel-commits/]]></link>
         <description><![CDATA[A bar graph showing the top 30 Internet domains by count of commits to the Linux kernel. The domains were extracted from author email addresses.]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/top-domains-by-linux-kernel-commits/]]></guid>
+        <guid><![CDATA[https://www.linux-netbook.com/top-domains-by-linux-kernel-commits/]]></guid>
         <pubDate>Fri, 28 Feb 2014 13:57:21 </pubDate>
     </item>
     

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Linux Distribution » Mepis</title>
-    <link>http://www.linux-netbook.com</link>
+    <link>https://www.linux-netbook.com</link>
     <description>Linux Distribution » Mepis</description>
-    <lastBuildDate>Sat, 07 Apr 2018 23:26:21 </lastBuildDate>
+    <lastBuildDate>Mon, 14 May 2018 20:48:01 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
     <item>
         <title><![CDATA[Brief Introduction to 9 Linux Distributions]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/video/brief-introduction-to-9-linux-distributions/]]></link>
+        <link><![CDATA[https://www.linux-netbook.com/video/brief-introduction-to-9-linux-distributions/]]></link>
         <description><![CDATA[Shawn Powers of Linux Journal briefly introduces 9 Linux distributions in about 6 minutes. He starts with 5 tiny Linux distros, which are well suited for low]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/video/brief-introduction-to-9-linux-distributions/]]></guid>
+        <guid><![CDATA[https://www.linux-netbook.com/video/brief-introduction-to-9-linux-distributions/]]></guid>
         <pubDate>Tue, 03 Mar 2009 00:34:21 </pubDate>
     </item>
     

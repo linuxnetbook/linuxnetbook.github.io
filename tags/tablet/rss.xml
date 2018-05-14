@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Tags » Tablet</title>
-    <link>http://www.linux-netbook.com</link>
+    <link>https://www.linux-netbook.com</link>
     <description>Tags » Tablet</description>
-    <lastBuildDate>Sat, 07 Apr 2018 23:26:21 </lastBuildDate>
+    <lastBuildDate>Mon, 14 May 2018 20:48:00 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
     <item>
         <title><![CDATA[iFreeTablet: the GNU/Linux Answer to the iPad]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/ifreetablet-the-gnulinux-answer-to-the-ipad/]]></link>
+        <link><![CDATA[https://www.linux-netbook.com/ifreetablet-the-gnulinux-answer-to-the-ipad/]]></link>
         <description><![CDATA[The iFreeTablet is a tablet computer developed by Spanish EATCO Group at the University of Cordoba.]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/ifreetablet-the-gnulinux-answer-to-the-ipad/]]></guid>
+        <guid><![CDATA[https://www.linux-netbook.com/ifreetablet-the-gnulinux-answer-to-the-ipad/]]></guid>
         <pubDate>Sun, 31 Jan 2010 00:06:48 </pubDate>
     </item>
     

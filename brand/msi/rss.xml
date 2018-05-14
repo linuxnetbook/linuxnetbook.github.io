@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Brand » Msi</title>
-    <link>http://www.linux-netbook.com</link>
+    <link>https://www.linux-netbook.com</link>
     <description>Brand » Msi</description>
-    <lastBuildDate>Sat, 07 Apr 2018 23:26:21 </lastBuildDate>
+    <lastBuildDate>Mon, 14 May 2018 20:48:00 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
     <item>
         <title><![CDATA[MSI Wind]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/msi-wind/]]></link>
+        <link><![CDATA[https://www.linux-netbook.com/msi-wind/]]></link>
         <description><![CDATA[Micro-Star International's (MSI) Wind netbook was first announced at CeBIT 2008.]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/msi-wind/]]></guid>
+        <guid><![CDATA[https://www.linux-netbook.com/msi-wind/]]></guid>
         <pubDate>Thu, 11 Sep 2008 21:12:29 </pubDate>
     </item>
     

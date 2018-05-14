@@ -1,89 +1,89 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Linux Netbook RSS Feed</title>
-    <link>http://www.linux-netbook.com</link>
+    <link>https://www.linux-netbook.com</link>
     <description>Linux Netbook RSS Feed</description>
-    <lastBuildDate>Sat, 07 Apr 2018 23:26:21 </lastBuildDate>
+    <lastBuildDate>Mon, 14 May 2018 20:48:01 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
     <item>
         <title><![CDATA[uname Linux T-Shirt]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/product/shirt/uname-linux/]]></link>
+        <link><![CDATA[https://www.linux-netbook.com/product/shirt/uname-linux/]]></link>
         <description><![CDATA[Spread your love for Linux by showing the best output the uname command can give on your t-shirt.]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/product/shirt/uname-linux/]]></guid>
+        <guid><![CDATA[https://www.linux-netbook.com/product/shirt/uname-linux/]]></guid>
         <pubDate>Fri, 10 Mar 2017 23:45:41 </pubDate>
     </item>
     
     <item>
         <title><![CDATA[Dont Drink and Root]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/product/shirt/dont-drink-and-root/]]></link>
+        <link><![CDATA[https://www.linux-netbook.com/product/shirt/dont-drink-and-root/]]></link>
         <description><![CDATA[A funny t-shirt for fans of Linux that suggests not to drink alcohol when working as the root user on your system, otherwise you may end up running the infamous rm -rf / command.]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/product/shirt/dont-drink-and-root/]]></guid>
+        <guid><![CDATA[https://www.linux-netbook.com/product/shirt/dont-drink-and-root/]]></guid>
         <pubDate>Fri, 10 Mar 2017 23:11:33 </pubDate>
     </item>
     
     <item>
         <title><![CDATA[Close Windows and Run Linux]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/product/shirt/close-windows-and-run-linux/]]></link>
+        <link><![CDATA[https://www.linux-netbook.com/product/shirt/close-windows-and-run-linux/]]></link>
         <description><![CDATA[A funny t-shirt for fans of Linux that suggests to close Windows and run Linux instead to have a more joyful life when spending time with your computer.]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/product/shirt/close-windows-and-run-linux/]]></guid>
+        <guid><![CDATA[https://www.linux-netbook.com/product/shirt/close-windows-and-run-linux/]]></guid>
         <pubDate>Fri, 10 Mar 2017 22:20:22 </pubDate>
     </item>
     
     <item>
         <title><![CDATA[Sysadmin Because Even Developers Need Heroes]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/product/shirt/sysadmin-because-even-developers-need-heroes/]]></link>
+        <link><![CDATA[https://www.linux-netbook.com/product/shirt/sysadmin-because-even-developers-need-heroes/]]></link>
         <description><![CDATA[A funny parody t-shirt for people who love the hard rock band AC/DC, the Unix operating system and working with a shell to interact with their computer.]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/product/shirt/sysadmin-because-even-developers-need-heroes/]]></guid>
+        <guid><![CDATA[https://www.linux-netbook.com/product/shirt/sysadmin-because-even-developers-need-heroes/]]></guid>
         <pubDate>Fri, 10 Mar 2017 22:12:05 </pubDate>
     </item>
     
     <item>
         <title><![CDATA[Cool and Funny T-Shirts for Fans of Linux, Unix and FOSS]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/shirts/]]></link>
+        <link><![CDATA[https://www.linux-netbook.com/shirts/]]></link>
         <description><![CDATA[]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/shirts/]]></guid>
+        <guid><![CDATA[https://www.linux-netbook.com/shirts/]]></guid>
         <pubDate>Fri, 10 Mar 2017 20:09:57 </pubDate>
     </item>
     
     <item>
         <title><![CDATA[Unix Highway To Shell]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/product/shirt/unix-highway-to-shell/]]></link>
+        <link><![CDATA[https://www.linux-netbook.com/product/shirt/unix-highway-to-shell/]]></link>
         <description><![CDATA[A funny parody t-shirt for people who love the hard rock band AC/DC, the Unix operating system and working with a shell to interact with their computer.]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/product/shirt/unix-highway-to-shell/]]></guid>
+        <guid><![CDATA[https://www.linux-netbook.com/product/shirt/unix-highway-to-shell/]]></guid>
         <pubDate>Fri, 10 Mar 2017 20:09:57 </pubDate>
     </item>
     
     <item>
         <title><![CDATA[Acer Chromebook R 11 CB5-132T-C8ZW]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/acer-chromebook-r-11-cb5-132t-c8zw/]]></link>
+        <link><![CDATA[https://www.linux-netbook.com/acer-chromebook-r-11-cb5-132t-c8zw/]]></link>
         <description><![CDATA[The Acer Chromebook R 11 CB5-132T-C8ZW is an 11.6-inch laptop powered by a 1.6 GHz dual-core Intel Celeron N3060 processor.]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/acer-chromebook-r-11-cb5-132t-c8zw/]]></guid>
+        <guid><![CDATA[https://www.linux-netbook.com/acer-chromebook-r-11-cb5-132t-c8zw/]]></guid>
         <pubDate>Sat, 18 Feb 2017 16:09:49 </pubDate>
     </item>
     
     <item>
         <title><![CDATA[ASUS Chromebook Flip C100PA-DS03]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/asus-chromebook-flip-c100pa-ds03/]]></link>
+        <link><![CDATA[https://www.linux-netbook.com/asus-chromebook-flip-c100pa-ds03/]]></link>
         <description><![CDATA[The ASUS Flip C100PA-DS03 is a convertible Chromebook with an IPS touchscreen that can be flipped over from 0 to 360 degree so the device can be used as a tablet or laptop.]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/asus-chromebook-flip-c100pa-ds03/]]></guid>
+        <guid><![CDATA[https://www.linux-netbook.com/asus-chromebook-flip-c100pa-ds03/]]></guid>
         <pubDate>Sat, 18 Feb 2017 14:42:47 </pubDate>
     </item>
     
     <item>
         <title><![CDATA[Acer Chromebook 14 CB3-431-C0AK]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/acer-chromebook-14-cb3-431-c0ak/]]></link>
+        <link><![CDATA[https://www.linux-netbook.com/acer-chromebook-14-cb3-431-c0ak/]]></link>
         <description><![CDATA[The Acer Chromebook 14 CB3-431-C0AK is a slim and lightweight laptop with a 14-inch full HD IPS display. It is equipped with a quad-core Intel Celeron N3160 processor, 4 GB RAM and 32 GB eMMC storage.]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/acer-chromebook-14-cb3-431-c0ak/]]></guid>
+        <guid><![CDATA[https://www.linux-netbook.com/acer-chromebook-14-cb3-431-c0ak/]]></guid>
         <pubDate>Thu, 26 Jan 2017 12:43:48 </pubDate>
     </item>
     
     <item>
         <title><![CDATA[Acer Chromebook R 11 CB5-132T-C1LK]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/acer-chromebook-r-11-cb5-132t-c1lk/]]></link>
+        <link><![CDATA[https://www.linux-netbook.com/acer-chromebook-r-11-cb5-132t-c1lk/]]></link>
         <description><![CDATA[The Acer Chromebook R 11 CB5-132T-C1LK is an 11.6-inch laptop powered by a 1.6 GHz quad-core Intel Celeron N3150 Braswell processor.]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/acer-chromebook-r-11-cb5-132t-c1lk/]]></guid>
+        <guid><![CDATA[https://www.linux-netbook.com/acer-chromebook-r-11-cb5-132t-c1lk/]]></guid>
         <pubDate>Fri, 20 Jan 2017 14:33:49 </pubDate>
     </item>
     

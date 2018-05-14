@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Brand » Zareason</title>
-    <link>http://www.linux-netbook.com</link>
+    <link>https://www.linux-netbook.com</link>
     <description>Brand » Zareason</description>
-    <lastBuildDate>Sat, 07 Apr 2018 23:26:21 </lastBuildDate>
+    <lastBuildDate>Mon, 14 May 2018 20:48:00 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
     <item>
         <title><![CDATA[ZaReason Terra HD]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/zareason-terra-hd/]]></link>
+        <link><![CDATA[https://www.linux-netbook.com/zareason-terra-hd/]]></link>
         <description><![CDATA[The Terra HD is a thin and lightweight 11.6-inch netbook/subnotebook by Linux hardware builder ZaReason. It is powered by a 1.66 GHz Intel Atom N450 CPU.]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/zareason-terra-hd/]]></guid>
+        <guid><![CDATA[https://www.linux-netbook.com/zareason-terra-hd/]]></guid>
         <pubDate>Sun, 19 Sep 2010 12:36:40 </pubDate>
     </item>
     
     <item>
         <title><![CDATA[ZaReason Teo]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/zareason-teo/]]></link>
+        <link><![CDATA[https://www.linux-netbook.com/zareason-teo/]]></link>
         <description><![CDATA[The ZaReason Teo, that I just discovered on Amazon.com, looks like the successor of the Terra A20, which was the first netbook by ZaReason.]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/zareason-teo/]]></guid>
+        <guid><![CDATA[https://www.linux-netbook.com/zareason-teo/]]></guid>
         <pubDate>Wed, 24 Mar 2010 01:21:00 </pubDate>
     </item>
     
     <item>
         <title><![CDATA[ZaReason Terra A20]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/zareason-terra-a20/]]></link>
+        <link><![CDATA[https://www.linux-netbook.com/zareason-terra-a20/]]></link>
         <description><![CDATA[The Terra A20 is the first netbook by ZaReason, a Linux hardware builder based in Berkeley, California. The Terra A20 has a 10 inch matte LCD screen.]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/zareason-terra-a20/]]></guid>
+        <guid><![CDATA[https://www.linux-netbook.com/zareason-terra-a20/]]></guid>
         <pubDate>Thu, 13 Aug 2009 21:56:03 </pubDate>
     </item>
     

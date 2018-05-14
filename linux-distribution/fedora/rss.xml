@@ -1,49 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Linux Distribution » Fedora</title>
-    <link>http://www.linux-netbook.com</link>
+    <link>https://www.linux-netbook.com</link>
     <description>Linux Distribution » Fedora</description>
-    <lastBuildDate>Sat, 07 Apr 2018 23:26:21 </lastBuildDate>
+    <lastBuildDate>Mon, 14 May 2018 20:48:00 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
     <item>
         <title><![CDATA[Replacing the WiFi Card in an MSI Wind U100 Netbook]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/video/replacing-the-wifi-card-in-an-msi-wind-u100-netbook/]]></link>
+        <link><![CDATA[https://www.linux-netbook.com/video/replacing-the-wifi-card-in-an-msi-wind-u100-netbook/]]></link>
         <description><![CDATA[This is a video for the tinkerers among you, which shows how to upgrade the built-in Realtek WiFi card of an MSI Wind U100 netbook to an draft N card,]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/video/replacing-the-wifi-card-in-an-msi-wind-u100-netbook/]]></guid>
+        <guid><![CDATA[https://www.linux-netbook.com/video/replacing-the-wifi-card-in-an-msi-wind-u100-netbook/]]></guid>
         <pubDate>Mon, 12 Mar 2012 16:41:06 </pubDate>
     </item>
     
     <item>
         <title><![CDATA[Fedora 16 Running on an HP Mini 110]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/video/fedora-16-running-on-an-hp-mini-110/]]></link>
+        <link><![CDATA[https://www.linux-netbook.com/video/fedora-16-running-on-an-hp-mini-110/]]></link>
         <description><![CDATA[There hasn't been a lot of Fedora coverage here so far, even though it is one of the most popular Linux distributions. I don't know of any netbook that comes]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/video/fedora-16-running-on-an-hp-mini-110/]]></guid>
+        <guid><![CDATA[https://www.linux-netbook.com/video/fedora-16-running-on-an-hp-mini-110/]]></guid>
         <pubDate>Mon, 12 Dec 2011 22:56:38 </pubDate>
     </item>
     
     <item>
         <title><![CDATA[ZaReason Terra HD]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/zareason-terra-hd/]]></link>
+        <link><![CDATA[https://www.linux-netbook.com/zareason-terra-hd/]]></link>
         <description><![CDATA[The Terra HD is a thin and lightweight 11.6-inch netbook/subnotebook by Linux hardware builder ZaReason. It is powered by a 1.66 GHz Intel Atom N450 CPU.]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/zareason-terra-hd/]]></guid>
+        <guid><![CDATA[https://www.linux-netbook.com/zareason-terra-hd/]]></guid>
         <pubDate>Sun, 19 Sep 2010 12:36:40 </pubDate>
     </item>
     
     <item>
         <title><![CDATA[Using Linux Apps via Multitouch Displays]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/video/using-linux-apps-via-multitouch-displays/]]></link>
+        <link><![CDATA[https://www.linux-netbook.com/video/using-linux-apps-via-multitouch-displays/]]></link>
         <description><![CDATA[This video created by developers from the Interactive Computing Lab at ENAC demonstrates interaction with existing Linux applications in Fedora 12 via]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/video/using-linux-apps-via-multitouch-displays/]]></guid>
+        <guid><![CDATA[https://www.linux-netbook.com/video/using-linux-apps-via-multitouch-displays/]]></guid>
         <pubDate>Sun, 20 Dec 2009 23:13:03 </pubDate>
     </item>
     
     <item>
         <title><![CDATA[Introduction to Sugar on a Stick v2 Blueberry]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/video/introduction-to-sugar-on-a-stick-v2-blueberry/]]></link>
+        <link><![CDATA[https://www.linux-netbook.com/video/introduction-to-sugar-on-a-stick-v2-blueberry/]]></link>
         <description><![CDATA[Sugar on a Stick is a Live Linux distribution that can be loaded onto any flash drive with at least 1GB storage capacity to boot the child-friendly Sugar]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/video/introduction-to-sugar-on-a-stick-v2-blueberry/]]></guid>
+        <guid><![CDATA[https://www.linux-netbook.com/video/introduction-to-sugar-on-a-stick-v2-blueberry/]]></guid>
         <pubDate>Tue, 08 Dec 2009 22:36:43 </pubDate>
     </item>
     

@@ -46,7 +46,7 @@
 # | |___| | | | | |_| |>  <  | |\  |  __/ |_| |_) | (_) | (_) |   <
 # |_____|_|_| |_|\__,_/_/\_\ |_| \_|\___|\__|_.__/ \___/ \___/|_|\_\
 
-Sitemap: http://www.linux-netbook.com/sitemaps/index.xml
+Sitemap: https://www.linux-netbook.com/sitemaps/index.xml
 
 # 80legs
 User-agent: 008

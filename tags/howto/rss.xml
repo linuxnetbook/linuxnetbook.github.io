@@ -1,89 +1,89 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Tags » Howto</title>
-    <link>http://www.linux-netbook.com</link>
+    <link>https://www.linux-netbook.com</link>
     <description>Tags » Howto</description>
-    <lastBuildDate>Sat, 07 Apr 2018 23:26:21 </lastBuildDate>
+    <lastBuildDate>Mon, 14 May 2018 20:48:00 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
     <item>
         <title><![CDATA[Tips and Tools to Choose or Build the Right Linux Distro for You]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/tips-and-tools-to-choose-or-build-the-right-linux-distro-for-you/]]></link>
+        <link><![CDATA[https://www.linux-netbook.com/tips-and-tools-to-choose-or-build-the-right-linux-distro-for-you/]]></link>
         <description><![CDATA[This article contains tips and points to further resources to guide new users in choosing the right Linux distribution.]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/tips-and-tools-to-choose-or-build-the-right-linux-distro-for-you/]]></guid>
+        <guid><![CDATA[https://www.linux-netbook.com/tips-and-tools-to-choose-or-build-the-right-linux-distro-for-you/]]></guid>
         <pubDate>Fri, 13 Apr 2012 14:37:47 </pubDate>
     </item>
     
     <item>
         <title><![CDATA[Replacing the WiFi Card in an MSI Wind U100 Netbook]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/video/replacing-the-wifi-card-in-an-msi-wind-u100-netbook/]]></link>
+        <link><![CDATA[https://www.linux-netbook.com/video/replacing-the-wifi-card-in-an-msi-wind-u100-netbook/]]></link>
         <description><![CDATA[This is a video for the tinkerers among you, which shows how to upgrade the built-in Realtek WiFi card of an MSI Wind U100 netbook to an draft N card,]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/video/replacing-the-wifi-card-in-an-msi-wind-u100-netbook/]]></guid>
+        <guid><![CDATA[https://www.linux-netbook.com/video/replacing-the-wifi-card-in-an-msi-wind-u100-netbook/]]></guid>
         <pubDate>Mon, 12 Mar 2012 16:41:06 </pubDate>
     </item>
     
     <item>
         <title><![CDATA[How to Improve KDE Plasma Netbook Performance]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/video/how-to-improve-kde-plasma-netbook-performance/]]></link>
+        <link><![CDATA[https://www.linux-netbook.com/video/how-to-improve-kde-plasma-netbook-performance/]]></link>
         <description><![CDATA[Marco Martin posted a little how to on improving KDE Plasma Netbook performance and created this video to demonstrate the result of the configuration change he]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/video/how-to-improve-kde-plasma-netbook-performance/]]></guid>
+        <guid><![CDATA[https://www.linux-netbook.com/video/how-to-improve-kde-plasma-netbook-performance/]]></guid>
         <pubDate>Mon, 07 Jun 2010 00:33:06 </pubDate>
     </item>
     
     <item>
         <title><![CDATA[How to Install Ubuntu Netbook Remix 9.10 Screencast]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/video/how-to-install-ubuntu-netbook-remix-910-screencast/]]></link>
+        <link><![CDATA[https://www.linux-netbook.com/video/how-to-install-ubuntu-netbook-remix-910-screencast/]]></link>
         <description><![CDATA[This screencast tutorial from the OSGUI Tech Show shows how to install Ubuntu Netbook Remix 9.10. Tim takes you through the installation steps and after]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/video/how-to-install-ubuntu-netbook-remix-910-screencast/]]></guid>
+        <guid><![CDATA[https://www.linux-netbook.com/video/how-to-install-ubuntu-netbook-remix-910-screencast/]]></guid>
         <pubDate>Mon, 01 Feb 2010 23:29:48 </pubDate>
     </item>
     
     <item>
         <title><![CDATA[Ylmf OS Demoed on a Netbook]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/video/ylmf-os-demoed-on-a-netbook/]]></link>
+        <link><![CDATA[https://www.linux-netbook.com/video/ylmf-os-demoed-on-a-netbook/]]></link>
         <description><![CDATA[If you think Linux is not right for you, because it's different and you wouldn't know how to get along with it, Ylmf OS maybe something for you, provided you]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/video/ylmf-os-demoed-on-a-netbook/]]></guid>
+        <guid><![CDATA[https://www.linux-netbook.com/video/ylmf-os-demoed-on-a-netbook/]]></guid>
         <pubDate>Sun, 27 Dec 2009 19:33:07 </pubDate>
     </item>
     
     <item>
         <title><![CDATA[How to Create a Jolicloud Website App with Prism]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/video/how-to-create-a-jolicloud-website-app-with-prism/]]></link>
+        <link><![CDATA[https://www.linux-netbook.com/video/how-to-create-a-jolicloud-website-app-with-prism/]]></link>
         <description><![CDATA[Mozilla Prism is an application for integrating web applications with the desktop. Web apps created with Prism can be accessed like any other desktop]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/video/how-to-create-a-jolicloud-website-app-with-prism/]]></guid>
+        <guid><![CDATA[https://www.linux-netbook.com/video/how-to-create-a-jolicloud-website-app-with-prism/]]></guid>
         <pubDate>Sun, 06 Dec 2009 21:28:30 </pubDate>
     </item>
     
     <item>
         <title><![CDATA[Installing Kuki Linux on the Acer Aspire One]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/video/installing-kuki-linux-on-the-acer-aspire-one/]]></link>
+        <link><![CDATA[https://www.linux-netbook.com/video/installing-kuki-linux-on-the-acer-aspire-one/]]></link>
         <description><![CDATA[I have never heard of Kuki Linux before watching this video on how to install it on the Acer Aspire One netbook. Kuki Linux is a lightweight Linux distribution]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/video/installing-kuki-linux-on-the-acer-aspire-one/]]></guid>
+        <guid><![CDATA[https://www.linux-netbook.com/video/installing-kuki-linux-on-the-acer-aspire-one/]]></guid>
         <pubDate>Fri, 21 Aug 2009 23:21:12 </pubDate>
     </item>
     
     <item>
         <title><![CDATA[How to Set up recordMyDesktop]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/video/how-to-set-up-recordmydesktop/]]></link>
+        <link><![CDATA[https://www.linux-netbook.com/video/how-to-set-up-recordmydesktop/]]></link>
         <description><![CDATA[recordMyDesktop is an open source desktop session recorder for producing screencasts on GNU / Linux based operating systems. There are two available frontend]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/video/how-to-set-up-recordmydesktop/]]></guid>
+        <guid><![CDATA[https://www.linux-netbook.com/video/how-to-set-up-recordmydesktop/]]></guid>
         <pubDate>Wed, 12 Aug 2009 13:32:40 </pubDate>
     </item>
     
     <item>
         <title><![CDATA[How to install Mac OS X 10.5 on a Dell Mini 9]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/video/how-to-install-mac-os-x-105-on-a-dell-mini-9/]]></link>
+        <link><![CDATA[https://www.linux-netbook.com/video/how-to-install-mac-os-x-105-on-a-dell-mini-9/]]></link>
         <description><![CDATA[In this video tutorial the Too Smart Guys walk through the process of installing Mac OS X 10.5 on a pink Dell Mini 9 netbook. Personally, I don't see a point in]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/video/how-to-install-mac-os-x-105-on-a-dell-mini-9/]]></guid>
+        <guid><![CDATA[https://www.linux-netbook.com/video/how-to-install-mac-os-x-105-on-a-dell-mini-9/]]></guid>
         <pubDate>Sat, 01 Aug 2009 16:15:25 </pubDate>
     </item>
     
     <item>
         <title><![CDATA[Installing PHP on the HP Mini Mi]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/video/installing-php-on-the-hp-mini-mi/]]></link>
+        <link><![CDATA[https://www.linux-netbook.com/video/installing-php-on-the-hp-mini-mi/]]></link>
         <description><![CDATA[In this screencast I show how to install and enable the PHP programming language on the HP Mini Mi from the terminal with just 3 commands.]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/video/installing-php-on-the-hp-mini-mi/]]></guid>
+        <guid><![CDATA[https://www.linux-netbook.com/video/installing-php-on-the-hp-mini-mi/]]></guid>
         <pubDate>Wed, 17 Jun 2009 23:29:41 </pubDate>
     </item>
     

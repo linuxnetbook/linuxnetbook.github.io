@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Tags » Live Distro</title>
-    <link>http://www.linux-netbook.com</link>
+    <link>https://www.linux-netbook.com</link>
     <description>Tags » Live Distro</description>
-    <lastBuildDate>Sat, 07 Apr 2018 23:26:21 </lastBuildDate>
+    <lastBuildDate>Mon, 14 May 2018 20:48:01 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
     <item>
         <title><![CDATA[Introduction to Sugar on a Stick v2 Blueberry]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/video/introduction-to-sugar-on-a-stick-v2-blueberry/]]></link>
+        <link><![CDATA[https://www.linux-netbook.com/video/introduction-to-sugar-on-a-stick-v2-blueberry/]]></link>
         <description><![CDATA[Sugar on a Stick is a Live Linux distribution that can be loaded onto any flash drive with at least 1GB storage capacity to boot the child-friendly Sugar]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/video/introduction-to-sugar-on-a-stick-v2-blueberry/]]></guid>
+        <guid><![CDATA[https://www.linux-netbook.com/video/introduction-to-sugar-on-a-stick-v2-blueberry/]]></guid>
         <pubDate>Tue, 08 Dec 2009 22:36:43 </pubDate>
     </item>
     

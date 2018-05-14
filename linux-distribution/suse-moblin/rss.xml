@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Linux Distribution » Suse Moblin</title>
-    <link>http://www.linux-netbook.com</link>
+    <link>https://www.linux-netbook.com</link>
     <description>Linux Distribution » Suse Moblin</description>
-    <lastBuildDate>Sat, 07 Apr 2018 23:26:21 </lastBuildDate>
+    <lastBuildDate>Mon, 14 May 2018 20:48:01 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
     <item>
         <title><![CDATA[MSI Wind U160 Running SUSE Moblin at MWC]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/video/msi-wind-u160-running-suse-moblin-at-mwc/]]></link>
+        <link><![CDATA[https://www.linux-netbook.com/video/msi-wind-u160-running-suse-moblin-at-mwc/]]></link>
         <description><![CDATA[Back in January at CES 2010 the MSI Wind U135 running SUSE Moblin attracted lots of attention and now at Mobile World Congress there shows up another MSI Wind.]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/video/msi-wind-u160-running-suse-moblin-at-mwc/]]></guid>
+        <guid><![CDATA[https://www.linux-netbook.com/video/msi-wind-u160-running-suse-moblin-at-mwc/]]></guid>
         <pubDate>Wed, 17 Feb 2010 21:00:26 </pubDate>
     </item>
     
     <item>
         <title><![CDATA[SUSE Moblin Linux on the MSI Wind U135]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/video/suse-moblin-linux-on-the-msi-wind-u135/]]></link>
+        <link><![CDATA[https://www.linux-netbook.com/video/suse-moblin-linux-on-the-msi-wind-u135/]]></link>
         <description><![CDATA[The openSUSE project was one of the early adopters of Moblin and now we can see the result of mixing SUSE Linux and Moblin on the upcoming MSI Wind U135]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/video/suse-moblin-linux-on-the-msi-wind-u135/]]></guid>
+        <guid><![CDATA[https://www.linux-netbook.com/video/suse-moblin-linux-on-the-msi-wind-u135/]]></guid>
         <pubDate>Fri, 08 Jan 2010 00:04:09 </pubDate>
     </item>
     

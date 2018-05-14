@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Linux Distribution » Leeenux</title>
-    <link>http://www.linux-netbook.com</link>
+    <link>https://www.linux-netbook.com</link>
     <description>Linux Distribution » Leeenux</description>
-    <lastBuildDate>Sat, 07 Apr 2018 23:26:21 </lastBuildDate>
+    <lastBuildDate>Mon, 14 May 2018 20:48:01 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
     <item>
         <title><![CDATA[Leeenux Installation Howto and Demo]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/video/leeenux-installation-howto-and-demo/]]></link>
+        <link><![CDATA[https://www.linux-netbook.com/video/leeenux-installation-howto-and-demo/]]></link>
         <description><![CDATA[Leeenux is a Linux distribution based on Ubuntu Netbook Remix 8.04 and easypeasy that is mainly targeted at the Asus Eee PC 4G surf, a.k.a. Eee 701G. By]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/video/leeenux-installation-howto-and-demo/]]></guid>
+        <guid><![CDATA[https://www.linux-netbook.com/video/leeenux-installation-howto-and-demo/]]></guid>
         <pubDate>Mon, 26 Oct 2009 21:29:21 </pubDate>
     </item>
     

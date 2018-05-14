@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Tags » Mozilla Prism</title>
-    <link>http://www.linux-netbook.com</link>
+    <link>https://www.linux-netbook.com</link>
     <description>Tags » Mozilla Prism</description>
-    <lastBuildDate>Sat, 07 Apr 2018 23:26:21 </lastBuildDate>
+    <lastBuildDate>Mon, 14 May 2018 20:48:01 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
     <item>
         <title><![CDATA[How to Create a Jolicloud Website App with Prism]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/video/how-to-create-a-jolicloud-website-app-with-prism/]]></link>
+        <link><![CDATA[https://www.linux-netbook.com/video/how-to-create-a-jolicloud-website-app-with-prism/]]></link>
         <description><![CDATA[Mozilla Prism is an application for integrating web applications with the desktop. Web apps created with Prism can be accessed like any other desktop]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/video/how-to-create-a-jolicloud-website-app-with-prism/]]></guid>
+        <guid><![CDATA[https://www.linux-netbook.com/video/how-to-create-a-jolicloud-website-app-with-prism/]]></guid>
         <pubDate>Sun, 06 Dec 2009 21:28:30 </pubDate>
     </item>
     

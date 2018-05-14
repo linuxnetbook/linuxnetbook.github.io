@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Tags » Ubuntu Unity</title>
-    <link>http://www.linux-netbook.com</link>
+    <link>https://www.linux-netbook.com</link>
     <description>Tags » Ubuntu Unity</description>
-    <lastBuildDate>Sat, 07 Apr 2018 23:26:21 </lastBuildDate>
+    <lastBuildDate>Mon, 14 May 2018 20:48:00 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
     <item>
         <title><![CDATA[A Closer Look at Ubuntu Unity]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/video/a-closer-look-at-ubuntu-unity/]]></link>
+        <link><![CDATA[https://www.linux-netbook.com/video/a-closer-look-at-ubuntu-unity/]]></link>
         <description><![CDATA[Here's another video with impressions of the new Unity user interface in Ubuntu Netbook Edition 10.10 showing the quite radical changes compared to the UI in]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/video/a-closer-look-at-ubuntu-unity/]]></guid>
+        <guid><![CDATA[https://www.linux-netbook.com/video/a-closer-look-at-ubuntu-unity/]]></guid>
         <pubDate>Fri, 15 Oct 2010 09:01:40 </pubDate>
     </item>
     
     <item>
         <title><![CDATA[Multitouch in Ubuntu Unity with uTouch]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/video/multitouch-in-ubuntu-unity-with-utouch/]]></link>
+        <link><![CDATA[https://www.linux-netbook.com/video/multitouch-in-ubuntu-unity-with-utouch/]]></link>
         <description><![CDATA[This video from the Ubuntu Developers channel demonstrates multitouch capabilities provided by the uTouch gesture framework in Ubuntu Unity.]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/video/multitouch-in-ubuntu-unity-with-utouch/]]></guid>
+        <guid><![CDATA[https://www.linux-netbook.com/video/multitouch-in-ubuntu-unity-with-utouch/]]></guid>
         <pubDate>Thu, 14 Oct 2010 20:50:41 </pubDate>
     </item>
     
     <item>
         <title><![CDATA[Ubuntu Unity Caught On Video]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/video/ubuntu-unity-caught-on-video/]]></link>
+        <link><![CDATA[https://www.linux-netbook.com/video/ubuntu-unity-caught-on-video/]]></link>
         <description><![CDATA[In his keynote at this week's Ubuntu Developer Summit in Brussels, Belgium, Ubuntu founder Mark Shuttleworth unveiled Unity and Ubuntu Light. Ubuntu Light is a]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/video/ubuntu-unity-caught-on-video/]]></guid>
+        <guid><![CDATA[https://www.linux-netbook.com/video/ubuntu-unity-caught-on-video/]]></guid>
         <pubDate>Tue, 11 May 2010 23:45:44 </pubDate>
     </item>
     

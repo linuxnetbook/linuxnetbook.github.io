@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Tags » Keyboard Shortcut</title>
-    <link>http://www.linux-netbook.com</link>
+    <link>https://www.linux-netbook.com</link>
     <description>Tags » Keyboard Shortcut</description>
-    <lastBuildDate>Sat, 07 Apr 2018 23:26:21 </lastBuildDate>
+    <lastBuildDate>Mon, 14 May 2018 20:48:01 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
     <item>
         <title><![CDATA[MIE: Creating a Keyboard Shortcut for the Terminal]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/video/mie-creating-a-keyboard-shortcut-for-the-terminal/]]></link>
+        <link><![CDATA[https://www.linux-netbook.com/video/mie-creating-a-keyboard-shortcut-for-the-terminal/]]></link>
         <description><![CDATA[One of the things that striked me when first reading about the Mobile Internet Experience software was that the Linux command line interface is disabled on the]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/video/mie-creating-a-keyboard-shortcut-for-the-terminal/]]></guid>
+        <guid><![CDATA[https://www.linux-netbook.com/video/mie-creating-a-keyboard-shortcut-for-the-terminal/]]></guid>
         <pubDate>Wed, 25 Feb 2009 23:28:13 </pubDate>
     </item>
     

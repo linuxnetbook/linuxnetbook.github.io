@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Bits Of Linux » 2014</title>
-    <link>http://www.linux-netbook.com</link>
+    <link>https://www.linux-netbook.com</link>
     <description>Bits Of Linux » 2014</description>
-    <lastBuildDate>Sat, 07 Apr 2018 23:26:21 </lastBuildDate>
+    <lastBuildDate>Mon, 14 May 2018 20:48:00 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
     <item>
         <title><![CDATA[Bits of Linux: 2014 #1]]></title>
-        <link><![CDATA[http://www.linux-netbook.com/bits-of-linux/2014/1/]]></link>
+        <link><![CDATA[https://www.linux-netbook.com/bits-of-linux/2014/1/]]></link>
         <description><![CDATA[This is the first post of a new bi-weekly series called Bits of Linux, where I share a selection of interesting articles, discussions, QA, open source software projects, new Linux devices and a dose of fun stuff related to Linux.]]></description>
-        <guid><![CDATA[http://www.linux-netbook.com/bits-of-linux/2014/1/]]></guid>
+        <guid><![CDATA[https://www.linux-netbook.com/bits-of-linux/2014/1/]]></guid>
         <pubDate>Mon, 22 Dec 2014 17:14:16 </pubDate>
     </item>
     
