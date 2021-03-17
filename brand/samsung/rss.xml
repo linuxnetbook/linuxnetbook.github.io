@@ -3,7 +3,7 @@
 <channel><title>Brand » Samsung</title>
     <link>https://www.linux-netbook.com</link>
     <description>Brand » Samsung</description>
-    <lastBuildDate>Mon, 14 May 2018 20:48:00 </lastBuildDate>
+    <lastBuildDate>Wed, 17 Mar 2021 22:33:55 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
@@ -72,18 +72,18 @@
     </item>
     
     <item>
-        <title><![CDATA[Samsung Chromebook 303C12 H01]]></title>
-        <link><![CDATA[https://www.linux-netbook.com/samsung-chromebook-ex303c12-h01us/]]></link>
-        <description><![CDATA[The Samsung Chromebook has a 11.6-inch display with 1080p support and is powered by a 1.7 GHz dual-core Samsung Exynos 5250 processor.]]></description>
-        <guid><![CDATA[https://www.linux-netbook.com/samsung-chromebook-ex303c12-h01us/]]></guid>
-        <pubDate>Thu, 18 Oct 2012 20:19:37 </pubDate>
-    </item>
-    
-    <item>
         <title><![CDATA[Samsung Chromebook 303C12 A01]]></title>
         <link><![CDATA[https://www.linux-netbook.com/samsung-chromebook/]]></link>
         <description><![CDATA[The Samsung Chromebook has a 11.6-inch display with 1080p support and is powered by a 1.7 GHz dual-core Samsung Exynos 5250 processor.]]></description>
         <guid><![CDATA[https://www.linux-netbook.com/samsung-chromebook/]]></guid>
+        <pubDate>Thu, 18 Oct 2012 20:19:37 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Samsung Chromebook 303C12 H01]]></title>
+        <link><![CDATA[https://www.linux-netbook.com/samsung-chromebook-ex303c12-h01us/]]></link>
+        <description><![CDATA[The Samsung Chromebook has a 11.6-inch display with 1080p support and is powered by a 1.7 GHz dual-core Samsung Exynos 5250 processor.]]></description>
+        <guid><![CDATA[https://www.linux-netbook.com/samsung-chromebook-ex303c12-h01us/]]></guid>
         <pubDate>Thu, 18 Oct 2012 20:19:37 </pubDate>
     </item>
     

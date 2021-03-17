@@ -1668,15 +1668,6 @@
 </url>
 
 <url>
-    <loc><![CDATA[ https://www.linux-netbook.com/acer-c710-2856-chromebook/ ]]></loc>
-    <image:image>
-        <image:loc><![CDATA[ https://www.linux-netbook.com/img/large/Acer-C710-Chromebook.jpg ]]></image:loc>
-        <image:caption><![CDATA[ Acer C710-2856 Chromebook ]]></image:caption>
-        <image:title><![CDATA[ Acer C710-2856 Chromebook ]]></image:title>
-    </image:image>
-</url>
-
-<url>
     <loc><![CDATA[ https://www.linux-netbook.com/acer-c710-chromebook/ ]]></loc>
     <image:image>
         <image:loc><![CDATA[ https://www.linux-netbook.com/img/large/Acer-C710-Chromebook.jpg ]]></image:loc>
@@ -1686,11 +1677,11 @@
 </url>
 
 <url>
-    <loc><![CDATA[ https://www.linux-netbook.com/samsung-chromebook-ex303c12-h01us/ ]]></loc>
+    <loc><![CDATA[ https://www.linux-netbook.com/acer-c710-2856-chromebook/ ]]></loc>
     <image:image>
-        <image:loc><![CDATA[ https://www.linux-netbook.com/img/large/Samsung-Chromebook.jpg ]]></image:loc>
-        <image:caption><![CDATA[ Samsung Chromebook ]]></image:caption>
-        <image:title><![CDATA[ Samsung Chromebook 303C12 H01 ]]></image:title>
+        <image:loc><![CDATA[ https://www.linux-netbook.com/img/large/Acer-C710-Chromebook.jpg ]]></image:loc>
+        <image:caption><![CDATA[ Acer C710-2856 Chromebook ]]></image:caption>
+        <image:title><![CDATA[ Acer C710-2856 Chromebook ]]></image:title>
     </image:image>
 </url>
 
@@ -1700,6 +1691,15 @@
         <image:loc><![CDATA[ https://www.linux-netbook.com/img/large/Samsung-Chromebook.jpg ]]></image:loc>
         <image:caption><![CDATA[ Samsung Chromebook ]]></image:caption>
         <image:title><![CDATA[ Samsung Chromebook 303C12 A01 ]]></image:title>
+    </image:image>
+</url>
+
+<url>
+    <loc><![CDATA[ https://www.linux-netbook.com/samsung-chromebook-ex303c12-h01us/ ]]></loc>
+    <image:image>
+        <image:loc><![CDATA[ https://www.linux-netbook.com/img/large/Samsung-Chromebook.jpg ]]></image:loc>
+        <image:caption><![CDATA[ Samsung Chromebook ]]></image:caption>
+        <image:title><![CDATA[ Samsung Chromebook 303C12 H01 ]]></image:title>
     </image:image>
 </url>
 
@@ -1749,20 +1749,20 @@
 </url>
 
 <url>
-    <loc><![CDATA[ https://www.linux-netbook.com/samsung-series-5-chromebook-xe500c21-a04us/ ]]></loc>
-    <image:image>
-        <image:loc><![CDATA[ https://www.linux-netbook.com/img/large/Samsung-Series-5-Chromebook.jpg ]]></image:loc>
-        <image:caption><![CDATA[ Samsung Series 5 Chromebook Titan Silver ]]></image:caption>
-        <image:title><![CDATA[ Samsung Series 5 Chromebook 500C21 A04 ]]></image:title>
-    </image:image>
-</url>
-
-<url>
     <loc><![CDATA[ https://www.linux-netbook.com/samsung-series-5-chromebook-xe500c21-h02us/ ]]></loc>
     <image:image>
         <image:loc><![CDATA[ https://www.linux-netbook.com/img/large/Samsung-Series-5-Chromebook.jpg ]]></image:loc>
         <image:caption><![CDATA[ Samsung Series 5 Chromebook Titan Silver ]]></image:caption>
         <image:title><![CDATA[ Samsung Series 5 Chromebook 500C21 H02 ]]></image:title>
+    </image:image>
+</url>
+
+<url>
+    <loc><![CDATA[ https://www.linux-netbook.com/samsung-series-5-chromebook-xe500c21-a04us/ ]]></loc>
+    <image:image>
+        <image:loc><![CDATA[ https://www.linux-netbook.com/img/large/Samsung-Series-5-Chromebook.jpg ]]></image:loc>
+        <image:caption><![CDATA[ Samsung Series 5 Chromebook Titan Silver ]]></image:caption>
+        <image:title><![CDATA[ Samsung Series 5 Chromebook 500C21 A04 ]]></image:title>
     </image:image>
 </url>
 
