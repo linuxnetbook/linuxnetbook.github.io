@@ -3,7 +3,7 @@
 <channel><title>Linux Netbook RSS Feed</title>
     <link>https://www.linux-netbook.com</link>
     <description>Linux Netbook RSS Feed</description>
-    <lastBuildDate>Mon, 22 Mar 2021 20:11:58 </lastBuildDate>
+    <lastBuildDate>Sat, 10 Jul 2021 01:21:41 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
@@ -16,14 +16,6 @@
     </item>
     
     <item>
-        <title><![CDATA[Dont Drink and Root]]></title>
-        <link><![CDATA[https://www.linux-netbook.com/product/shirt/dont-drink-and-root/]]></link>
-        <description><![CDATA[A funny t-shirt for fans of Linux that suggests not to drink alcohol when working as the root user on your system, otherwise you may end up running the infamous rm -rf / command.]]></description>
-        <guid><![CDATA[https://www.linux-netbook.com/product/shirt/dont-drink-and-root/]]></guid>
-        <pubDate>Fri, 10 Mar 2017 23:11:33 </pubDate>
-    </item>
-    
-    <item>
         <title><![CDATA[Close Windows and Run Linux]]></title>
         <link><![CDATA[https://www.linux-netbook.com/product/shirt/close-windows-and-run-linux/]]></link>
         <description><![CDATA[A funny t-shirt for fans of Linux that suggests to close Windows and run Linux instead to have a more joyful life when spending time with your computer.]]></description>
@@ -32,26 +24,10 @@
     </item>
     
     <item>
-        <title><![CDATA[Sysadmin Because Even Developers Need Heroes]]></title>
-        <link><![CDATA[https://www.linux-netbook.com/product/shirt/sysadmin-because-even-developers-need-heroes/]]></link>
-        <description><![CDATA[A funny parody t-shirt for people who love the hard rock band AC/DC, the Unix operating system and working with a shell to interact with their computer.]]></description>
-        <guid><![CDATA[https://www.linux-netbook.com/product/shirt/sysadmin-because-even-developers-need-heroes/]]></guid>
-        <pubDate>Fri, 10 Mar 2017 22:12:05 </pubDate>
-    </item>
-    
-    <item>
         <title><![CDATA[Cool and Funny T-Shirts for Fans of Linux, Unix and FOSS]]></title>
         <link><![CDATA[https://www.linux-netbook.com/shirts/]]></link>
         <description><![CDATA[]]></description>
         <guid><![CDATA[https://www.linux-netbook.com/shirts/]]></guid>
-        <pubDate>Fri, 10 Mar 2017 20:09:57 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[Unix Highway To Shell]]></title>
-        <link><![CDATA[https://www.linux-netbook.com/product/shirt/unix-highway-to-shell/]]></link>
-        <description><![CDATA[A funny parody t-shirt for people who love the hard rock band AC/DC, the Unix operating system and working with a shell to interact with their computer.]]></description>
-        <guid><![CDATA[https://www.linux-netbook.com/product/shirt/unix-highway-to-shell/]]></guid>
         <pubDate>Fri, 10 Mar 2017 20:09:57 </pubDate>
     </item>
     
@@ -85,6 +61,30 @@
         <description><![CDATA[The Acer Chromebook R 11 CB5-132T-C1LK is an 11.6-inch laptop powered by a 1.6 GHz quad-core Intel Celeron N3150 Braswell processor.]]></description>
         <guid><![CDATA[https://www.linux-netbook.com/acer-chromebook-r-11-cb5-132t-c1lk/]]></guid>
         <pubDate>Fri, 20 Jan 2017 14:33:49 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Acer Chromebook 15 CB5-571-362Q]]></title>
+        <link><![CDATA[https://www.linux-netbook.com/acer-chromebook-15-cb5-571-362q/]]></link>
+        <description><![CDATA[The Acer Chromebook 15 CB5-571 362Q is a 15.6-inch screen laptop powered by a 2.0 GHz dual-core Intel Core i3 CPU and equipped with 4 GB RAM and 32 GB SSD storage.]]></description>
+        <guid><![CDATA[https://www.linux-netbook.com/acer-chromebook-15-cb5-571-362q/]]></guid>
+        <pubDate>Fri, 20 Jan 2017 14:17:38 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Lenovo ThinkPad 13 Chromebook 20GL0000US]]></title>
+        <link><![CDATA[https://www.linux-netbook.com/lenovo-thinkpad-13-chromebook-20gl0000us/]]></link>
+        <description><![CDATA[The Lenovo ThinkPad 13 Chromebook 20GL0000US is a slim and light laptop built for business and education.]]></description>
+        <guid><![CDATA[https://www.linux-netbook.com/lenovo-thinkpad-13-chromebook-20gl0000us/]]></guid>
+        <pubDate>Thu, 19 Jan 2017 19:43:30 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Lenovo Chromebook N22 80VH0001US]]></title>
+        <link><![CDATA[https://www.linux-netbook.com/lenovo-chromebook-n22-80vh0001us/]]></link>
+        <description><![CDATA[The Lenovo N22 Chromebook is an affordable, portable Chromebook with a 11.6-inch IPS touchscreen display.]]></description>
+        <guid><![CDATA[https://www.linux-netbook.com/lenovo-chromebook-n22-80vh0001us/]]></guid>
+        <pubDate>Thu, 19 Jan 2017 19:16:50 </pubDate>
     </item>
     
 </channel></rss>

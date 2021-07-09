@@ -3,7 +3,7 @@
 <channel><title>Product</title>
     <link>https://www.linux-netbook.com</link>
     <description>Product</description>
-    <lastBuildDate>Mon, 22 Mar 2021 20:11:57 </lastBuildDate>
+    <lastBuildDate>Sat, 10 Jul 2021 01:21:41 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
@@ -16,35 +16,11 @@
     </item>
     
     <item>
-        <title><![CDATA[Dont Drink and Root]]></title>
-        <link><![CDATA[https://www.linux-netbook.com/product/shirt/dont-drink-and-root/]]></link>
-        <description><![CDATA[A funny t-shirt for fans of Linux that suggests not to drink alcohol when working as the root user on your system, otherwise you may end up running the infamous rm -rf / command.]]></description>
-        <guid><![CDATA[https://www.linux-netbook.com/product/shirt/dont-drink-and-root/]]></guid>
-        <pubDate>Fri, 10 Mar 2017 23:11:33 </pubDate>
-    </item>
-    
-    <item>
         <title><![CDATA[Close Windows and Run Linux]]></title>
         <link><![CDATA[https://www.linux-netbook.com/product/shirt/close-windows-and-run-linux/]]></link>
         <description><![CDATA[A funny t-shirt for fans of Linux that suggests to close Windows and run Linux instead to have a more joyful life when spending time with your computer.]]></description>
         <guid><![CDATA[https://www.linux-netbook.com/product/shirt/close-windows-and-run-linux/]]></guid>
         <pubDate>Fri, 10 Mar 2017 22:20:22 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[Sysadmin Because Even Developers Need Heroes]]></title>
-        <link><![CDATA[https://www.linux-netbook.com/product/shirt/sysadmin-because-even-developers-need-heroes/]]></link>
-        <description><![CDATA[A funny parody t-shirt for people who love the hard rock band AC/DC, the Unix operating system and working with a shell to interact with their computer.]]></description>
-        <guid><![CDATA[https://www.linux-netbook.com/product/shirt/sysadmin-because-even-developers-need-heroes/]]></guid>
-        <pubDate>Fri, 10 Mar 2017 22:12:05 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[Unix Highway To Shell]]></title>
-        <link><![CDATA[https://www.linux-netbook.com/product/shirt/unix-highway-to-shell/]]></link>
-        <description><![CDATA[A funny parody t-shirt for people who love the hard rock band AC/DC, the Unix operating system and working with a shell to interact with their computer.]]></description>
-        <guid><![CDATA[https://www.linux-netbook.com/product/shirt/unix-highway-to-shell/]]></guid>
-        <pubDate>Fri, 10 Mar 2017 20:09:57 </pubDate>
     </item>
     
     <item>
@@ -85,6 +61,22 @@
         <description><![CDATA[This t-shirt shows the text vi vi vi Editor of the Beast in a heavy metal style font.]]></description>
         <guid><![CDATA[https://www.linux-netbook.com/product/shirt/vi-vi-vi-editor-of-the-beast/]]></guid>
         <pubDate>Mon, 25 May 2015 09:54:20 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[May The Source Be With You]]></title>
+        <link><![CDATA[https://www.linux-netbook.com/product/shirt/may-the-source-be-with-you/]]></link>
+        <description><![CDATA[Having access to the source code of software is like the force for computer programmers. Get this cool yellow text t-shirt if you love science fiction and open source code.]]></description>
+        <guid><![CDATA[https://www.linux-netbook.com/product/shirt/may-the-source-be-with-you/]]></guid>
+        <pubDate>Mon, 25 May 2015 09:53:20 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Bash Fork Bomb T-Shirt Green Print]]></title>
+        <link><![CDATA[https://www.linux-netbook.com/product/shirt/bash-fork-bomb-green/]]></link>
+        <description><![CDATA[This cryptic Bash command will crash a Linux or Unix system. Administrators, hackers, and some regular computer users will understand the message, others may be puzzled by this mystery shirt.]]></description>
+        <guid><![CDATA[https://www.linux-netbook.com/product/shirt/bash-fork-bomb-green/]]></guid>
+        <pubDate>Mon, 25 May 2015 09:26:39 </pubDate>
     </item>
     
 </channel></rss>
