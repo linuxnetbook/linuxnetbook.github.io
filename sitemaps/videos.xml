@@ -566,7 +566,7 @@
         <video:video>
             <video:thumbnail_loc>https://i.ytimg.com/vi/8pcpNIuFCn0/default.jpg</video:thumbnail_loc>
             <video:title><![CDATA[ Samsung Chromebook Showcased at ARM TechCon ]]></video:title>
-            <video:description><![CDATA[ The new Samsung Chromebook seems to be a huge success. It currently ranks first on Amazon.com's laptop best seller list and is temporarily out of stock. ]]></video:description>
+            <video:description><![CDATA[ The new Samsung Chromebook seems to be a huge success. It currently ranks first on Amazon's laptop best seller list and is temporarily out of stock. ]]></video:description>
             <video:player_loc allow_embed="yes" autoplay="ap=1">https://youtube.googleapis.com/v/8pcpNIuFCn0</video:player_loc>
             <video:family_friendly>yes</video:family_friendly>
         </video:video>
