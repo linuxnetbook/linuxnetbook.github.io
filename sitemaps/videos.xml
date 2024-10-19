@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 
     
@@ -74,19 +75,6 @@
             <video:title><![CDATA[ Acer Chromebook 15 C910-54M1 Review ]]></video:title>
             <video:description><![CDATA[ A quick review by Robby Payne of the Acer Chromebook 15 C910-54M1, which is powered by an Intel core i5 processor. ]]></video:description>
             <video:player_loc allow_embed="yes" autoplay="ap=1">https://youtube.googleapis.com/v/EjdHLP-50Mo</video:player_loc>
-            <video:family_friendly>yes</video:family_friendly>
-        </video:video>
-    </url>
-    
-
-    
-    <url>
-        <loc><![CDATA[https://www.linux-netbook.com/video/acer-chromebook-13-after-9-months/ ]]></loc>
-        <video:video>
-            <video:thumbnail_loc>https://i.ytimg.com/vi/z8UX7qOTzqc/default.jpg</video:thumbnail_loc>
-            <video:title><![CDATA[ Acer Chromebook 13 After 9 Months ]]></video:title>
-            <video:description><![CDATA[ A short video review of the Acer Chromebook 13 CB5-311-T7NN after 9 months of usage. ]]></video:description>
-            <video:player_loc allow_embed="yes" autoplay="ap=1">https://youtube.googleapis.com/v/z8UX7qOTzqc</video:player_loc>
             <video:family_friendly>yes</video:family_friendly>
         </video:video>
     </url>
@@ -743,8 +731,6 @@
     
 
     
-
-    
     <url>
         <loc><![CDATA[https://www.linux-netbook.com/video/linux-mint-12-on-an-asus-eee-pc-1005pe/ ]]></loc>
         <video:video>
@@ -755,8 +741,6 @@
             <video:family_friendly>yes</video:family_friendly>
         </video:video>
     </url>
-    
-
     
 
     
@@ -916,8 +900,6 @@
     
 
     
-
-    
     <url>
         <loc><![CDATA[https://www.linux-netbook.com/video/nec-7-netbook-powered-by-tegra-2-chip-running-android/ ]]></loc>
         <video:video>
@@ -967,8 +949,6 @@
             <video:family_friendly>yes</video:family_friendly>
         </video:video>
     </url>
-    
-
     
 
     
@@ -1034,8 +1014,6 @@
             <video:family_friendly>yes</video:family_friendly>
         </video:video>
     </url>
-    
-
     
 
     
@@ -1160,8 +1138,6 @@
     
 
     
-
-    
     <url>
         <loc><![CDATA[https://www.linux-netbook.com/video/ubuntu-1004-booting-in-30s-on-acer-aspire-one/ ]]></loc>
         <video:video>
@@ -1266,14 +1242,6 @@
     
 
     
-
-    
-
-    
-
-    
-
-    
     <url>
         <loc><![CDATA[https://www.linux-netbook.com/video/jolicloud-full-hd-1080p-on-pine-trail-platform/ ]]></loc>
         <video:video>
@@ -1313,8 +1281,6 @@
     
 
     
-
-    
     <url>
         <loc><![CDATA[https://www.linux-netbook.com/video/suse-moblin-linux-on-the-msi-wind-u135/ ]]></loc>
         <video:video>
@@ -1325,8 +1291,6 @@
             <video:family_friendly>yes</video:family_friendly>
         </video:video>
     </url>
-    
-
     
 
     
@@ -1353,8 +1317,6 @@
             <video:family_friendly>yes</video:family_friendly>
         </video:video>
     </url>
-    
-
     
 
     
@@ -1594,8 +1556,6 @@
     
 
     
-
-    
     <url>
         <loc><![CDATA[https://www.linux-netbook.com/video/jolicloud-intro-on-an-asus-eee-pc-1005ha/ ]]></loc>
         <video:video>
@@ -1648,8 +1608,6 @@
     
 
     
-
-    
     <url>
         <loc><![CDATA[https://www.linux-netbook.com/video/gecko-edubook-running-wattos/ ]]></loc>
         <video:video>
@@ -1689,8 +1647,6 @@
     
 
     
-
-    
     <url>
         <loc><![CDATA[https://www.linux-netbook.com/video/the-coolest-feature-of-the-touch-book/ ]]></loc>
         <video:video>
@@ -1714,8 +1670,6 @@
             <video:family_friendly>yes</video:family_friendly>
         </video:video>
     </url>
-    
-
     
 
     
@@ -1758,8 +1712,6 @@
     
 
     
-
-    
     <url>
         <loc><![CDATA[https://www.linux-netbook.com/video/linux-mint-7-xfce-on-asus-eee-pc-701sd/ ]]></loc>
         <video:video>
@@ -1783,8 +1735,6 @@
             <video:family_friendly>yes</video:family_friendly>
         </video:video>
     </url>
-    
-
     
 
     
@@ -1876,8 +1826,6 @@
             <video:family_friendly>yes</video:family_friendly>
         </video:video>
     </url>
-    
-
     
 
     
@@ -2050,8 +1998,6 @@
     
 
     
-
-    
     <url>
         <loc><![CDATA[https://www.linux-netbook.com/video/who-needs-an-apple-netbook-anyway/ ]]></loc>
         <video:video>
@@ -2132,8 +2078,6 @@
     
 
     
-
-    
     <url>
         <loc><![CDATA[https://www.linux-netbook.com/video/msi-wind-running-mac-os-x-leopard-windows-xp-and-ubuntu/ ]]></loc>
         <video:video>
@@ -2144,8 +2088,6 @@
             <video:family_friendly>yes</video:family_friendly>
         </video:video>
     </url>
-    
-
     
 
     
@@ -2344,10 +2286,6 @@
     
 
     
-
-    
-
-    
     <url>
         <loc><![CDATA[https://www.linux-netbook.com/video/asus-eee-pc-900-running-ubuntu-804/ ]]></loc>
         <video:video>
@@ -2371,8 +2309,6 @@
             <video:family_friendly>yes</video:family_friendly>
         </video:video>
     </url>
-    
-
     
 
     
