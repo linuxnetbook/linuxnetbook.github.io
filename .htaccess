@@ -1,0 +1,86 @@
+Options -Indexes
+DirectoryIndex index.html
+ErrorDocument 404 /404/
+
+<ifmodule mod_expires.c>
+ExpiresActive On
+# Cache images for a year from the time they were changed
+ExpiresByType image/gif M31557600
+ExpiresByType image/jpg M31557600
+ExpiresByType image/jpeg M31557600
+ExpiresByType image/png M31557600
+# Cache HTML documents for a week from the time they were changed
+ExpiresByType text/html M604800
+</ifmodule>
+
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteCond %{HTTP_HOST} !^www\. [OR]
+RewriteCond %{HTTP_HOST} ^www\.linux-netbook\.webhostingfm\.com$ [NC]
+RewriteRule (.*) https://www.linux-netbook.com/$1 [R=301,L]
+</IfModule>
+
+# redirects
+RedirectMatch 301 ^/node/\d+$ /
+RedirectMatch 301 ^/comment/reply/.+$ /
+RedirectMatch 301 ^/taxonomy/term/.+$ /
+RedirectMatch 301 ^/aggregator/sources/\d+$ /
+RedirectMatch 301 ^/user/.+$ /
+RedirectMatch 301 ^/netbooks/by/.+$ /compare/
+RedirectMatch 301 ^/netbooks/top-sellers/.+$ /compare/
+
+# not working
+#RedirectMatch 301 ^/index.php\?q=linux-distribution/(.*)$ /linux-distribution/$1/
+#RedirectMatch 301 ^/index.php\?q=manufacturer/(.*)$ /manufacturer/$1/
+#RedirectMatch 301 ^/netbooks/compare\?order.*$ /compare/
+
+Redirect 301 /acer-c7-chromebook/ /acer-c710-2856-chromebook/
+Redirect 301 /video/review-toshiba-cb30-a3120-chromebook/ /video/review-toshiba-cb35-a3120-chromebook/
+Redirect 301 /20-gift-ideas-for-linux-geeks/ /christmas-gift-ideas-for-linux-geeks/
+Redirect 301 /EMTEC-gdium-liberty-1000 /emtec-gdium-liberty-1000/
+Redirect 301 /linux-distribution/Android /linux-distribution/android/
+Redirect 301 /ubuntu-netbook-remix/ /linux-distribution/ubuntu/
+Redirect 301 /tags/netbook-review/ /tags/hardware-review/
+Redirect 301 /tags/gaming-on-netbooks/ /tags/gaming-on-linux/
+
+Redirect 301 /netbooks/compare/ /compare/
+Redirect 301 /netbooks/compare /compare/
+Redirect 301 /netbooks/compareCached /compare/
+Redirect 301 /linux/products-tagged-linux /compare/
+
+Redirect 301 /netbooks/popular /netbooks/
+Redirect 301 /netbooks/top-sellers/amazon /netbooks/
+
+Redirect 301 /buy/linux-netbooks-on-ebay /compare/
+Redirect 301 /linux-netbook-shop-deutschland/ /compare/
+Redirect 301 /netbook-store /compare/
+Redirect 301 /store/ /compare/
+
+Redirect 302 /linux/news /
+Redirect 302 /linux/gadgets /
+Redirect 302 /linux/events /
+Redirect 302 /netbook/news /netbooks/
+
+# removed tags
+Redirect 301 /tags/geeky-gift-ideas/ /christmas-gift-ideas/
+Redirect 301 /tags/unusual-linux-devices/ /
+
+# outdated pages
+Redirect 301 /so-i-launched-the-teespring-campaign-i-chose-freedom-linux/ /shirts/
+
+# previous deals section
+RedirectMatch 301 ^/deal/.+$ /
+RedirectMatch 301 ^/dotd/.+$ /
+Redirect 301 /deals/ /
+Redirect 301 /deals/netbooks /
+Redirect 301 /netbook/deals /
+Redirect 301 /netbooks/cheapest-linux-netbook /
+
+# previous amazon section
+Redirect 301 /amazon/best-selling-laptops/ /
+Redirect 301 /amazon/netbooks/ /netbooks/
+Redirect 301 /amazon/chromebooks/ /chromebooks/
+Redirect 301 /amazon/ /
+
+# manufacturer -> brand
+RedirectMatch 301 ^/manufacturer/(.*)$ /brand/$1
