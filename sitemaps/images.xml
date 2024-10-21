@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/asus-1015e-ds03/ ]]></loc>
     <image:image>
@@ -9,7 +8,6 @@
         <image:title><![CDATA[ ASUS 1015E-DS03 ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/asus-x201e-dh01/ ]]></loc>
     <image:image>
@@ -18,7 +16,6 @@
         <image:title><![CDATA[ ASUS X201E-DH01 ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/asus-vivobook-x200ca-db02/ ]]></loc>
     <image:image>
@@ -27,7 +24,6 @@
         <image:title><![CDATA[ ASUS VivoBook X200CA-DB02 ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/acer-aspire-v5-131-2887/ ]]></loc>
     <image:image>
@@ -36,7 +32,6 @@
         <image:title><![CDATA[ Acer Aspire V5-131-2887 ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/asus-1015e/ ]]></loc>
     <image:image>
@@ -45,7 +40,6 @@
         <image:title><![CDATA[ ASUS 1015E-DS02 ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/asus-f201e/ ]]></loc>
     <image:image>
@@ -54,7 +48,6 @@
         <image:title><![CDATA[ ASUS F201E ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/h6-allwinner-a10/ ]]></loc>
     <image:image>
@@ -63,7 +56,6 @@
         <image:title><![CDATA[ H6 AllWinner A10 ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/asus-eee-pc-1225c/ ]]></loc>
     <image:image>
@@ -72,7 +64,6 @@
         <image:title><![CDATA[ ASUS Eee PC 1225C ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/asus-eee-pc-x101/ ]]></loc>
     <image:image>
@@ -81,7 +72,6 @@
         <image:title><![CDATA[ ASUS Eee PC X101 ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/asus-eee-pc-r011px/ ]]></loc>
     <image:image>
@@ -90,7 +80,6 @@
         <image:title><![CDATA[ ASUS Eee PC R011PX ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/asus-eee-pc-1215p/ ]]></loc>
     <image:image>
@@ -99,7 +88,6 @@
         <image:title><![CDATA[ ASUS Eee PC 1215P ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/system76-starling-netbook/ ]]></loc>
     <image:image>
@@ -108,7 +96,6 @@
         <image:title><![CDATA[ System76 Starling Netbook ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/kogan-agora-laptop/ ]]></loc>
     <image:image>
@@ -117,7 +104,6 @@
         <image:title><![CDATA[ Kogan Agora Laptop ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/hercules-ecafé-ex-hd/ ]]></loc>
     <image:image>
@@ -126,7 +112,6 @@
         <image:title><![CDATA[ Hercules eCAFÉ EX HD ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/hercules-ecafé-slim-hd/ ]]></loc>
     <image:image>
@@ -135,7 +120,6 @@
         <image:title><![CDATA[ Hercules eCAFÉ Slim HD ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/genesi-efika-mx/ ]]></loc>
     <image:image>
@@ -144,7 +128,6 @@
         <image:title><![CDATA[ Genesi EFIKA MX ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/vye-jolibook/ ]]></loc>
     <image:image>
@@ -153,7 +136,6 @@
         <image:title><![CDATA[ Vye Jolibook ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/hp-mini-5103/ ]]></loc>
     <image:image>
@@ -162,7 +144,6 @@
         <image:title><![CDATA[ HP Mini 5103 ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/zareason-terra-hd/ ]]></loc>
     <image:image>
@@ -171,7 +152,6 @@
         <image:title><![CDATA[ ZaReason Terra HD ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/toshiba-ac100-10u/ ]]></loc>
     <image:image>
@@ -180,7 +160,6 @@
         <image:title><![CDATA[ Toshiba AC100-10U ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/asus-eee-pc-1005ha/ ]]></loc>
     <image:image>
@@ -189,7 +168,6 @@
         <image:title><![CDATA[ ASUS Eee PC 1005HA ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/system76-starling-netbook-v2/ ]]></loc>
     <image:image>
@@ -198,7 +176,6 @@
         <image:title><![CDATA[ System76 Starling Netbook v2 ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/hp-mini-100e-education-edition/ ]]></loc>
     <image:image>
@@ -207,7 +184,6 @@
         <image:title><![CDATA[ HP Mini 100e Education Edition ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/linkbook/ ]]></loc>
     <image:image>
@@ -216,7 +192,6 @@
         <image:title><![CDATA[ Linkbook ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/cherrypal-asia-10/ ]]></loc>
     <image:image>
@@ -225,7 +200,6 @@
         <image:title><![CDATA[ Cherrypal Asia 10-inch ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/cherrypal-asia-7/ ]]></loc>
     <image:image>
@@ -234,7 +208,6 @@
         <image:title><![CDATA[ Cherrypal Asia 7-inch ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/hp-compaq-airlife-100/ ]]></loc>
     <image:image>
@@ -243,7 +216,6 @@
         <image:title><![CDATA[ HP Compaq AirLife 100 ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/system76-starling-edubook/ ]]></loc>
     <image:image>
@@ -252,7 +224,6 @@
         <image:title><![CDATA[ System76 Starling EduBook ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/simmtronics-simmbook/ ]]></loc>
     <image:image>
@@ -261,7 +232,6 @@
         <image:title><![CDATA[ Simmtronics Simmbook ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/zareason-teo/ ]]></loc>
     <image:image>
@@ -270,7 +240,6 @@
         <image:title><![CDATA[ ZaReason Teo ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/qi-hardware-ben-nanonote/ ]]></loc>
     <image:image>
@@ -279,7 +248,6 @@
         <image:title><![CDATA[ Qi Hardware Ben NanoNote ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/hivision-pws700ca/ ]]></loc>
     <image:image>
@@ -288,7 +256,6 @@
         <image:title><![CDATA[ Hivision PWS700CA ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/hp-mini-5102/ ]]></loc>
     <image:image>
@@ -297,7 +264,6 @@
         <image:title><![CDATA[ HP Mini 5102 ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/lemote-yeeloong-8089/ ]]></loc>
     <image:image>
@@ -306,7 +272,6 @@
         <image:title><![CDATA[ Lemote YeeLoong 8089 ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/fic-sve00/ ]]></loc>
     <image:image>
@@ -315,7 +280,6 @@
         <image:title><![CDATA[ FIC SVE00 ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/hivision-pws700b/ ]]></loc>
     <image:image>
@@ -324,7 +288,6 @@
         <image:title><![CDATA[ Hivision PWS700B ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/hivision-pws700ba/ ]]></loc>
     <image:image>
@@ -333,7 +296,6 @@
         <image:title><![CDATA[ Hivision PWS700BA ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/hp-mini-2102/ ]]></loc>
     <image:image>
@@ -342,7 +304,6 @@
         <image:title><![CDATA[ HP Mini 2102 ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/cherrypal-africa-the-99-netbook/ ]]></loc>
     <image:image>
@@ -351,7 +312,6 @@
         <image:title><![CDATA[ Cherrypal Africa The $99 Netbook ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/litl-webbook/ ]]></loc>
     <image:image>
@@ -360,7 +320,6 @@
         <image:title><![CDATA[ litl webbook ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/acer-aspire-one-dual-os-netbook/ ]]></loc>
     <image:image>
@@ -369,7 +328,6 @@
         <image:title><![CDATA[ Acer Aspire One Dual OS Netbook ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/airis-kira-700/ ]]></loc>
     <image:image>
@@ -378,7 +336,6 @@
         <image:title><![CDATA[ AIRIS KIRA 700 ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/dell-inspiron-mini-10v-ubuntu-moblin-remix/ ]]></loc>
     <image:image>
@@ -387,7 +344,6 @@
         <image:title><![CDATA[ Dell Inspiron Mini 10v Ubuntu Moblin Remix ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/zareason-terra-a20/ ]]></loc>
     <image:image>
@@ -396,7 +352,6 @@
         <image:title><![CDATA[ ZaReason Terra A20 ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/asus-eee-pc-701sd/ ]]></loc>
     <image:image>
@@ -405,7 +360,6 @@
         <image:title><![CDATA[ ASUS Eee PC 701SD ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/system76-starling-netbook-v1/ ]]></loc>
     <image:image>
@@ -414,7 +368,6 @@
         <image:title><![CDATA[ System76 Starling Netbook v1 ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/mirus-classmate-pc-clamshell-edubuntu/ ]]></loc>
     <image:image>
@@ -423,7 +376,6 @@
         <image:title><![CDATA[ Mirus Classmate PC Clamshell Edubuntu ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/point-of-view-mobii-ion-230/ ]]></loc>
     <image:image>
@@ -432,7 +384,6 @@
         <image:title><![CDATA[ Point of View Mobii ION 230 ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/always-innovating-touch-book/ ]]></loc>
     <image:image>
@@ -441,7 +392,6 @@
         <image:title><![CDATA[ Always Innovating Touch Book ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/archos-10-ubuntu/ ]]></loc>
     <image:image>
@@ -450,7 +400,6 @@
         <image:title><![CDATA[ ARCHOS 10 Ubuntu ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/sylvania-gnet13001/ ]]></loc>
     <image:image>
@@ -459,7 +408,6 @@
         <image:title><![CDATA[ Sylvania GNET13001 ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/hp-mini-110-mi/ ]]></loc>
     <image:image>
@@ -468,7 +416,6 @@
         <image:title><![CDATA[ HP Mini 110 Mi ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/hp-2133-mini-note-kx869at/ ]]></loc>
     <image:image>
@@ -477,7 +424,6 @@
         <image:title><![CDATA[ HP 2133 Mini-Note KX869AT ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/emtec-gdium-liberty-1000/ ]]></loc>
     <image:image>
@@ -486,7 +432,6 @@
         <image:title><![CDATA[ EMTEC Gdium Liberty 1000 ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/indamixx-portable-studio-laptop-edition-2/ ]]></loc>
     <image:image>
@@ -495,7 +440,6 @@
         <image:title><![CDATA[ Indamixx Portable Studio Laptop Edition 2 ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/skytone-alpha-680/ ]]></loc>
     <image:image>
@@ -504,7 +448,6 @@
         <image:title><![CDATA[ Skytone Alpha 680 ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/ocz-neutrino-diy-netbook-10/ ]]></loc>
     <image:image>
@@ -513,7 +456,6 @@
         <image:title><![CDATA[ OCZ Neutrino DIY Netbook 10-inch ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/kogan-agora-netbook-pro/ ]]></loc>
     <image:image>
@@ -522,7 +464,6 @@
         <image:title><![CDATA[ Kogan Agora Netbook PRO ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/bestlink-alpha-400/ ]]></loc>
     <image:image>
@@ -531,7 +472,6 @@
         <image:title><![CDATA[ Bestlink Alpha 400 ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/hp-mini-1000-mi-89/ ]]></loc>
     <image:image>
@@ -540,7 +480,6 @@
         <image:title><![CDATA[ HP Mini 1000 Mi 8.9-inch ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/cherrypal-bing/ ]]></loc>
     <image:image>
@@ -549,7 +488,6 @@
         <image:title><![CDATA[ Cherrypal Bing ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/asus-eee-pc-1000hd/ ]]></loc>
     <image:image>
@@ -558,7 +496,6 @@
         <image:title><![CDATA[ ASUS Eee PC 1000HD ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/hp-mini-1000-mi-101/ ]]></loc>
     <image:image>
@@ -567,7 +504,6 @@
         <image:title><![CDATA[ HP Mini 1000 Mi 10.1-inch ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/asus-eee-pc-4g/ ]]></loc>
     <image:image>
@@ -576,7 +512,6 @@
         <image:title><![CDATA[ ASUS Eee PC 4G ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/dell-inspiron-mini-9-8-gb-ssd-white/ ]]></loc>
     <image:image>
@@ -585,7 +520,6 @@
         <image:title><![CDATA[ Dell Inspiron Mini 9: 8 GB SSD White ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/dell-inspiron-mini-9-16-gb-ssd-black/ ]]></loc>
     <image:image>
@@ -594,7 +528,6 @@
         <image:title><![CDATA[ Dell Inspiron Mini 9: 16 GB SSD Black ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/asus-eee-pc-2g-surf/ ]]></loc>
     <image:image>
@@ -603,7 +536,6 @@
         <image:title><![CDATA[ ASUS Eee PC 2G Surf ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/asus-89-eee-pc-4g/ ]]></loc>
     <image:image>
@@ -612,7 +544,6 @@
         <image:title><![CDATA[ ASUS 8.9-inch Eee PC 4G ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/razorbook-400/ ]]></loc>
     <image:image>
@@ -621,7 +552,6 @@
         <image:title><![CDATA[ RazorBook 400 ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/asus-eee-pc-1000/ ]]></loc>
     <image:image>
@@ -630,7 +560,6 @@
         <image:title><![CDATA[ ASUS Eee PC 1000 ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/msi-wind/ ]]></loc>
     <image:image>
@@ -639,7 +568,6 @@
         <image:title><![CDATA[ MSI Wind ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/acer-aspire-one/ ]]></loc>
     <image:image>
@@ -648,7 +576,6 @@
         <image:title><![CDATA[ Acer Aspire One ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/sylvania-g-netbook-meso/ ]]></loc>
     <image:image>
@@ -657,7 +584,6 @@
         <image:title><![CDATA[ Sylvania G Netbook Meso ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/hp-2133-mini-note/ ]]></loc>
     <image:image>
@@ -666,7 +592,6 @@
         <image:title><![CDATA[ HP 2133 Mini-Note KX870AT ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/ctl-e09l-2gopc/ ]]></loc>
     <image:image>
@@ -675,7 +600,6 @@
         <image:title><![CDATA[ CTL E09L 2goPC ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/asus-eee-pc-901/ ]]></loc>
     <image:image>
@@ -684,7 +608,6 @@
         <image:title><![CDATA[ ASUS Eee PC 901 ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/asus-eee-pc-900/ ]]></loc>
     <image:image>
@@ -693,8 +616,6 @@
         <image:title><![CDATA[ ASUS Eee PC 900 ]]></image:title>
     </image:image>
 </url>
-
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/acer-chromebook-r-11-cb5-132t-c8zw/ ]]></loc>
     <image:image>
@@ -703,7 +624,6 @@
         <image:title><![CDATA[ Acer Chromebook R 11 CB5-132T-C8ZW ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/asus-chromebook-flip-c100pa-ds03/ ]]></loc>
     <image:image>
@@ -712,7 +632,6 @@
         <image:title><![CDATA[ ASUS Chromebook Flip C100PA-DS03 ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/acer-chromebook-14-cb3-431-c0ak/ ]]></loc>
     <image:image>
@@ -721,7 +640,6 @@
         <image:title><![CDATA[ Acer Chromebook 14 CB3-431-C0AK ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/acer-chromebook-r-11-cb5-132t-c1lk/ ]]></loc>
     <image:image>
@@ -730,7 +648,6 @@
         <image:title><![CDATA[ Acer Chromebook R 11 CB5-132T-C1LK ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/acer-chromebook-15-cb5-571-362q/ ]]></loc>
     <image:image>
@@ -739,7 +656,6 @@
         <image:title><![CDATA[ Acer Chromebook 15 CB5-571-362Q ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/lenovo-thinkpad-13-chromebook-20gl0000us/ ]]></loc>
     <image:image>
@@ -748,7 +664,6 @@
         <image:title><![CDATA[ Lenovo ThinkPad 13 Chromebook 20GL0000US ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/lenovo-chromebook-n22-80vh0001us/ ]]></loc>
     <image:image>
@@ -757,7 +672,6 @@
         <image:title><![CDATA[ Lenovo Chromebook N22 80VH0001US ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/asus-chromebook-c302ca-dhm4/ ]]></loc>
     <image:image>
@@ -766,7 +680,6 @@
         <image:title><![CDATA[ ASUS Chromebook Flip C302CA-DHM4 ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/samsung-chromebook-plus-xe513c24-k01us/ ]]></loc>
     <image:image>
@@ -775,7 +688,6 @@
         <image:title><![CDATA[ Samsung Chromebook Plus XE513C24 K01 ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/hp-chromebook-14-q010dx/ ]]></loc>
     <image:image>
@@ -784,7 +696,6 @@
         <image:title><![CDATA[ HP Chromebook 14-Q010DX ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/hp-chromebook-11-g4-p0b79ut/ ]]></loc>
     <image:image>
@@ -793,7 +704,6 @@
         <image:title><![CDATA[ HP Chromebook 11 G4 P0B79UT ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/hp-chromebook-11-g4-p0b78ut/ ]]></loc>
     <image:image>
@@ -802,7 +712,6 @@
         <image:title><![CDATA[ HP Chromebook 11 G4 P0B78UT ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/lenovo-n22-chromebook-80sf0001us/ ]]></loc>
     <image:image>
@@ -811,7 +720,6 @@
         <image:title><![CDATA[ Lenovo N22 Chromebook 80SF0001US ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/lenovo-n22-chromebook-80sf0000us/ ]]></loc>
     <image:image>
@@ -820,7 +728,6 @@
         <image:title><![CDATA[ Lenovo N22 Chromebook 80SF0000US ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/acer-chromebook-r-13-cb5-312t-k5x4/ ]]></loc>
     <image:image>
@@ -829,7 +736,6 @@
         <image:title><![CDATA[ Acer Chromebook R 13 Convertible CB5-312T-K5X4 ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/hp-chromebook-14-g4-t4m32ut/ ]]></loc>
     <image:image>
@@ -838,7 +744,6 @@
         <image:title><![CDATA[ HP Chromebook 14 G4 T4M32UT ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/hp-chromebook-14-g4/ ]]></loc>
     <image:image>
@@ -847,7 +752,6 @@
         <image:title><![CDATA[ HP Chromebook 14 G4 ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/asus-chromebook-c300sa-ds02/ ]]></loc>
     <image:image>
@@ -856,7 +760,6 @@
         <image:title><![CDATA[ ASUS Chromebook C300SA-DS02 ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/samsung-chromebook-2-xe500c12-k02us/ ]]></loc>
     <image:image>
@@ -865,7 +768,6 @@
         <image:title><![CDATA[ Samsung Chromebook 2 XE500C12 K02 ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/hp-chromebook-14-ak060nr/ ]]></loc>
     <image:image>
@@ -874,7 +776,6 @@
         <image:title><![CDATA[ HP Chromebook 14-ak060nr ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/acer-c720p-2103-chromebook/ ]]></loc>
     <image:image>
@@ -883,7 +784,6 @@
         <image:title><![CDATA[ Acer C720P-2103 Chromebook ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/asus-chromebook-c200ma-ds02/ ]]></loc>
     <image:image>
@@ -892,7 +792,6 @@
         <image:title><![CDATA[ ASUS Chromebook C200MA-DS02 ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/asus-chromebook-c202sa-ys01/ ]]></loc>
     <image:image>
@@ -901,7 +800,6 @@
         <image:title><![CDATA[ ASUS Chromebook C202SA-YS01 ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/hp-chromebook-14-ak020nr/ ]]></loc>
     <image:image>
@@ -910,7 +808,6 @@
         <image:title><![CDATA[ HP Chromebook 14-ak020nr ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/ctl-chromebook-j2/ ]]></loc>
     <image:image>
@@ -919,7 +816,6 @@
         <image:title><![CDATA[ CTL Chromebook J2 ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/asus-chromebook-c202sa-ys02/ ]]></loc>
     <image:image>
@@ -928,7 +824,6 @@
         <image:title><![CDATA[ ASUS Chromebook C202SA-YS02 ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/hisense-chromebook-c12/ ]]></loc>
     <image:image>
@@ -937,7 +832,6 @@
         <image:title><![CDATA[ Hisense Chromebook C12 ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/samsung-chromebook-3-xe500c13-k02us/ ]]></loc>
     <image:image>
@@ -946,7 +840,6 @@
         <image:title><![CDATA[ Samsung Chromebook 3 XE500C13 K02 ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/samsung-chromebook-3-xe500c13-k01us/ ]]></loc>
     <image:image>
@@ -955,7 +848,6 @@
         <image:title><![CDATA[ Samsung Chromebook 3 XE500C13 K01 ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/hp-chromebook-11-2210nr/ ]]></loc>
     <image:image>
@@ -964,7 +856,6 @@
         <image:title><![CDATA[ HP Chromebook 11-2210nr ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/acer-chromebook-11-cb3-131-c3sz/ ]]></loc>
     <image:image>
@@ -973,7 +864,6 @@
         <image:title><![CDATA[ Acer Chromebook 11 CB3-131-C3SZ ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/acer-chromebook-14-cb3-431-c5fm/ ]]></loc>
     <image:image>
@@ -982,7 +872,6 @@
         <image:title><![CDATA[ Acer Chromebook 14 CB3-431-C5FM ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/lenovo-100s-chromebook-80qn0009us/ ]]></loc>
     <image:image>
@@ -991,7 +880,6 @@
         <image:title><![CDATA[ Lenovo 100s Chromebook 80QN0009US ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/lenovo-n21-chromebook-80mg0001us/ ]]></loc>
     <image:image>
@@ -1000,7 +888,6 @@
         <image:title><![CDATA[ Lenovo N21 Chromebook 80MG0001US ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/lenovo-n21-chromebook-80mg0000us/ ]]></loc>
     <image:image>
@@ -1009,7 +896,6 @@
         <image:title><![CDATA[ Lenovo N21 Chromebook 80MG0000US ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/sector-5-e1-chromebook/ ]]></loc>
     <image:image>
@@ -1018,7 +904,6 @@
         <image:title><![CDATA[ Sector 5 E1 Rugged Chromebook ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/hp-chromebook-14-ak050nr/ ]]></loc>
     <image:image>
@@ -1027,7 +912,6 @@
         <image:title><![CDATA[ HP Chromebook 14-ak050nr ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/hp-chromebook-14-ak010nr/ ]]></loc>
     <image:image>
@@ -1036,7 +920,6 @@
         <image:title><![CDATA[ HP Chromebook 14-ak010nr ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/acer-chromebook-r-11-cb5-132t-c32m/ ]]></loc>
     <image:image>
@@ -1045,7 +928,6 @@
         <image:title><![CDATA[ Acer Chromebook R 11 CB5-132T-C32M ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/poin2-chromebook-11-lt0101-01us/ ]]></loc>
     <image:image>
@@ -1054,7 +936,6 @@
         <image:title><![CDATA[ Poin2 Chromebook 11 LT0101 01US ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/acer-chromebook-15-cb5-571-c1dz/ ]]></loc>
     <image:image>
@@ -1063,7 +944,6 @@
         <image:title><![CDATA[ Acer Chromebook 15 CB5-571 C1DZ ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/toshiba-cb35-c3350-chromebook-2/ ]]></loc>
     <image:image>
@@ -1072,7 +952,6 @@
         <image:title><![CDATA[ Toshiba CB35-C3350 Chromebook 2 ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/toshiba-cb35-c3300-chromebook-2/ ]]></loc>
     <image:image>
@@ -1081,7 +960,6 @@
         <image:title><![CDATA[ Toshiba CB35-C3300 Chromebook 2 ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/cdi-edugear-chromebook-r/ ]]></loc>
     <image:image>
@@ -1090,7 +968,6 @@
         <image:title><![CDATA[ CDI EduGear Chromebook R ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/cdi-edugear-chromebook-m/ ]]></loc>
     <image:image>
@@ -1099,7 +976,6 @@
         <image:title><![CDATA[ CDI EduGear Chromebook M ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/asus-chromebook-c201pa-ds02/ ]]></loc>
     <image:image>
@@ -1108,7 +984,6 @@
         <image:title><![CDATA[ ASUS Chromebook C201PA-DS02 ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/dell-chromebook-11-462-9515/ ]]></loc>
     <image:image>
@@ -1117,7 +992,6 @@
         <image:title><![CDATA[ Dell Chromebook 11 462-9515 ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/asus-chromebook-flip-c100pa-db02/ ]]></loc>
     <image:image>
@@ -1126,7 +1000,6 @@
         <image:title><![CDATA[ ASUS Chromebook Flip C100PA-DB02 ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/asus-chromebook-flip-c100pa-db01/ ]]></loc>
     <image:image>
@@ -1135,7 +1008,6 @@
         <image:title><![CDATA[ ASUS Chromebook Flip C100PA-DB01 ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/acer-chromebook-15-c910-54m1/ ]]></loc>
     <image:image>
@@ -1144,7 +1016,6 @@
         <image:title><![CDATA[ Acer Chromebook 15 C910-54M1 ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/cdi-edugear-chromebook-k/ ]]></loc>
     <image:image>
@@ -1153,7 +1024,6 @@
         <image:title><![CDATA[ CDI EduGear Chromebook K ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/acer-chromebook-15-cb5-571-c09s/ ]]></loc>
     <image:image>
@@ -1162,7 +1032,6 @@
         <image:title><![CDATA[ Acer Chromebook 15 CB5-571-C09S ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/acer-c720-3404-chromebook/ ]]></loc>
     <image:image>
@@ -1171,7 +1040,6 @@
         <image:title><![CDATA[ Acer C720-3404 Chromebook ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/haier-chromebook-11/ ]]></loc>
     <image:image>
@@ -1180,7 +1048,6 @@
         <image:title><![CDATA[ Haier Chromebook 11 ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/hisense-chromebook/ ]]></loc>
     <image:image>
@@ -1189,7 +1056,6 @@
         <image:title><![CDATA[ Hisense Chromebook C11 ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/acer-chromebook-15-cb5-571-c4t3/ ]]></loc>
     <image:image>
@@ -1198,7 +1064,6 @@
         <image:title><![CDATA[ Acer Chromebook 15 CB5-571-C4T3 ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/acer-chromebook-11-cb3-111-c8ub/ ]]></loc>
     <image:image>
@@ -1207,7 +1072,6 @@
         <image:title><![CDATA[ Acer Chromebook 11 CB3-111-C8UB ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/acer-chromebook-15-c910-3916/ ]]></loc>
     <image:image>
@@ -1216,7 +1080,6 @@
         <image:title><![CDATA[ Acer Chromebook 15 C910-3916 ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/hp-chromebook-11-2110nr/ ]]></loc>
     <image:image>
@@ -1225,7 +1088,6 @@
         <image:title><![CDATA[ HP Chromebook 11-2110nr ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/asus-chromebook-c201pa-ds01/ ]]></loc>
     <image:image>
@@ -1234,7 +1096,6 @@
         <image:title><![CDATA[ ASUS Chromebook C201PA-DS01 ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/asus-chromebook-c300ma-dh02/ ]]></loc>
     <image:image>
@@ -1243,7 +1104,6 @@
         <image:title><![CDATA[ ASUS Chromebook C300MA-DH02 ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/toshiba-cb30-a3120-chromebook/ ]]></loc>
     <image:image>
@@ -1252,7 +1112,14 @@
         <image:title><![CDATA[ Toshiba CB30-A3120 Chromebook ]]></image:title>
     </image:image>
 </url>
-
+<url>
+    <loc><![CDATA[ https://www.linux-netbook.com/acer-chromebook-15-cb5-571-c0le/ ]]></loc>
+    <image:image>
+        <image:loc><![CDATA[ https://www.linux-netbook.com/img/large/Acer-Chromebook-CB5-571.jpg ]]></image:loc>
+        <image:caption><![CDATA[ Acer Chromebook 15 CB5-571 Moonstone White ]]></image:caption>
+        <image:title><![CDATA[ Acer Chromebook 15 CB5-571 C0LE ]]></image:title>
+    </image:image>
+</url>
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/senkatel-education-chromebook-c1101-2g/ ]]></loc>
     <image:image>
@@ -1261,7 +1128,6 @@
         <image:title><![CDATA[ Senkatel Education Chromebook C1101-2G ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/hexa-chromebook-pi/ ]]></loc>
     <image:image>
@@ -1270,7 +1136,6 @@
         <image:title><![CDATA[ HEXA Chromebook π ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/dell-chromebook-11-crm3120-1667blk/ ]]></loc>
     <image:image>
@@ -1279,7 +1144,6 @@
         <image:title><![CDATA[ Dell Chromebook 11 CRM3120-1667BLK ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/dell-chromebook-11-730-8302/ ]]></loc>
     <image:image>
@@ -1288,7 +1152,6 @@
         <image:title><![CDATA[ Dell Chromebook 11 730-8302 ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/chromebook-pixel-2-ls/ ]]></loc>
     <image:image>
@@ -1297,7 +1160,6 @@
         <image:title><![CDATA[ Chromebook Pixel 2 LS ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/chromebook-pixel-2/ ]]></loc>
     <image:image>
@@ -1306,7 +1168,6 @@
         <image:title><![CDATA[ Chromebook Pixel 2 ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/acer-chromebook-15-c910-c453/ ]]></loc>
     <image:image>
@@ -1315,7 +1176,6 @@
         <image:title><![CDATA[ Acer Chromebook 15 C910-C453 ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/acer-chromebook-15-c910-c37p/ ]]></loc>
     <image:image>
@@ -1324,7 +1184,6 @@
         <image:title><![CDATA[ Acer Chromebook 15 C910-C37P ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/hp-chromebook-11-2010nr/ ]]></loc>
     <image:image>
@@ -1333,7 +1192,14 @@
         <image:title><![CDATA[ HP Chromebook 11-2010nr ]]></image:title>
     </image:image>
 </url>
-
+<url>
+    <loc><![CDATA[ https://www.linux-netbook.com/acer-chromebook-15-cb5-571-c9gr/ ]]></loc>
+    <image:image>
+        <image:loc><![CDATA[ https://www.linux-netbook.com/img/large/Acer-Chromebook-CB5-571.jpg ]]></image:loc>
+        <image:caption><![CDATA[ Acer Chromebook 15 CB5-571 Moonstone White ]]></image:caption>
+        <image:title><![CDATA[ Acer Chromebook 15 CB5-571 C9GR ]]></image:title>
+    </image:image>
+</url>
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/asus-chromebook-c300ma-dh01/ ]]></loc>
     <image:image>
@@ -1342,7 +1208,6 @@
         <image:title><![CDATA[ ASUS Chromebook C300MA-DH01 ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/asus-chromebook-c200ma-edu/ ]]></loc>
     <image:image>
@@ -1351,7 +1216,6 @@
         <image:title><![CDATA[ ASUS Chromebook C200MA-EDU ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/acer-chromebook-11-c740-c4pe/ ]]></loc>
     <image:image>
@@ -1360,7 +1224,6 @@
         <image:title><![CDATA[ Acer Chromebook 11 C740 C4PE ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/acer-chromebook-11-c740-c3p1/ ]]></loc>
     <image:image>
@@ -1369,7 +1232,6 @@
         <image:title><![CDATA[ Acer Chromebook 11 C740 C3P1 ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/lenovo-n20-chromebook/ ]]></loc>
     <image:image>
@@ -1378,7 +1240,6 @@
         <image:title><![CDATA[ Lenovo N20 Chromebook ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/acer-chromebook-15-cb5-571-39vm/ ]]></loc>
     <image:image>
@@ -1387,7 +1248,6 @@
         <image:title><![CDATA[ Acer Chromebook 15 CB5-571 39VM ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/acer-chromebook-11-cb3-111-c670/ ]]></loc>
     <image:image>
@@ -1396,7 +1256,6 @@
         <image:title><![CDATA[ Acer Chromebook 11 CB3-111-C670 ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/chromebook-pixel-lte/ ]]></loc>
     <image:image>
@@ -1405,7 +1264,6 @@
         <image:title><![CDATA[ Chromebook Pixel LTE ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/chromebook-pixel-wifi/ ]]></loc>
     <image:image>
@@ -1414,7 +1272,6 @@
         <image:title><![CDATA[ Chromebook Pixel Wi-Fi ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/asus-chromebook-c300ma-edu/ ]]></loc>
     <image:image>
@@ -1423,7 +1280,6 @@
         <image:title><![CDATA[ ASUS Chromebook C300MA-EDU ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/samsung-chromebook-2-xe500c12-k01us/ ]]></loc>
     <image:image>
@@ -1432,7 +1288,6 @@
         <image:title><![CDATA[ Samsung Chromebook 2 500C12 K01 ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/hp-chromebook-14-x050nr/ ]]></loc>
     <image:image>
@@ -1441,7 +1296,6 @@
         <image:title><![CDATA[ HP Chromebook 14-x050nr ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/hp-chromebook-14-x030nr/ ]]></loc>
     <image:image>
@@ -1450,7 +1304,6 @@
         <image:title><![CDATA[ HP Chromebook 14-x030nr ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/acer-chromebook-13-cb5-311-t9b0/ ]]></loc>
     <image:image>
@@ -1459,7 +1312,6 @@
         <image:title><![CDATA[ Acer Chromebook 13 CB5-311 T9B0 ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/toshiba-cb35-b3340-chromebook-2/ ]]></loc>
     <image:image>
@@ -1468,7 +1320,6 @@
         <image:title><![CDATA[ Toshiba CB35-B3340 Chromebook 2 ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/toshiba-cb35-b3330-chromebook-2/ ]]></loc>
     <image:image>
@@ -1477,7 +1328,6 @@
         <image:title><![CDATA[ Toshiba CB35-B3330 Chromebook 2 ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/acer-chromebook-13-cb5-311-t1uu/ ]]></loc>
     <image:image>
@@ -1486,7 +1336,6 @@
         <image:title><![CDATA[ Acer Chromebook 13 CB5-311 T1UU ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/acer-chromebook-13-cb5-311-t7nn/ ]]></loc>
     <image:image>
@@ -1495,7 +1344,6 @@
         <image:title><![CDATA[ Acer Chromebook 13 CB5-311 T7NN ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/lenovo-thinkpad-11e-chromebook/ ]]></loc>
     <image:image>
@@ -1504,7 +1352,6 @@
         <image:title><![CDATA[ Lenovo ThinkPad Yoga 11e Chromebook ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/lenovo-thinkpad-x131e-chromebook-628324u/ ]]></loc>
     <image:image>
@@ -1513,7 +1360,6 @@
         <image:title><![CDATA[ Lenovo ThinkPad X131e Chromebook 628324U ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/lenovo-thinkpad-x131e-chromebook/ ]]></loc>
     <image:image>
@@ -1522,7 +1368,6 @@
         <image:title><![CDATA[ Lenovo ThinkPad X131e Chromebook 628323U ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/lenovo-ideapad-n20p-chromebook/ ]]></loc>
     <image:image>
@@ -1531,7 +1376,6 @@
         <image:title><![CDATA[ Lenovo IdeaPad N20p Chromebook ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/dell-chromebook-11/ ]]></loc>
     <image:image>
@@ -1540,7 +1384,6 @@
         <image:title><![CDATA[ Dell Chromebook 11 730-8301 ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/asus-chromebook-c300ma-db01/ ]]></loc>
     <image:image>
@@ -1549,7 +1392,6 @@
         <image:title><![CDATA[ ASUS Chromebook C300MA-DB01 ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/acer-c720-3871-chromebook/ ]]></loc>
     <image:image>
@@ -1558,7 +1400,6 @@
         <image:title><![CDATA[ Acer C720-3871 Chromebook ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/asus-chromebook-c200ma-ds01/ ]]></loc>
     <image:image>
@@ -1567,7 +1408,6 @@
         <image:title><![CDATA[ ASUS Chromebook C200MA-DS01 ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/samsung-chromebook-2-13.3/ ]]></loc>
     <image:image>
@@ -1576,7 +1416,6 @@
         <image:title><![CDATA[ Samsung Chromebook 2 503C32 K01 ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/samsung-chromebook-2-11.6/ ]]></loc>
     <image:image>
@@ -1585,7 +1424,6 @@
         <image:title><![CDATA[ Samsung Chromebook 2 503C12 K01 ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/samsung-chromebook-2-xe503c12-k02us/ ]]></loc>
     <image:image>
@@ -1594,7 +1432,6 @@
         <image:title><![CDATA[ Samsung Chromebook 2 503C12 K02 ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/hp-chromebook-14/ ]]></loc>
     <image:image>
@@ -1603,7 +1440,6 @@
         <image:title><![CDATA[ HP Chromebook 14 ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/toshiba-cb35-a3120-chromebook/ ]]></loc>
     <image:image>
@@ -1612,7 +1448,6 @@
         <image:title><![CDATA[ Toshiba CB35-A3120 Chromebook ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/hp-chromebook-11/ ]]></loc>
     <image:image>
@@ -1621,7 +1456,6 @@
         <image:title><![CDATA[ HP Chromebook 11-1101 ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/acer-c720p-chromebook/ ]]></loc>
     <image:image>
@@ -1630,7 +1464,6 @@
         <image:title><![CDATA[ Acer C720P-2600 Chromebook ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/acer-c720p-2666-chromebook/ ]]></loc>
     <image:image>
@@ -1639,7 +1472,6 @@
         <image:title><![CDATA[ Acer C720P-2666 Chromebook ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/acer-c720-2420-chromebook/ ]]></loc>
     <image:image>
@@ -1648,7 +1480,6 @@
         <image:title><![CDATA[ Acer C720-2420 Chromebook ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/acer-c720-chromebook/ ]]></loc>
     <image:image>
@@ -1657,7 +1488,6 @@
         <image:title><![CDATA[ Acer C720-2848 Chromebook ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/acer-c720-2800-chromebook/ ]]></loc>
     <image:image>
@@ -1666,7 +1496,6 @@
         <image:title><![CDATA[ Acer C720-2800 Chromebook ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/acer-c710-2856-chromebook/ ]]></loc>
     <image:image>
@@ -1675,7 +1504,6 @@
         <image:title><![CDATA[ Acer C710-2856 Chromebook ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/acer-c710-chromebook/ ]]></loc>
     <image:image>
@@ -1684,7 +1512,6 @@
         <image:title><![CDATA[ Acer C710-2834 Chromebook ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/samsung-chromebook-ex303c12-h01us/ ]]></loc>
     <image:image>
@@ -1693,7 +1520,6 @@
         <image:title><![CDATA[ Samsung Chromebook 303C12 H01 ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/samsung-chromebook/ ]]></loc>
     <image:image>
@@ -1702,7 +1528,6 @@
         <image:title><![CDATA[ Samsung Chromebook 303C12 A01 ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/samsung-series-5-550-chromebook-xe550c22-h01us/ ]]></loc>
     <image:image>
@@ -1711,7 +1536,6 @@
         <image:title><![CDATA[ Samsung Series 5 550 Chromebook 550C22 H01 ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/samsung-series-5-550-chromebook/ ]]></loc>
     <image:image>
@@ -1720,7 +1544,6 @@
         <image:title><![CDATA[ Samsung Series 5 550 Chromebook 550C22 A01 ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/acer-ac700-1090-chromebook/ ]]></loc>
     <image:image>
@@ -1729,7 +1552,6 @@
         <image:title><![CDATA[ Acer AC700-1090 Chromebook ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/acer-cromia-chromebook/ ]]></loc>
     <image:image>
@@ -1738,7 +1560,6 @@
         <image:title><![CDATA[ Acer AC700-1099 Chromebook ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/samsung-series-5-chromebook-xe500c21-a01us/ ]]></loc>
     <image:image>
@@ -1747,7 +1568,6 @@
         <image:title><![CDATA[ Samsung Series 5 Chromebook 500C21 A01 ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/samsung-series-5-chromebook/ ]]></loc>
     <image:image>
@@ -1756,7 +1576,6 @@
         <image:title><![CDATA[ Samsung Series 5 Chromebook 500C21 A03 ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/samsung-series-5-chromebook-xe500c21-a04us/ ]]></loc>
     <image:image>
@@ -1765,7 +1584,6 @@
         <image:title><![CDATA[ Samsung Series 5 Chromebook 500C21 A04 ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/samsung-series-5-chromebook-xe500c21-h02us/ ]]></loc>
     <image:image>
@@ -1774,7 +1592,6 @@
         <image:title><![CDATA[ Samsung Series 5 Chromebook 500C21 H02 ]]></image:title>
     </image:image>
 </url>
-
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/cr-48-chrome-notebook/ ]]></loc>
     <image:image>
@@ -1783,5 +1600,4 @@
         <image:title><![CDATA[ Cr-48 Chrome Notebook ]]></image:title>
     </image:image>
 </url>
-
 </urlset>

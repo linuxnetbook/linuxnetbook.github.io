@@ -1,11 +1,11 @@
 text {
-  fill: #444444;
+  fill: #444;
   font-size: 13px;
 }
 
 .country {
-  fill: #eeeeee;
-  stroke: #bbbbbb;
+  fill: #eee;
+  stroke: #bbb;
   stroke-width: 1px;
 }
 
@@ -14,6 +14,6 @@ text {
 }
 
 rect {
-  stroke: #bbbbbb;
+  stroke: #bbb;
   stroke-width: 0.5px;
 }
