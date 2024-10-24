@@ -617,6 +617,14 @@
     </image:image>
 </url>
 <url>
+    <loc><![CDATA[ https://www.linux-netbook.com/asus-chromebook-cm1402cm2a-ds44/ ]]></loc>
+    <image:image>
+        <image:loc><![CDATA[ https://www.linux-netbook.com/img/large/asus-chromebook-cm1402cm2a-ds44.jpg ]]></image:loc>
+        <image:caption><![CDATA[ ASUS Chromebook CM14 ]]></image:caption>
+        <image:title><![CDATA[ ASUS Chromebook CM14 ]]></image:title>
+    </image:image>
+</url>
+<url>
     <loc><![CDATA[ https://www.linux-netbook.com/acer-chromebook-nx.y5raa.002/ ]]></loc>
     <image:image>
         <image:loc><![CDATA[ https://www.linux-netbook.com/img/large/acer-chromebook-nx.y5raa.002.jpg ]]></image:loc>

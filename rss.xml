@@ -7,6 +7,13 @@
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
+        <title><![CDATA[ASUS Chromebook CM14]]></title>
+        <link><![CDATA[https://www.linux-netbook.com/asus-chromebook-cm1402cm2a-ds44/]]></link>
+        <description><![CDATA[A durable and responsive Chromebook featuring the MediaTek Kompanio 520 processor.]]></description>
+        <guid><![CDATA[https://www.linux-netbook.com/asus-chromebook-cm1402cm2a-ds44/]]></guid>
+        <pubDate>Fri, 25 Oct 2024 00:01:42 </pubDate>
+    </item>
+    <item>
         <title><![CDATA[Acer Gateway Chromebook 311 CBO311-1H-C1MX]]></title>
         <link><![CDATA[https://www.linux-netbook.com/acer-chromebook-nx.y5raa.002/]]></link>
         <description><![CDATA[The Acer Gateway Chromebook 311 offers a seamless ChromeOS experience with fast performance and robust security features.]]></description>
@@ -68,12 +75,5 @@
         <description><![CDATA[The Lenovo ThinkPad 13 Chromebook 20GL0000US is a slim and light laptop built for business and education.]]></description>
         <guid><![CDATA[https://www.linux-netbook.com/lenovo-thinkpad-13-chromebook-20gl0000us/]]></guid>
         <pubDate>Thu, 19 Jan 2017 19:43:30 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Lenovo Chromebook N22 80VH0001US]]></title>
-        <link><![CDATA[https://www.linux-netbook.com/lenovo-chromebook-n22-80vh0001us/]]></link>
-        <description><![CDATA[The Lenovo N22 Chromebook is an affordable, portable Chromebook with a 11.6-inch IPS touchscreen display.]]></description>
-        <guid><![CDATA[https://www.linux-netbook.com/lenovo-chromebook-n22-80vh0001us/]]></guid>
-        <pubDate>Thu, 19 Jan 2017 19:16:50 </pubDate>
     </item>
 </channel></rss>
