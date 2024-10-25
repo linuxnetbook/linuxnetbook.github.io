@@ -7,6 +7,13 @@
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
+        <title><![CDATA[ASUS Chromebook CX1]]></title>
+        <link><![CDATA[https://www.linux-netbook.com/asus-chromebook-cx1500cka-as84f/]]></link>
+        <description><![CDATA[Durable and lightweight Chromebook with long battery life and comprehensive connectivity options.]]></description>
+        <guid><![CDATA[https://www.linux-netbook.com/asus-chromebook-cx1500cka-as84f/]]></guid>
+        <pubDate>Fri, 25 Oct 2024 17:01:01 </pubDate>
+    </item>
+    <item>
         <title><![CDATA[ASUS Chromebook CM14]]></title>
         <link><![CDATA[https://www.linux-netbook.com/asus-chromebook-cm1402cm2a-ds44/]]></link>
         <description><![CDATA[A durable and responsive Chromebook featuring the MediaTek Kompanio 520 processor.]]></description>
@@ -68,12 +75,5 @@
         <description><![CDATA[The Acer Chromebook 15 CB5-571 362Q is a 15.6-inch screen laptop powered by a 2.0 GHz dual-core Intel Core i3 CPU and equipped with 4 GB RAM and 32 GB SSD storage.]]></description>
         <guid><![CDATA[https://www.linux-netbook.com/acer-chromebook-15-cb5-571-362q/]]></guid>
         <pubDate>Fri, 20 Jan 2017 14:17:38 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Lenovo ThinkPad 13 Chromebook 20GL0000US]]></title>
-        <link><![CDATA[https://www.linux-netbook.com/lenovo-thinkpad-13-chromebook-20gl0000us/]]></link>
-        <description><![CDATA[The Lenovo ThinkPad 13 Chromebook 20GL0000US is a slim and light laptop built for business and education.]]></description>
-        <guid><![CDATA[https://www.linux-netbook.com/lenovo-thinkpad-13-chromebook-20gl0000us/]]></guid>
-        <pubDate>Thu, 19 Jan 2017 19:43:30 </pubDate>
     </item>
 </channel></rss>
