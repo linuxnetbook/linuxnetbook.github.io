@@ -617,6 +617,30 @@
     </image:image>
 </url>
 <url>
+    <loc><![CDATA[ https://www.linux-netbook.com/lenovo-chromebook-82n4003cus/ ]]></loc>
+    <image:image>
+        <image:loc><![CDATA[ https://www.linux-netbook.com/img/large/lenovo-chromebook-82n4003cus.jpg ]]></image:loc>
+        <image:caption><![CDATA[ Lenovo IdeaPad 3i Chromebook ]]></image:caption>
+        <image:title><![CDATA[ Lenovo IdeaPad 3i Chromebook 82N4003CUS ]]></image:title>
+    </image:image>
+</url>
+<url>
+    <loc><![CDATA[ https://www.linux-netbook.com/lenovo-chromebook-81h00000us/ ]]></loc>
+    <image:image>
+        <image:loc><![CDATA[ https://www.linux-netbook.com/img/large/lenovo-chromebook-81h00000us.jpg ]]></image:loc>
+        <image:caption><![CDATA[ Lenovo 300e Touchscreen Chromebook ]]></image:caption>
+        <image:title><![CDATA[ Lenovo 300e Touchscreen Chromebook ]]></image:title>
+    </image:image>
+</url>
+<url>
+    <loc><![CDATA[ https://www.linux-netbook.com/hp-chromebook-14a-na0226nr/ ]]></loc>
+    <image:image>
+        <image:loc><![CDATA[ https://www.linux-netbook.com/img/large/hp-chromebook-14a-na0226nr.jpg ]]></image:loc>
+        <image:caption><![CDATA[ HP Chromebook 14 ]]></image:caption>
+        <image:title><![CDATA[ HP Chromebook 14 14a-na0226nr ]]></image:title>
+    </image:image>
+</url>
+<url>
     <loc><![CDATA[ https://www.linux-netbook.com/asus-chromebook-cx1500cka-as84f/ ]]></loc>
     <image:image>
         <image:loc><![CDATA[ https://www.linux-netbook.com/img/large/asus-chromebook-cx1500cka-as84f.jpg ]]></image:loc>
