@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
     <url>
+        <loc><![CDATA[https://www.linux-netbook.com/video/unboxing-and-initial-review-of-the-2024-acer-chromebook-311/ ]]></loc>
+        <video:video>
+            <video:thumbnail_loc>https://i.ytimg.com/vi/V7iwk3VFSZE/default.jpg</video:thumbnail_loc>
+            <video:title><![CDATA[ Unboxing and Initial Review of the 2024 Acer Chromebook 311 ]]></video:title>
+            <video:description><![CDATA[ Unboxing the 2024 Acer Chromebook 311: Lightweight, eco-friendly, good for students and budget-conscious users. ]]></video:description>
+            <video:player_loc allow_embed="yes" autoplay="ap=1">https://youtube.googleapis.com/v/V7iwk3VFSZE</video:player_loc>
+            <video:family_friendly>yes</video:family_friendly>
+        </video:video>
+    </url>
+    <url>
         <loc><![CDATA[https://www.linux-netbook.com/video/samsung-chromebook-plus-demo-CES-2017/ ]]></loc>
         <video:video>
             <video:thumbnail_loc>https://i.ytimg.com/vi/f7vIQnLG4WY/default.jpg</video:thumbnail_loc>
