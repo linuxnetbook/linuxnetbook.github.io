@@ -7,6 +7,13 @@
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
+        <title><![CDATA[ASUS CX1500CKA Chromebook Review]]></title>
+        <link><![CDATA[https://www.linux-netbook.com/video/asus-c-x1500-cka-chromebook-review/]]></link>
+        <description><![CDATA[Review of the ASUS CX1500CKA Chromebook: Pros, cons, and performance insights for budget-conscious users.]]></description>
+        <guid><![CDATA[https://www.linux-netbook.com/video/asus-c-x1500-cka-chromebook-review/]]></guid>
+        <pubDate>Sun, 27 Oct 2024 01:57:21 </pubDate>
+    </item>
+    <item>
         <title><![CDATA[Unboxing and Initial Review of the 2024 Acer Chromebook 311]]></title>
         <link><![CDATA[https://www.linux-netbook.com/video/unboxing-and-initial-review-of-the-2024-acer-chromebook-311/]]></link>
         <description><![CDATA[Unboxing the 2024 Acer Chromebook 311: Lightweight, eco-friendly, good for students and budget-conscious users.]]></description>
@@ -35,7 +42,7 @@
         <pubDate>Sat, 26 Oct 2024 23:46:09 </pubDate>
     </item>
     <item>
-        <title><![CDATA[ASUS Chromebook CX1]]></title>
+        <title><![CDATA[ASUS Chromebook CX1 CX1500CKA-AS84F]]></title>
         <link><![CDATA[https://www.linux-netbook.com/asus-chromebook-cx1500cka-as84f/]]></link>
         <description><![CDATA[Durable and lightweight Chromebook with long battery life and comprehensive connectivity options.]]></description>
         <guid><![CDATA[https://www.linux-netbook.com/asus-chromebook-cx1500cka-as84f/]]></guid>
@@ -68,12 +75,5 @@
         <description><![CDATA[A funny t-shirt for fans of Linux that suggests to close Windows and run Linux instead to have a more joyful life when spending time with your computer.]]></description>
         <guid><![CDATA[https://www.linux-netbook.com/product/shirt/close-windows-and-run-linux/]]></guid>
         <pubDate>Fri, 10 Mar 2017 22:20:22 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Acer Chromebook R 11 CB5-132T-C8ZW]]></title>
-        <link><![CDATA[https://www.linux-netbook.com/acer-chromebook-r-11-cb5-132t-c8zw/]]></link>
-        <description><![CDATA[The Acer Chromebook R 11 CB5-132T-C8ZW is an 11.6-inch laptop powered by a 1.6 GHz dual-core Intel Celeron N3060 processor.]]></description>
-        <guid><![CDATA[https://www.linux-netbook.com/acer-chromebook-r-11-cb5-132t-c8zw/]]></guid>
-        <pubDate>Sat, 18 Feb 2017 16:09:49 </pubDate>
     </item>
 </channel></rss>
