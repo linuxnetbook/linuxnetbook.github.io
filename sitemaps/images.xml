@@ -617,6 +617,46 @@
     </image:image>
 </url>
 <url>
+    <loc><![CDATA[ https://www.linux-netbook.com/lenovo-chromebook-82t3001nus/ ]]></loc>
+    <image:image>
+        <image:loc><![CDATA[ https://www.linux-netbook.com/img/large/lenovo-chromebook-82t3001nus.jpg ]]></image:loc>
+        <image:caption><![CDATA[ Lenovo IdeaPad Flex 3i Chromebook 82T3001NUS ]]></image:caption>
+        <image:title><![CDATA[ Lenovo IdeaPad Flex 3i Chromebook 82T3001NUS ]]></image:title>
+    </image:image>
+</url>
+<url>
+    <loc><![CDATA[ https://www.linux-netbook.com/hp-chromebook-15a-na2/ ]]></loc>
+    <image:image>
+        <image:loc><![CDATA[ https://www.linux-netbook.com/img/large/hp-chromebook-15a-na2.jpg ]]></image:loc>
+        <image:caption><![CDATA[ HP Chromebook 15 15a-na2 Premium Laptop ]]></image:caption>
+        <image:title><![CDATA[ HP Chromebook 15 15a-na2 Premium Laptop ]]></image:title>
+    </image:image>
+</url>
+<url>
+    <loc><![CDATA[ https://www.linux-netbook.com/hp-chromebook-14a-nf0009n/ ]]></loc>
+    <image:image>
+        <image:loc><![CDATA[ https://www.linux-netbook.com/img/large/hp-chromebook-14a-nf0009n.jpg ]]></image:loc>
+        <image:caption><![CDATA[ HP Chromebook 14 14a-nf0009n ]]></image:caption>
+        <image:title><![CDATA[ HP Chromebook 14 14a-nf0009n ]]></image:title>
+    </image:image>
+</url>
+<url>
+    <loc><![CDATA[ https://www.linux-netbook.com/hp-chromebook-14a-ca0022nr/ ]]></loc>
+    <image:image>
+        <image:loc><![CDATA[ https://www.linux-netbook.com/img/large/hp-chromebook-14a-ca0022nr.jpg ]]></image:loc>
+        <image:caption><![CDATA[ HP Chromebook x360 14a 2-in-1 Laptop ]]></image:caption>
+        <image:title><![CDATA[ HP Chromebook x360 14a 14a-ca0022nr 2-in-1 Laptop ]]></image:title>
+    </image:image>
+</url>
+<url>
+    <loc><![CDATA[ https://www.linux-netbook.com/asus-chromebook-cx1400cka-as44f/ ]]></loc>
+    <image:image>
+        <image:loc><![CDATA[ https://www.linux-netbook.com/img/large/asus-chromebook-cx1400cka-as44f.jpg ]]></image:loc>
+        <image:caption><![CDATA[ ASUS Chromebook CX1 CX1400CKA-AS44F ]]></image:caption>
+        <image:title><![CDATA[ ASUS Chromebook CX1 CX1400CKA-AS44F ]]></image:title>
+    </image:image>
+</url>
+<url>
     <loc><![CDATA[ https://www.linux-netbook.com/lenovo-chromebook-82n4003cus/ ]]></loc>
     <image:image>
         <image:loc><![CDATA[ https://www.linux-netbook.com/img/large/lenovo-chromebook-82n4003cus.jpg ]]></image:loc>
@@ -653,7 +693,7 @@
     <image:image>
         <image:loc><![CDATA[ https://www.linux-netbook.com/img/large/asus-chromebook-cm1402cm2a-ds44.jpg ]]></image:loc>
         <image:caption><![CDATA[ ASUS Chromebook CM14 ]]></image:caption>
-        <image:title><![CDATA[ ASUS Chromebook CM14 ]]></image:title>
+        <image:title><![CDATA[ ASUS Chromebook CM14 CM1402CM2A-DS44 ]]></image:title>
     </image:image>
 </url>
 <url>
