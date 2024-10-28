@@ -1,6 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
     <url>
+        <loc><![CDATA[https://www.linux-netbook.com/video/acer-chromebook-spin-513-video-review/ ]]></loc>
+        <video:video>
+            <video:thumbnail_loc>https://i.ytimg.com/vi/w51rZgaUqA4/default.jpg</video:thumbnail_loc>
+            <video:title><![CDATA[ Acer Chromebook Spin 513 Video Review ]]></video:title>
+            <video:description><![CDATA[ The Acer Chromebook Spin 513 is a 13.3-inch convertible laptop that has caught the attention of many tech enthusiasts. ]]></video:description>
+            <video:player_loc allow_embed="yes" autoplay="ap=1">https://youtube.googleapis.com/v/w51rZgaUqA4</video:player_loc>
+            <video:family_friendly>yes</video:family_friendly>
+        </video:video>
+    </url>
+    <url>
+        <loc><![CDATA[https://www.linux-netbook.com/video/asus-chromebook-plus-c-x34-c-x3402-cba-video-demo-and-review/ ]]></loc>
+        <video:video>
+            <video:thumbnail_loc>https://i.ytimg.com/vi/O6w07enZFw4/default.jpg</video:thumbnail_loc>
+            <video:title><![CDATA[ ASUS Chromebook Plus CX34 CX3402CBA Video Demo and Review ]]></video:title>
+            <video:description><![CDATA[ The ASUS Chromebook Plus CX34 is a 14-inch laptop that aims to deliver solid performance without breaking the bank. This review breaks down its key features. ]]></video:description>
+            <video:player_loc allow_embed="yes" autoplay="ap=1">https://youtube.googleapis.com/v/O6w07enZFw4</video:player_loc>
+            <video:family_friendly>yes</video:family_friendly>
+        </video:video>
+    </url>
+    <url>
+        <loc><![CDATA[https://www.linux-netbook.com/video/review-of-the-lenovo-flex-3i-chromebook-82-t3000-luk/ ]]></loc>
+        <video:video>
+            <video:thumbnail_loc>https://i.ytimg.com/vi/cHoHmUviE8M/default.jpg</video:thumbnail_loc>
+            <video:title><![CDATA[ Review of the Lenovo Flex 3i Chromebook 82T3000LUK ]]></video:title>
+            <video:description><![CDATA[ The video is a review of the Lenovo Flex 3i Chromebook, a 15.6-inch convertible laptop. The reviewer highlights its large screen, versatility, and affordability. ]]></video:description>
+            <video:player_loc allow_embed="yes" autoplay="ap=1">https://youtube.googleapis.com/v/cHoHmUviE8M</video:player_loc>
+            <video:family_friendly>yes</video:family_friendly>
+        </video:video>
+    </url>
+    <url>
         <loc><![CDATA[https://www.linux-netbook.com/video/asus-c-x1500-cka-chromebook-review/ ]]></loc>
         <video:video>
             <video:thumbnail_loc>https://i.ytimg.com/vi/b8_-EcMwjVM/default.jpg</video:thumbnail_loc>
