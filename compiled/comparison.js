@@ -63,6 +63,9 @@ function row(values, label) {
   return tr;
 }
 function show(specs) {
+  document.title = 'Laptop Comparison: ' + specs.map(function (spec) {
+    return spec.title;
+  }).join(' vs ');
   var thead = document.getElementsByTagName('thead')[0];
   var tbody = document.getElementsByTagName('tbody')[0];
   thead.appendChild(row(specs.map(function (spec) {
@@ -110,4 +113,7 @@ function show(specs) {
   tbody.appendChild(row(specs.map(function (spec) {
     return formatDate(spec.released);
   }), 'Released'));
+  tbody.appendChild(row(specs.map(function (spec) {
+    return "<a class=\"btn btn-warning\" href=\"https://www.amazon.com/s?k=".concat(encodeURIComponent(spec.title), "&tag=linux-netbook-20\"><i class=\"fa fa-shopping-cart\"></i> Search Amazon</a>");
+  }), '', 'td', 'html'));
 }
