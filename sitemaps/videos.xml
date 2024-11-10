@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
     <url>
+        <loc><![CDATA[https://www.linux-netbook.com/video/acer-chromebook-311-cb311-12h-video-review/ ]]></loc>
+        <video:video>
+            <video:thumbnail_loc>https://i.ytimg.com/vi/6J43FuazENw/default.jpg</video:thumbnail_loc>
+            <video:title><![CDATA[ Acer Chromebook 311 (CB311-12H / CB311-12HT) Video Review ]]></video:title>
+            <video:description><![CDATA[ The Acer Chromebook 311 suits its purpose as a basic device well, particularly for educational and casual tasks. ]]></video:description>
+            <video:player_loc allow_embed="yes" autoplay="ap=1">https://youtube.googleapis.com/v/6J43FuazENw</video:player_loc>
+            <video:family_friendly>yes</video:family_friendly>
+        </video:video>
+    </url>
+    <url>
         <loc><![CDATA[https://www.linux-netbook.com/video/acer-chromebook-spin-513-video-review/ ]]></loc>
         <video:video>
             <video:thumbnail_loc>https://i.ytimg.com/vi/w51rZgaUqA4/default.jpg</video:thumbnail_loc>
