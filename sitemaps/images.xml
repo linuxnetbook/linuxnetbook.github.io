@@ -617,14 +617,6 @@
     </image:image>
 </url>
 <url>
-    <loc><![CDATA[ https://www.linux-netbook.com/hp-chromebook-14a-ca0030wm/ ]]></loc>
-    <image:image>
-        <image:loc><![CDATA[ https://www.linux-netbook.com/img/large/hp-chromebook-14a-ca0030wm.jpg ]]></image:loc>
-        <image:caption><![CDATA[ HP Chromebook X360 14a 14a-ca0030wm Touchscreen Laptop ]]></image:caption>
-        <image:title><![CDATA[ HP Chromebook X360 14a 14a-ca0030wm Touchscreen Laptop ]]></image:title>
-    </image:image>
-</url>
-<url>
     <loc><![CDATA[ https://www.linux-netbook.com/samsung-chromebook-xe310xba/ ]]></loc>
     <image:image>
         <image:loc><![CDATA[ https://www.linux-netbook.com/img/large/samsung-chromebook-xe310xba.jpg ]]></image:loc>
@@ -638,6 +630,14 @@
         <image:loc><![CDATA[ https://www.linux-netbook.com/img/large/lenovo-chromebook-82b80006ux.jpg ]]></image:loc>
         <image:caption><![CDATA[ Lenovo Chromebook Flex 5 82B80006UX Touchscreen Laptop ]]></image:caption>
         <image:title><![CDATA[ Lenovo Chromebook Flex 5 82B80006UX Touchscreen Laptop ]]></image:title>
+    </image:image>
+</url>
+<url>
+    <loc><![CDATA[ https://www.linux-netbook.com/hp-chromebook-14a-ca0030wm/ ]]></loc>
+    <image:image>
+        <image:loc><![CDATA[ https://www.linux-netbook.com/img/large/hp-chromebook-14a-ca0030wm.jpg ]]></image:loc>
+        <image:caption><![CDATA[ HP Chromebook X360 14a-ca0030wm Convertible Touchscreen Laptop ]]></image:caption>
+        <image:title><![CDATA[ HP Chromebook X360 14a-ca0030wm Convertible Touchscreen Laptop ]]></image:title>
     </image:image>
 </url>
 <url>
