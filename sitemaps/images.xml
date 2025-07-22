@@ -617,6 +617,30 @@
     </image:image>
 </url>
 <url>
+    <loc><![CDATA[ https://www.linux-netbook.com/lenovo-ideapad-slim-3/ ]]></loc>
+    <image:image>
+        <image:loc><![CDATA[ https://www.linux-netbook.com/img/large/lenovo-ideapad-slim-3.jpg ]]></image:loc>
+        <image:caption><![CDATA[ Lenovo IdeaPad Slim 3 Chromebook - 14-inch Student Laptop ]]></image:caption>
+        <image:title><![CDATA[ Lenovo IdeaPad Slim 3 Chromebook - 14-inch Student Laptop ]]></image:title>
+    </image:image>
+</url>
+<url>
+    <loc><![CDATA[ https://www.linux-netbook.com/samsung-chromebook-xe310xba-ka1us/ ]]></loc>
+    <image:image>
+        <image:loc><![CDATA[ https://www.linux-netbook.com/img/large/samsung-chromebook-xe310xba-ka1us.jpg ]]></image:loc>
+        <image:caption><![CDATA[ Samsung Chromebook 4 XE310XBA-KA1US - 11.6-inch Laptop ]]></image:caption>
+        <image:title><![CDATA[ Samsung Chromebook 4 XE310XBA-KA1US - 11.6-inch Laptop ]]></image:title>
+    </image:image>
+</url>
+<url>
+    <loc><![CDATA[ https://www.linux-netbook.com/samsung-chromebook-xe340xda-ka2us/ ]]></loc>
+    <image:image>
+        <image:loc><![CDATA[ https://www.linux-netbook.com/img/large/samsung-chromebook-xe340xda-ka2us.jpg ]]></image:loc>
+        <image:caption><![CDATA[ Galaxy Chromebook XE340XDA-KA2US 14-inch Student Laptop ]]></image:caption>
+        <image:title><![CDATA[ Galaxy Chromebook XE340XDA-KA2US 14-inch Student Laptop ]]></image:title>
+    </image:image>
+</url>
+<url>
     <loc><![CDATA[ https://www.linux-netbook.com/samsung-chromebook-xe350xba-k01us/ ]]></loc>
     <image:image>
         <image:loc><![CDATA[ https://www.linux-netbook.com/img/large/samsung-chromebook-xe350xba-k01us.jpg ]]></image:loc>
@@ -628,8 +652,8 @@
     <loc><![CDATA[ https://www.linux-netbook.com/samsung-chromebook-xe310xba-k01us/ ]]></loc>
     <image:image>
         <image:loc><![CDATA[ https://www.linux-netbook.com/img/large/samsung-chromebook-xe310xba-k01us.jpg ]]></image:loc>
-        <image:caption><![CDATA[ Samsung Chromebook 4 XE310XBA-K01US 11.6-inch Laptop ]]></image:caption>
-        <image:title><![CDATA[ Samsung Chromebook 4 XE310XBA-K01US 11.6-inch Laptop ]]></image:title>
+        <image:caption><![CDATA[ Samsung Chromebook 4 XE310XBA-K01US - 11.6-inch Laptop ]]></image:caption>
+        <image:title><![CDATA[ Samsung Chromebook 4 XE310XBA-K01US - 11.6-inch Laptop ]]></image:title>
     </image:image>
 </url>
 <url>
