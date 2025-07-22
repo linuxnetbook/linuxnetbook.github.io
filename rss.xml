@@ -7,6 +7,34 @@
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
+        <title><![CDATA[Samsung Chromebook XE350XBA-K01US 15.6-inch Full HD Laptop]]></title>
+        <link><![CDATA[https://www.linux-netbook.com/samsung-chromebook-xe350xba-k01us/]]></link>
+        <description><![CDATA[Compact and durable Chromebook with a 15.6-inch display, advanced security features, and excellent connectivity.]]></description>
+        <guid><![CDATA[https://www.linux-netbook.com/samsung-chromebook-xe350xba-k01us/]]></guid>
+        <pubDate>Tue, 22 Jul 2025 14:04:39 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Samsung Chromebook 4 XE310XBA-K01US 11.6-inch Laptop]]></title>
+        <link><![CDATA[https://www.linux-netbook.com/samsung-chromebook-xe310xba-k01us/]]></link>
+        <description><![CDATA[A compact, durable Chromebook with advanced connectivity, a long battery life, and Google Assistant support.]]></description>
+        <guid><![CDATA[https://www.linux-netbook.com/samsung-chromebook-xe310xba-k01us/]]></guid>
+        <pubDate>Tue, 22 Jul 2025 13:58:08 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Lenovo Flex IdeaPad 3i 15.6-inch Touchscreen Chromebook]]></title>
+        <link><![CDATA[https://www.linux-netbook.com/lenovo-ideapad-flex-3i-15/]]></link>
+        <description><![CDATA[The Lenovo IdeaPad Flex 3i 15.6-inch Chromebook is a versatile and lightweight device designed to offer a mix of portability, functionality, and performance.]]></description>
+        <guid><![CDATA[https://www.linux-netbook.com/lenovo-ideapad-flex-3i-15/]]></guid>
+        <pubDate>Tue, 22 Jul 2025 13:43:24 </pubDate>
+    </item>
+    <item>
+        <title><![CDATA[Lenovo IdeaPad Flex 3i 2-in-1 12.2 Touchscreen Chromebook]]></title>
+        <link><![CDATA[https://www.linux-netbook.com/lenovo-ideapad-flex-3i-12/]]></link>
+        <description><![CDATA[Student and education-focused Chromebook with versatile modes and long-lasting performance.]]></description>
+        <guid><![CDATA[https://www.linux-netbook.com/lenovo-ideapad-flex-3i-12/]]></guid>
+        <pubDate>Tue, 22 Jul 2025 13:39:02 </pubDate>
+    </item>
+    <item>
         <title><![CDATA[Lenovo IdeaPad 5 16IAU7 - 16-inch Gaming Chromebook]]></title>
         <link><![CDATA[https://www.linux-netbook.com/lenovo-chromebook-16iau7/]]></link>
         <description><![CDATA[The Lenovo IP 5 16IAU7 is a capable Chromebook built with portability and everyday productivity in mind. Powered by a 12th Gen Intel Core i3-1215U processor with 6 cores, it offers smooth multitasking and integrated UHD Graphics for casual tasks.]]></description>
@@ -47,33 +75,5 @@
         <description><![CDATA[The Google Pixelbook Go is a lightweight Chromebook designed for portability, performance, and simplicity. With a slim, grippable design, it combines Intel Core m3 processing, 8GB RAM, and a 64GB SSD with the robust Chrome OS.]]></description>
         <guid><![CDATA[https://www.linux-netbook.com/google-pixelbook-go/]]></guid>
         <pubDate>Mon, 07 Jul 2025 21:05:57 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Dell Latitude 3445 Chromebook - 14-inch Touchscreen Laptop]]></title>
-        <link><![CDATA[https://www.linux-netbook.com/dell-chromebook-3445/]]></link>
-        <description><![CDATA[An accessible 14-inch Chromebook with robust security, efficient AMD Ryzen 5 performance, plenty of memory, and fast SSD storage in a compact, portable form.]]></description>
-        <guid><![CDATA[https://www.linux-netbook.com/dell-chromebook-3445/]]></guid>
-        <pubDate>Mon, 07 Jul 2025 21:01:40 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Acer Chromebook CB315P 15.6in Full HD Laptop]]></title>
-        <link><![CDATA[https://www.linux-netbook.com/acer-chromebook-cb315p/]]></link>
-        <description><![CDATA[A versatile Acer Chromebook featuring a 15.6" Full HD IPS display, Intel Celeron processor, 64GB eMMC storage, and Wi-Fi 6 in a stylish Lavender color.]]></description>
-        <guid><![CDATA[https://www.linux-netbook.com/acer-chromebook-cb315p/]]></guid>
-        <pubDate>Mon, 07 Jul 2025 20:53:37 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Acer Chromebook Plus 515 CB515-2HT-33M4 Laptop with Google AI]]></title>
-        <link><![CDATA[https://www.linux-netbook.com/acer-chromebook-cb515-2ht-33m4/]]></link>
-        <description><![CDATA[A 15.6-inch Chromebook powered by Intel's 13th Gen Core i3 processor, offering AI capabilities and productivity tools with Chrome OS.]]></description>
-        <guid><![CDATA[https://www.linux-netbook.com/acer-chromebook-cb515-2ht-33m4/]]></guid>
-        <pubDate>Mon, 23 Jun 2025 22:59:18 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[HP Chromebook 14a-ne0047nr Laptop]]></title>
-        <link><![CDATA[https://www.linux-netbook.com/hp-chromebook-14a-ne0047nr/]]></link>
-        <description><![CDATA[A budget-friendly, lightweight Chromebook with a modern design, the HP Chromebook 14a-ne0047nr is equipped with a 14-inch HD display, an Intel Celeron N4120 processor, and Chrome OS. It's ideal for students, professionals, and small business users.]]></description>
-        <guid><![CDATA[https://www.linux-netbook.com/hp-chromebook-14a-ne0047nr/]]></guid>
-        <pubDate>Mon, 23 Jun 2025 22:55:01 </pubDate>
     </item>
 </channel></rss>

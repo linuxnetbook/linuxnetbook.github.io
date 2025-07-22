@@ -617,6 +617,38 @@
     </image:image>
 </url>
 <url>
+    <loc><![CDATA[ https://www.linux-netbook.com/samsung-chromebook-xe350xba-k01us/ ]]></loc>
+    <image:image>
+        <image:loc><![CDATA[ https://www.linux-netbook.com/img/large/samsung-chromebook-xe350xba-k01us.jpg ]]></image:loc>
+        <image:caption><![CDATA[ Samsung Chromebook XE350XBA-K01US 15.6-inch Full HD Laptop ]]></image:caption>
+        <image:title><![CDATA[ Samsung Chromebook XE350XBA-K01US 15.6-inch Full HD Laptop ]]></image:title>
+    </image:image>
+</url>
+<url>
+    <loc><![CDATA[ https://www.linux-netbook.com/samsung-chromebook-xe310xba-k01us/ ]]></loc>
+    <image:image>
+        <image:loc><![CDATA[ https://www.linux-netbook.com/img/large/samsung-chromebook-xe310xba-k01us.jpg ]]></image:loc>
+        <image:caption><![CDATA[ Samsung Chromebook 4 XE310XBA-K01US 11.6-inch Laptop ]]></image:caption>
+        <image:title><![CDATA[ Samsung Chromebook 4 XE310XBA-K01US 11.6-inch Laptop ]]></image:title>
+    </image:image>
+</url>
+<url>
+    <loc><![CDATA[ https://www.linux-netbook.com/lenovo-ideapad-flex-3i-15/ ]]></loc>
+    <image:image>
+        <image:loc><![CDATA[ https://www.linux-netbook.com/img/large/lenovo-ideapad-flex-3i-15.jpg ]]></image:loc>
+        <image:caption><![CDATA[ Lenovo Flex IdeaPad 3i 15.6-inch Touchscreen Chromebook ]]></image:caption>
+        <image:title><![CDATA[ Lenovo Flex IdeaPad 3i 15.6-inch Touchscreen Chromebook ]]></image:title>
+    </image:image>
+</url>
+<url>
+    <loc><![CDATA[ https://www.linux-netbook.com/lenovo-ideapad-flex-3i-12/ ]]></loc>
+    <image:image>
+        <image:loc><![CDATA[ https://www.linux-netbook.com/img/large/lenovo-ideapad-flex-3i-12.jpg ]]></image:loc>
+        <image:caption><![CDATA[ Lenovo IdeaPad Flex 3i 2-in-1 12.2 Touchscreen Chromebook ]]></image:caption>
+        <image:title><![CDATA[ Lenovo IdeaPad Flex 3i 2-in-1 12.2 Touchscreen Chromebook ]]></image:title>
+    </image:image>
+</url>
+<url>
     <loc><![CDATA[ https://www.linux-netbook.com/lenovo-chromebook-16iau7/ ]]></loc>
     <image:image>
         <image:loc><![CDATA[ https://www.linux-netbook.com/img/large/lenovo-chromebook-16iau7.jpg ]]></image:loc>
