@@ -7,6 +7,13 @@
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
+        <title><![CDATA[Acer Chromebook Plus 515 CBE595-1T-32PF - Touchscreen Laptop]]></title>
+        <link><![CDATA[https://www.linux-netbook.com/acer-chromebook-cbe595-1t-32pf/]]></link>
+        <description><![CDATA[The Acer Chromebook Plus 515 CBE595-1T-32PF packs a balanced set of features designed to cater to productivity and casual users alike.]]></description>
+        <guid><![CDATA[https://www.linux-netbook.com/acer-chromebook-cbe595-1t-32pf/]]></guid>
+        <pubDate>Mon, 04 Aug 2025 23:11:50 </pubDate>
+    </item>
+    <item>
         <title><![CDATA[HP Chromebook 4M110UA#ABA - Thin & Portable 14-inch Laptop]]></title>
         <link><![CDATA[https://www.linux-netbook.com/hp-chromebook-4m110ua-aba/]]></link>
         <description><![CDATA[A lightweight Chromebook designed for versatility in home, school, or work settings, featuring Chrome OS, a 14-inch HD display, and long battery life.]]></description>
@@ -68,12 +75,5 @@
         <description><![CDATA[Compact and durable Chromebook with a 15.6-inch display, advanced security features, and excellent connectivity.]]></description>
         <guid><![CDATA[https://www.linux-netbook.com/samsung-chromebook-xe350xba-k01us/]]></guid>
         <pubDate>Tue, 22 Jul 2025 14:04:39 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Samsung Chromebook 4 XE310XBA-K01US - 11.6-inch Laptop]]></title>
-        <link><![CDATA[https://www.linux-netbook.com/samsung-chromebook-xe310xba-k01us/]]></link>
-        <description><![CDATA[A compact, durable Chromebook with advanced connectivity, a long battery life, and Google Assistant support.]]></description>
-        <guid><![CDATA[https://www.linux-netbook.com/samsung-chromebook-xe310xba-k01us/]]></guid>
-        <pubDate>Tue, 22 Jul 2025 13:58:08 </pubDate>
     </item>
 </channel></rss>
