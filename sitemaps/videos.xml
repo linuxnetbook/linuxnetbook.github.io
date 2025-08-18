@@ -1365,7 +1365,7 @@
         <video:video>
             <video:thumbnail_loc>https://i.ytimg.com/vi/oiNaadVOQEM/mqdefault.jpg</video:thumbnail_loc>
             <video:title><![CDATA[ A Different Approach to using a Laptop ]]></video:title>
-            <video:description><![CDATA[ I just came across this remarkable video via a tweet by planetshaker76 who suspects a viral marketing campaign of MSI. He's right. MSI currently runs a video ]]></video:description>
+            <video:description><![CDATA[ MSI currently runs a video contest to promote their X-Slim laptop series, asking users to create an extremely crazy video for the chance to win a trip to the Great Barrier Reef. ]]></video:description>
             <video:player_loc allow_embed="yes" autoplay="ap=1">https://youtube.googleapis.com/v/oiNaadVOQEM</video:player_loc>
             <video:family_friendly>yes</video:family_friendly>
         </video:video>
