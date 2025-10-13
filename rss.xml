@@ -7,6 +7,13 @@
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
+        <title><![CDATA[Acer Chromebook 11 C732-C6WU - Chrome OS Laptop]]></title>
+        <link><![CDATA[https://www.linux-netbook.com/acer-chromebook-c732-c6wu/]]></link>
+        <description><![CDATA[Compact and portable Chromebook ideal for cloud-based and web-focused activities, featuring efficient performance and durable build quality.]]></description>
+        <guid><![CDATA[https://www.linux-netbook.com/acer-chromebook-c732-c6wu/]]></guid>
+        <pubDate>Mon, 13 Oct 2025 21:11:16 </pubDate>
+    </item>
+    <item>
         <title><![CDATA[HP Chromebook 14 3PD87UT#ABA - Gray Chrome OS Laptop]]></title>
         <link><![CDATA[https://www.linux-netbook.com/hp-chromebook-3pd87ut-aba/]]></link>
         <description><![CDATA[A HP Chromebook designed for productivity with Intel Celeron performance, 8 GB RAM, 32 GB storage, and Chrome OS in a durable, lightweight body.]]></description>
@@ -68,12 +75,5 @@
         <description><![CDATA[The Acer Chromebook 311 (model NX.A2NAA.004) is designed as a lightweight, entry-level device operating on Chrome OS by Google.]]></description>
         <guid><![CDATA[https://www.linux-netbook.com/acer-chromebook-nx.a2naa.004/]]></guid>
         <pubDate>Mon, 29 Sep 2025 22:02:24 </pubDate>
-    </item>
-    <item>
-        <title><![CDATA[Acer Chromebook 311 CBOA311-1H-C90F - 11.6-inch Laptop]]></title>
-        <link><![CDATA[https://www.linux-netbook.com/acer-chromebook-cboa311-1h-c90f/]]></link>
-        <description><![CDATA[Acer Chromebook 311 CBOA311-1H-C90F is a compact and lightweight Chromebook designed for multitasking, light productivity, and seamless Chrome OS experience.]]></description>
-        <guid><![CDATA[https://www.linux-netbook.com/acer-chromebook-cboa311-1h-c90f/]]></guid>
-        <pubDate>Mon, 29 Sep 2025 21:57:58 </pubDate>
     </item>
 </channel></rss>
