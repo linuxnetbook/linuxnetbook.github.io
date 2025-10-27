@@ -617,6 +617,54 @@
     </image:image>
 </url>
 <url>
+    <loc><![CDATA[ https://www.linux-netbook.com/lenovo-chromebook-81qb0000us/ ]]></loc>
+    <image:image>
+        <image:loc><![CDATA[ https://www.linux-netbook.com/img/large/lenovo-chromebook-81qb0000us.jpg ]]></image:loc>
+        <image:caption><![CDATA[ Lenovo 100E Chromebook 81QB0000US - 11.6-inch ChromeOS Laptop ]]></image:caption>
+        <image:title><![CDATA[ Lenovo 100E Chromebook 81QB0000US - 11.6-inch ChromeOS Laptop ]]></image:title>
+    </image:image>
+</url>
+<url>
+    <loc><![CDATA[ https://www.linux-netbook.com/lenovo-chromebook-81jw0000us/ ]]></loc>
+    <image:image>
+        <image:loc><![CDATA[ https://www.linux-netbook.com/img/large/lenovo-chromebook-81jw0000us.jpg ]]></image:loc>
+        <image:caption><![CDATA[ Lenovo Chromebook 81JW0000US Laptop, 14-Inch FHD Display, MediaTek MT8173C, 4GB RAM, 64GB Storage, Chrome OS ]]></image:caption>
+        <image:title><![CDATA[ Lenovo Chromebook 81JW0000US - 14-Inch FHD ChromeOS Laptop ]]></image:title>
+    </image:image>
+</url>
+<url>
+    <loc><![CDATA[ https://www.linux-netbook.com/acer-chromebook-cb315-3ht/ ]]></loc>
+    <image:image>
+        <image:loc><![CDATA[ https://www.linux-netbook.com/img/large/acer-chromebook-cb315-3ht.jpg ]]></image:loc>
+        <image:caption><![CDATA[ Acer Chromebook CB315-3HT Full HD IPS Touchscreen Laptop ]]></image:caption>
+        <image:title><![CDATA[ Acer Chromebook CB315-3HT Full HD IPS Touchscreen Laptop ]]></image:title>
+    </image:image>
+</url>
+<url>
+    <loc><![CDATA[ https://www.linux-netbook.com/lenovo-chromebook-0075n4_cb/ ]]></loc>
+    <image:image>
+        <image:loc><![CDATA[ https://www.linux-netbook.com/img/large/lenovo-chromebook-0075n4_cb.jpg ]]></image:loc>
+        <image:caption><![CDATA[ Lenovo IdeaPad Chromebook - 14-inch Laptop for School & Work ]]></image:caption>
+        <image:title><![CDATA[ Lenovo IdeaPad Chromebook - 14-inch Laptop for School & Work ]]></image:title>
+    </image:image>
+</url>
+<url>
+    <loc><![CDATA[ https://www.linux-netbook.com/hp-chromebook-975d0ua-abl/ ]]></loc>
+    <image:image>
+        <image:loc><![CDATA[ https://www.linux-netbook.com/img/large/hp-chromebook-975d0ua-abl.jpg ]]></image:loc>
+        <image:caption><![CDATA[ HP Chromebook Plus 15a-nb0003ca - 15.6-inch ChromeOS Laptop ]]></image:caption>
+        <image:title><![CDATA[ HP Chromebook Plus 15a-nb0003ca - 15.6-inch ChromeOS Laptop ]]></image:title>
+    </image:image>
+</url>
+<url>
+    <loc><![CDATA[ https://www.linux-netbook.com/asus-chromebook-cx1400cka-ds84f/ ]]></loc>
+    <image:image>
+        <image:loc><![CDATA[ https://www.linux-netbook.com/img/large/asus-chromebook-cx1400cka-ds84f.jpg ]]></image:loc>
+        <image:caption><![CDATA[ ASUS Chromebook CX1400CKA-DS84F - 14-inch Full HD ChromeOS Laptop ]]></image:caption>
+        <image:title><![CDATA[ ASUS Chromebook CX1400CKA-DS84F - 14-inch Full HD ChromeOS Laptop ]]></image:title>
+    </image:image>
+</url>
+<url>
     <loc><![CDATA[ https://www.linux-netbook.com/samsung-chromebook-xe340xda-ka1us/ ]]></loc>
     <image:image>
         <image:loc><![CDATA[ https://www.linux-netbook.com/img/large/samsung-chromebook-xe340xda-ka1us.jpg ]]></image:loc>
@@ -628,8 +676,8 @@
     <loc><![CDATA[ https://www.linux-netbook.com/lenovo-chromebook-82w0001eus/ ]]></loc>
     <image:image>
         <image:loc><![CDATA[ https://www.linux-netbook.com/img/large/lenovo-chromebook-82w0001eus.jpg ]]></image:loc>
-        <image:caption><![CDATA[ Lenovo 100e Chromebook Gen 4 82W0001EUS - Chrome OS Laptop ]]></image:caption>
-        <image:title><![CDATA[ Lenovo 100e Chromebook Gen 4 82W0001EUS - Chrome OS Laptop ]]></image:title>
+        <image:caption><![CDATA[ Lenovo 100e Chromebook Gen 4 82W0001EUS - ChromeOS Laptop ]]></image:caption>
+        <image:title><![CDATA[ Lenovo 100e Chromebook Gen 4 82W0001EUS - ChromeOS Laptop ]]></image:title>
     </image:image>
 </url>
 <url>
@@ -660,24 +708,24 @@
     <loc><![CDATA[ https://www.linux-netbook.com/acer-chromebook-c732-c6wu/ ]]></loc>
     <image:image>
         <image:loc><![CDATA[ https://www.linux-netbook.com/img/large/acer-chromebook-c732-c6wu.jpg ]]></image:loc>
-        <image:caption><![CDATA[ Acer Chromebook 11 C732-C6WU - Chrome OS Laptop ]]></image:caption>
-        <image:title><![CDATA[ Acer Chromebook 11 C732-C6WU - Chrome OS Laptop ]]></image:title>
+        <image:caption><![CDATA[ Acer Chromebook 11 C732-C6WU - ChromeOS Laptop ]]></image:caption>
+        <image:title><![CDATA[ Acer Chromebook 11 C732-C6WU - ChromeOS Laptop ]]></image:title>
     </image:image>
 </url>
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/hp-chromebook-3pd87ut-aba/ ]]></loc>
     <image:image>
         <image:loc><![CDATA[ https://www.linux-netbook.com/img/large/hp-chromebook-3pd87ut-aba.jpg ]]></image:loc>
-        <image:caption><![CDATA[ HP Chromebook 14 3PD87UT#ABA - Gray Chrome OS Laptop ]]></image:caption>
-        <image:title><![CDATA[ HP Chromebook 14 3PD87UT#ABA - Gray Chrome OS Laptop ]]></image:title>
+        <image:caption><![CDATA[ HP Chromebook 14 3PD87UT#ABA - Gray ChromeOS Laptop ]]></image:caption>
+        <image:title><![CDATA[ HP Chromebook 14 3PD87UT#ABA - Gray ChromeOS Laptop ]]></image:title>
     </image:image>
 </url>
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/hp-chromebook-1a715ut-aba/ ]]></loc>
     <image:image>
         <image:loc><![CDATA[ https://www.linux-netbook.com/img/large/hp-chromebook-1a715ut-aba.jpg ]]></image:loc>
-        <image:caption><![CDATA[ HP Chromebook 14 1A715UT#ABA - Gray Chrome OS Laptop ]]></image:caption>
-        <image:title><![CDATA[ HP Chromebook 14 1A715UT#ABA - Gray Chrome OS Laptop ]]></image:title>
+        <image:caption><![CDATA[ HP Chromebook 14 1A715UT#ABA - Gray ChromeOS Laptop ]]></image:caption>
+        <image:title><![CDATA[ HP Chromebook 14 1A715UT#ABA - Gray ChromeOS Laptop ]]></image:title>
     </image:image>
 </url>
 <url>
@@ -700,16 +748,16 @@
     <loc><![CDATA[ https://www.linux-netbook.com/dell-chromebook-4305u/ ]]></loc>
     <image:image>
         <image:loc><![CDATA[ https://www.linux-netbook.com/img/large/dell-chromebook-4305u.jpg ]]></image:loc>
-        <image:caption><![CDATA[ Dell Latitude 5400 Chromebook 14-inch Chrome OS Laptop ]]></image:caption>
-        <image:title><![CDATA[ Dell Latitude 5400 Chromebook 14-inch Chrome OS Laptop ]]></image:title>
+        <image:caption><![CDATA[ Dell Latitude 5400 Chromebook 14-inch ChromeOS Laptop ]]></image:caption>
+        <image:title><![CDATA[ Dell Latitude 5400 Chromebook 14-inch ChromeOS Laptop ]]></image:title>
     </image:image>
 </url>
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/hp-chromebook-14a-nf0019nr/ ]]></loc>
     <image:image>
         <image:loc><![CDATA[ https://www.linux-netbook.com/img/large/hp-chromebook-14a-nf0019nr.jpg ]]></image:loc>
-        <image:caption><![CDATA[ HP Chromebook 14a-nf0019nr - Chrome OS Laptop ]]></image:caption>
-        <image:title><![CDATA[ HP Chromebook 14a-nf0019nr - Chrome OS Laptop ]]></image:title>
+        <image:caption><![CDATA[ HP Chromebook 14a-nf0019nr - ChromeOS Laptop ]]></image:caption>
+        <image:title><![CDATA[ HP Chromebook 14a-nf0019nr - ChromeOS Laptop ]]></image:title>
     </image:image>
 </url>
 <url>
@@ -724,16 +772,16 @@
     <loc><![CDATA[ https://www.linux-netbook.com/hp-chromebook-1a717ut-aba/ ]]></loc>
     <image:image>
         <image:loc><![CDATA[ https://www.linux-netbook.com/img/large/hp-chromebook-1a717ut-aba.jpg ]]></image:loc>
-        <image:caption><![CDATA[ HP Chromebook 14 G6 1A717UT#ABA - Chrome OS Laptop ]]></image:caption>
-        <image:title><![CDATA[ HP Chromebook 14 G6 1A717UT#ABA - Chrome OS Laptop ]]></image:title>
+        <image:caption><![CDATA[ HP Chromebook 14 G6 1A717UT#ABA - ChromeOS Laptop ]]></image:caption>
+        <image:title><![CDATA[ HP Chromebook 14 G6 1A717UT#ABA - ChromeOS Laptop ]]></image:title>
     </image:image>
 </url>
 <url>
     <loc><![CDATA[ https://www.linux-netbook.com/acer-chromebook-nx.a2naa.004/ ]]></loc>
     <image:image>
         <image:loc><![CDATA[ https://www.linux-netbook.com/img/large/acer-chromebook-nx.a2naa.004.jpg ]]></image:loc>
-        <image:caption><![CDATA[ Acer Chromebook 311 NX.A2NAA.004 - Chrome OS Laptop ]]></image:caption>
-        <image:title><![CDATA[ Acer Chromebook 311 NX.A2NAA.004 - Chrome OS Laptop ]]></image:title>
+        <image:caption><![CDATA[ Acer Chromebook 311 NX.A2NAA.004 - ChromeOS Laptop ]]></image:caption>
+        <image:title><![CDATA[ Acer Chromebook 311 NX.A2NAA.004 - ChromeOS Laptop ]]></image:title>
     </image:image>
 </url>
 <url>
@@ -1124,16 +1172,8 @@
     <loc><![CDATA[ https://www.linux-netbook.com/hp-chromebook-15a-na002/ ]]></loc>
     <image:image>
         <image:loc><![CDATA[ https://www.linux-netbook.com/img/large/hp-chromebook-15a-na002.jpg ]]></image:loc>
-        <image:caption><![CDATA[ HP Chromebook 15a-na002 - 15.6 Inch Chrome OS Laptop ]]></image:caption>
-        <image:title><![CDATA[ HP Chromebook 15a-na002 - 15.6 Inch Chrome OS Laptop ]]></image:title>
-    </image:image>
-</url>
-<url>
-    <loc><![CDATA[ https://www.linux-netbook.com/acer-chromebook-cb315-3ht/ ]]></loc>
-    <image:image>
-        <image:loc><![CDATA[ https://www.linux-netbook.com/img/large/acer-chromebook-cb315-3ht.jpg ]]></image:loc>
-        <image:caption><![CDATA[ Acer Chromebook CB315-3HT Full HD IPS Touchscreen Laptop ]]></image:caption>
-        <image:title><![CDATA[ Acer Chromebook CB315-3HT Full HD IPS Touchscreen Laptop ]]></image:title>
+        <image:caption><![CDATA[ HP Chromebook 15a-na002 - 15.6 Inch ChromeOS Laptop ]]></image:caption>
+        <image:title><![CDATA[ HP Chromebook 15a-na002 - 15.6 Inch ChromeOS Laptop ]]></image:title>
     </image:image>
 </url>
 <url>

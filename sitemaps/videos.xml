@@ -655,7 +655,7 @@
         <video:video>
             <video:thumbnail_loc>https://i.ytimg.com/vi/lt36ePmOMKI/mqdefault.jpg</video:thumbnail_loc>
             <video:title><![CDATA[ Critical Review of the Samsung Series 5 Chromebook ]]></video:title>
-            <video:description><![CDATA[ If you consider buying a Samsung Series 5 Chrome OS laptop you should think about the peculiarities that go along with using an operating system that mainly ]]></video:description>
+            <video:description><![CDATA[ If you consider buying a Samsung Series 5 ChromeOS Laptop you should think about the peculiarities that go along with using an operating system that mainly ]]></video:description>
             <video:player_loc allow_embed="yes" autoplay="ap=1">https://youtube.googleapis.com/v/lt36ePmOMKI</video:player_loc>
             <video:family_friendly>yes</video:family_friendly>
         </video:video>
